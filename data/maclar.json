@@ -431,11 +431,11 @@
     "away_id": 553,
     "home_logo": "https://media.api-sports.io/football/teams/94.png",
     "away_logo": "https://media.api-sports.io/football/teams/553.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Roazhon Park"
   },
@@ -451,11 +451,11 @@
     "away_id": 541,
     "home_logo": "https://media.api-sports.io/football/teams/575.png",
     "away_logo": "https://media.api-sports.io/football/teams/541.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 11,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Allwyn Arena"
   },
@@ -471,11 +471,11 @@
     "away_id": 40,
     "home_logo": "https://media.api-sports.io/football/teams/611.png",
     "away_logo": "https://media.api-sports.io/football/teams/40.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 10,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Chobani Stadium"
   },

@@ -157,5 +157,267 @@
       }
     ],
     "updated_at": "2026-11-04T17:22:06.224798+03:00"
+  },
+  "1635606": {
+    "statistics": [
+      {
+        "team": {
+          "id": 575,
+          "name": "AEK Athens FC",
+          "logo": "https://media.api-sports.io/football/teams/575.png"
+        },
+        "statistics": [
+          {
+            "type": "expected_goals",
+            "value": "0.19"
+          },
+          {
+            "type": "Passes accurate",
+            "value": 32
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 1
+          },
+          {
+            "type": "Free Kicks",
+            "value": 3
+          },
+          {
+            "type": "Shots on Goal",
+            "value": 1
+          },
+          {
+            "type": "Total passes",
+            "value": 38
+          },
+          {
+            "type": "Total Shots",
+            "value": 1
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 0
+          },
+          {
+            "type": "Fouls",
+            "value": 1
+          },
+          {
+            "type": "Red Cards",
+            "value": 0
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 0
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 0
+          },
+          {
+            "type": "Ball Possession",
+            "value": "32%"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 541,
+          "name": "Real Madrid",
+          "logo": "https://media.api-sports.io/football/teams/541.png"
+        },
+        "statistics": [
+          {
+            "type": "expected_goals",
+            "value": "0"
+          },
+          {
+            "type": "Passes accurate",
+            "value": 74
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 0
+          },
+          {
+            "type": "Free Kicks",
+            "value": 1
+          },
+          {
+            "type": "Shots on Goal",
+            "value": 0
+          },
+          {
+            "type": "Total passes",
+            "value": 80
+          },
+          {
+            "type": "Total Shots",
+            "value": 0
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 2
+          },
+          {
+            "type": "Fouls",
+            "value": 3
+          },
+          {
+            "type": "Red Cards",
+            "value": 0
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 0
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 0
+          },
+          {
+            "type": "Ball Possession",
+            "value": "68%"
+          }
+        ]
+      }
+    ],
+    "updated_at": "2026-11-04T20:57:59.174088+03:00"
+  },
+  "1635658": {
+    "statistics": [
+      {
+        "team": {
+          "id": 611,
+          "name": "Fenerbahçe",
+          "logo": "https://media.api-sports.io/football/teams/611.png"
+        },
+        "statistics": [
+          {
+            "type": "expected_goals",
+            "value": "0"
+          },
+          {
+            "type": "Passes accurate",
+            "value": 25
+          },
+          {
+            "type": "Free Kicks",
+            "value": 1
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 1
+          },
+          {
+            "type": "Total passes",
+            "value": 36
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 0
+          },
+          {
+            "type": "Shots on Goal",
+            "value": 0
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 0
+          },
+          {
+            "type": "Total Shots",
+            "value": 0
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 0
+          },
+          {
+            "type": "Fouls",
+            "value": 2
+          },
+          {
+            "type": "Red Cards",
+            "value": 0
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 0
+          },
+          {
+            "type": "Ball Possession",
+            "value": "39%"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 40,
+          "name": "Liverpool",
+          "logo": "https://media.api-sports.io/football/teams/40.png"
+        },
+        "statistics": [
+          {
+            "type": "expected_goals",
+            "value": "0.5"
+          },
+          {
+            "type": "Passes accurate",
+            "value": 55
+          },
+          {
+            "type": "Free Kicks",
+            "value": 1
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 0
+          },
+          {
+            "type": "Total passes",
+            "value": 62
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 4
+          },
+          {
+            "type": "Shots on Goal",
+            "value": 1
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 3
+          },
+          {
+            "type": "Total Shots",
+            "value": 4
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 1
+          },
+          {
+            "type": "Fouls",
+            "value": 1
+          },
+          {
+            "type": "Red Cards",
+            "value": 0
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 0
+          },
+          {
+            "type": "Ball Possession",
+            "value": "61%"
+          }
+        ]
+      }
+    ],
+    "updated_at": "2026-11-04T20:57:59.174088+03:00"
   }
 }
