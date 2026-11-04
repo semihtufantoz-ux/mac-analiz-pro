@@ -1,49 +1,121 @@
+import os, json, urllib.request, urllib.parse, datetime, pathlib, time
 
-import os
-import json
-import urllib.request
-import urllib.parse
-from datetime import datetime, timedelta
-from zoneinfo import ZoneInfo
+ROOT = pathlib.Path(__file__).resolve().parents[1]
+DATA = ROOT / 'data'
+DATA.mkdir(exist_ok=True)
+KEY = os.environ.get('API_FOOTBALL_KEY', '').strip()
+BASE = 'https://v3.football.api-sports.io'
 
-API_KEY = os.environ["API_FOOTBALL_KEY"]
-URL = "https://v3.football.api-sports.io/fixtures"
+LEAGUES = {
+    39: ('İngiltere','Premier League'), 40: ('İngiltere','Championship'),
+    45: ('İngiltere','FA Cup'), 48: ('İngiltere','EFL Cup'),
+    78: ('Almanya','Bundesliga'), 79: ('Almanya','2. Bundesliga'),
+    81: ('Almanya','DFB-Pokal'),
+    140: ('İspanya','La Liga'), 141: ('İspanya','La Liga 2'),
+    143: ('İspanya','Copa del Rey'),
+    135: ('İtalya','Serie A'), 136: ('İtalya','Serie B'),
+    137: ('İtalya','Coppa Italia'),
+    88: ('Hollanda','Eredivisie'), 89: ('Hollanda','Eerste Divisie'),
+    90: ('Hollanda','KNVB Kupası'),
+    61: ('Fransa','Ligue 1'), 62: ('Fransa','Ligue 2'),
+    66: ('Fransa','Coupe de France'),
+    203: ('Türkiye','Süper Lig'), 204: ('Türkiye','1. Lig'),
+    206: ('Türkiye','Türkiye Kupası'),
+    2: ('Avrupa','Şampiyonlar Ligi'), 3: ('Avrupa','Avrupa Ligi'),
+    848: ('Avrupa','Konferans Ligi'), 531: ('Avrupa','UEFA Süper Kupa'),
+}
+LIVE = {'1H','2H','HT','ET','BT','P','INT','LIVE'}
+FINISHED = {'FT','AET','PEN'}
 
-today = datetime.now(ZoneInfo("Europe/Istanbul")).date()
-matches = []
+def get(path, params=None):
+    if not KEY:
+        raise RuntimeError('API_FOOTBALL_KEY GitHub secret eksik')
+    url = BASE + path + ('?' + urllib.parse.urlencode(params) if params else '')
+    req = urllib.request.Request(url, headers={'x-apisports-key': KEY})
+    with urllib.request.urlopen(req, timeout=35) as response:
+        payload = json.load(response)
+    if payload.get('errors'):
+        raise RuntimeError(str(payload['errors']))
+    return payload.get('response', []), payload.get('results', 0)
 
-for day in [today, today + timedelta(days=1)]:
-    params = urllib.parse.urlencode({
-        "date": day.isoformat(),
-        "timezone": "Europe/Istanbul"
-    })
+def fixture_record(x):
+    f = x['fixture']
+    l = x['league']
+    t = x['teams']
+    g = x.get('goals') or {}
+    country, league = LEAGUES[l['id']]
+    return {
+        'id': f['id'], 'date': f['date'], 'league_id': l['id'],
+        'league': league, 'country': country,
+        'home': t['home']['name'], 'away': t['away']['name'],
+        'home_id': t['home']['id'], 'away_id': t['away']['id'],
+        'home_logo': t['home'].get('logo'), 'away_logo': t['away'].get('logo'),
+        'status': f['status']['short'],
+        'minute': f['status'].get('elapsed'),
+        'goals': {'home': g.get('home'), 'away': g.get('away')},
+        'venue': (f.get('venue') or {}).get('name')
+    }
 
-    request = urllib.request.Request(
-        URL + "?" + params,
-        headers={"x-apisports-key": API_KEY}
+def main():
+    now = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=3)))
+    dates = [(now + datetime.timedelta(days=i)).date().isoformat()
+             for i in (-1, 0, 1, 2)]
+    all_fixtures = {}
+
+    for day in dates:
+        rows, count = get('/fixtures', {
+            'date': day, 'timezone': 'Europe/Istanbul'
+        })
+        for x in rows:
+            if x['league']['id'] in LEAGUES:
+                rec = fixture_record(x)
+                all_fixtures[rec['id']] = rec
+        print(day, count, 'API fixtures')
+
+    matches = sorted(all_fixtures.values(), key=lambda r: r['date'])
+    (DATA / 'maclar.json').write_text(
+        json.dumps(matches, ensure_ascii=False, indent=2),
+        encoding='utf-8'
+    )
+    print(len(matches), 'selected matches saved')
+
+    detail_file = DATA / 'detaylar.json'
+    try:
+        details = json.loads(detail_file.read_text(encoding='utf-8')) if detail_file.exists() else {}
+    except Exception:
+        details = {}
+
+    candidates = [m for m in matches if m['status'] in LIVE]
+    candidates += [
+        m for m in reversed(matches)
+        if m['status'] in FINISHED and m not in candidates
+    ]
+
+    for m in candidates[:3]:
+        try:
+            rows, _ = get('/fixtures/statistics', {'fixture': m['id']})
+            if rows:
+                details[str(m['id'])] = {
+                    'statistics': rows,
+                    'updated_at': now.isoformat()
+                }
+            time.sleep(0.25)
+        except Exception as e:
+            print('stats unavailable', m['id'], str(e))
+
+    keep = {str(m['id']) for m in matches}
+    details = {k: v for k, v in details.items() if k in keep}
+
+    detail_file.write_text(
+        json.dumps(details, ensure_ascii=False), encoding='utf-8'
+    )
+    (DATA / 'guncelleme.json').write_text(
+        json.dumps({
+            'updated_at': now.isoformat(),
+            'fixtures': len(matches)
+        }, ensure_ascii=False),
+        encoding='utf-8'
     )
 
-    with urllib.request.urlopen(request, timeout=30) as response:
-        data = json.load(response)
-
-    if data.get("errors"):
-        raise RuntimeError(str(data["errors"]))
-
-    for item in data.get("response", []):
-        matches.append({
-            "id": item["fixture"]["id"],
-            "date": item["fixture"]["date"],
-            "league": item["league"]["name"],
-            "country": item["league"]["country"],
-            "home": item["teams"]["home"]["name"],
-            "away": item["teams"]["away"]["name"],
-            "status": item["fixture"]["status"]["short"],
-            "goals": item["goals"]
-        })
-
-os.makedirs("data", exist_ok=True)
-
-with open("data/maclar.json", "w", encoding="utf-8") as f:
-    json.dump(matches, f, ensure_ascii=False, indent=2)
-
-print(f"{len(matches)} maç kaydedildi.")
+if __name__ == '__main__':
+    main()
