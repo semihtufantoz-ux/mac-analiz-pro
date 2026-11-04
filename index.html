@@ -20,18 +20,97 @@
 </main>
 <script>
 let day=0;
-const fixtures=[
-{league:"Türkiye Süper Lig",home:"Fenerbahçe",away:"Galatasaray",time:"20:00"},
-{league:"İngiltere Premier League",home:"Arsenal",away:"Liverpool",time:"19:30"},
-{league:"İspanya La Liga",home:"Real Madrid",away:"Barcelona",time:"22:00"},
-{league:"Almanya Bundesliga",home:"Bayern Münih",away:"Dortmund",time:"21:30"},
-{league:"İtalya Serie A",home:"Inter",away:"Milan",time:"21:45"},
-{league:"Fransa Ligue 1",home:"PSG",away:"Marsilya",time:"22:00"}
-];
+
+let fixtures = [];
+
+async function loadMatches() {
+  const status = document.getElementById("status");
+  status.textContent = "Gerçek maçlar yükleniyor...";
+
+  try {
+    const response = await fetch(
+      "./data/maclar.json?t=" + Date.now()
+    );
+
+    if (!response.ok) {
+      throw new Error("Veri dosyası okunamadı");
+    }
+
+    const data = await response.json();
+loadMatches();
+    fixtures = data.map(m => ({
+      ...m,
+      league: m.league || "",
+      home: m.home || "",
+      away: m.away || "",
+      time: new Date(m.date).toLocaleTimeString(
+        "tr-TR",
+        {
+          timeZone: "Europe/Istanbul",
+          hour: "2-digit",
+          minute: "2-digit"
+        }
+      )
+    }));
+
+    render();
+  } catch (error) {
+    status.textContent = "Maçlar yüklenemedi: " + error.message;
+  }
+}
+
 function changeDay(n){day=n;document.getElementById("today").className=n===0?"active":"";document.getElementById("tomorrow").className=n===1?"active":"";render()}
-function render(){
-const date=new Date();date.setDate(date.getDate()+day);
-document.getElementById("heading").textContent=date.toLocaleDateString("tr-TR",{weekday:"long",day:"numeric",month:"long"})+" — Demo";
+
+function render() {
+  const date = new Date();
+  date.setDate(date.getDate() + day);
+
+  const targetDate = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Europe/Istanbul",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit"
+  }).format(date);
+
+  document.getElementById("heading").textContent =
+    date.toLocaleDateString("tr-TR", {
+      day: "numeric",
+      month: "long",
+      weekday: "long"
+    }) + " — Gerçek Maçlar";
+
+  const q = document.getElementById("search")
+    .value.toLocaleLowerCase("tr-TR");
+
+  const list = fixtures.filter(m => {
+    const matchDate = new Intl.DateTimeFormat("en-CA", {
+      timeZone: "Europe/Istanbul",
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit"
+    }).format(new Date(m.date));
+
+    return matchDate === targetDate &&
+      (m.home + " " + m.away + " " + m.league)
+        .toLocaleLowerCase("tr-TR").includes(q);
+  });
+
+  document.getElementById("status").textContent =
+    list.length + " maç bulundu";
+
+  document.getElementById("matches").innerHTML =
+    list.map(m => `
+      <div class="match">
+        <small>${m.country || ""} • ${m.league}</small>
+        <p>
+          <strong>${m.home}</strong>
+          <span>${m.time}</span>
+          <strong>${m.away}</strong>
+        </p>
+      </div>
+    `).join("") || "<p>Bu tarihte maç bulunamadı.</p>";
+}
+})+" — Demo";
 const q=document.getElementById("search").value.toLocaleLowerCase("tr");
 const list=fixtures.filter(m=>(m.home+" "+m.away+" "+m.league).toLocaleLowerCase("tr").includes(q));
 document.getElementById("status").textContent="Örnek karşılaşmalar — gerçek fikstür değildir.";
