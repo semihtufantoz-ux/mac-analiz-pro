@@ -1,0 +1,40 @@
+name: Mac Verilerini Guncelle
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 5,11,17 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mac-verileri
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu indir
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Mac verilerini getir
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: python scripts/maclari_getir.py
+
+      - name: Degisiklikleri kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/maclar.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Mac verilerini guncelle"
+            git push
+          fi
