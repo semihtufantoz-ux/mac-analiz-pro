@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
@@ -6,117 +6,91 @@
 <meta name="theme-color" content="#101827">
 <title>MAÇ ANALİZ PRO</title>
 <style>
-*{box-sizing:border-box}body{margin:0;background:#0b1220;color:#f3f6ff;font-family:Arial,sans-serif}header{background:#152238;padding:22px 16px;text-align:center;border-bottom:2px solid #21c58b}h1{font-size:24px;margin:0;color:#21e5a1}header p{font-size:12px;color:#a9b7ca}main{max-width:850px;margin:auto;padding:15px}.bar{display:flex;gap:8px;margin:15px 0}button,input{border:0;border-radius:9px;padding:12px;font-size:14px}button{background:#243750;color:white;cursor:pointer}.active{background:#13a779;color:white}.match{background:#18263a;border:1px solid #31425a;border-radius:13px;padding:16px;margin:12px 0;cursor:pointer}.league{font-size:12px;color:#8eeac8;margin-bottom:10px}.teams{display:flex;align-items:center;justify-content:space-between;gap:12px;font-weight:bold}.teams span{flex:1}.teams span:last-child{text-align:right}.time{color:#ffcd6a;font-size:14px;flex:0!important;text-align:center}.details{display:none;border-top:1px solid #35465a;margin-top:15px;padding-top:12px;color:#c8d6e8;font-size:14px;line-height:1.8}.match.open .details{display:block}.note{color:#aebdd0;font-size:13px;line-height:1.6}input{width:100%;background:#223149;color:white}#status{color:#ffcd6a;font-size:13px}
+*{box-sizing:border-box}
+body{margin:0;background:#0b1220;color:#fff;font-family:Arial,sans-serif}
+header{padding:22px 15px;background:#152238;text-align:center;border-bottom:2px solid #15c68e}
+h1{color:#22e4a6;margin:0;font-size:25px}
+header p{color:#b5c5d5;font-size:12px}
+main{max-width:850px;margin:auto;padding:15px}
+nav{display:flex;gap:10px;margin-bottom:15px}
+button{border:0;border-radius:9px;background:#273951;color:white;padding:12px;cursor:pointer}
+button.active{background:#12a77a}
+input{width:100%;background:#1d2d43;color:white;padding:14px;border:1px solid #40536a;border-radius:10px}
+.match{background:#18283e;border:1px solid #33465d;border-radius:12px;margin:10px 0;padding:15px;cursor:pointer}
+.league{font-size:12px;color:#24dba5;margin:18px 0 7px}
+.teams{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.teams b{flex:1;font-size:14px}
+.teams b:last-child{text-align:right}
+.score{color:#ffd06d;white-space:nowrap}
+.details{display:none;border-top:1px solid #3b4d62;margin-top:12px;padding-top:12px;color:#c7d5e5;font-size:13px;line-height:1.9}
+.match.open .details{display:block}
+small,.note{color:#a6b7ca}
+.note{font-size:12px;line-height:1.6}
 </style>
 </head>
 <body>
-<header><h1>⚽ MAÇ ANALİZ PRO</h1><p>Günlük maçlar • İstatistikler • Kişisel analiz</p></header>
+<header><h1>⚽ MAÇ ANALİZ PRO</h1><p>Gerçek maçlar • Skorlar • İstatistikler</p></header>
 <main>
-<div class="bar"><button class="active" id="today" onclick="changeDay(0)">Bugün</button><button id="tomorrow" onclick="changeDay(1)">Yarın</button></div>
+<nav><button id="b0" class="active" onclick="changeDay(0)">Bugün</button><button id="b1" onclick="changeDay(1)">Yarın</button></nav>
 <input id="search" placeholder="Takım veya lig ara..." oninput="render()">
-<h3 id="heading">Günün Maçları</h3>
-<p id="status"></p><div id="matches"></div>
-<p class="note">Bu ilk sürüm örnek maç verileriyle arayüzü test etmek içindir. Canlı fikstür ve gerçek istatistikler henüz bağlı değildir. Gerçek veriler için sonraki aşamada futbol veri servisi ekleyeceğiz.</p>
+<h3 id="heading">Maçlar yükleniyor...</h3>
+<p id="status"></p>
+<div id="matches"></div>
+<p class="note">Veriler API-Football üzerinden GitHub'a kaydedilen son güncellemeden alınır. Ücretsiz pakette bazı ligler ve istatistikler bulunmayabilir.</p>
 </main>
 <script>
-let day=0;
-
-let fixtures = [];
-
-async function loadMatches() {
-  const status = document.getElementById("status");
-  status.textContent = "Gerçek maçlar yükleniyor...";
-
-  try {
-    const response = await fetch(
-      "./data/maclar.json?t=" + Date.now()
-    );
-
-    if (!response.ok) {
-      throw new Error("Veri dosyası okunamadı");
-    }
-
-    const data = await response.json();
-loadMatches();
-    fixtures = data.map(m => ({
-      ...m,
-      league: m.league || "",
-      home: m.home || "",
-      away: m.away || "",
-      time: new Date(m.date).toLocaleTimeString(
-        "tr-TR",
-        {
-          timeZone: "Europe/Istanbul",
-          hour: "2-digit",
-          minute: "2-digit"
-        }
-      )
-    }));
-
-    render();
-  } catch (error) {
-    status.textContent = "Maçlar yüklenemedi: " + error.message;
-  }
+let fixtures=[],day=0,loaded=false;
+const tz="Europe/Istanbul";
+function dateKey(d){
+return new Intl.DateTimeFormat("en-CA",{timeZone:tz,year:"numeric",month:"2-digit",day:"2-digit"}).format(d);
 }
-
-function changeDay(n){day=n;document.getElementById("today").className=n===0?"active":"";document.getElementById("tomorrow").className=n===1?"active":"";render()}
-
-function render() {
-  const date = new Date();
-  date.setDate(date.getDate() + day);
-
-  const targetDate = new Intl.DateTimeFormat("en-CA", {
-    timeZone: "Europe/Istanbul",
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit"
-  }).format(date);
-
-  document.getElementById("heading").textContent =
-    date.toLocaleDateString("tr-TR", {
-      day: "numeric",
-      month: "long",
-      weekday: "long"
-    }) + " — Gerçek Maçlar";
-
-  const q = document.getElementById("search")
-    .value.toLocaleLowerCase("tr-TR");
-
-  const list = fixtures.filter(m => {
-    const matchDate = new Intl.DateTimeFormat("en-CA", {
-      timeZone: "Europe/Istanbul",
-      year: "numeric",
-      month: "2-digit",
-      day: "2-digit"
-    }).format(new Date(m.date));
-
-    return matchDate === targetDate &&
-      (m.home + " " + m.away + " " + m.league)
-        .toLocaleLowerCase("tr-TR").includes(q);
-  });
-
-  document.getElementById("status").textContent =
-    list.length + " maç bulundu";
-
-  document.getElementById("matches").innerHTML =
-    list.map(m => `
-      <div class="match">
-        <small>${m.country || ""} • ${m.league}</small>
-        <p>
-          <strong>${m.home}</strong>
-          <span>${m.time}</span>
-          <strong>${m.away}</strong>
-        </p>
-      </div>
-    `).join("") || "<p>Bu tarihte maç bulunamadı.</p>";
+function changeDay(n){
+day=n;
+document.getElementById("b0").className=n===0?"active":"";
+document.getElementById("b1").className=n===1?"active":"";
+render();
 }
-})+" — Demo";
+function safe(s){
+return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+async function loadMatches(){
+try{
+const r=await fetch("./data/maclar.json?v="+Date.now(),{cache:"no-store"});
+if(!r.ok)throw Error("HTTP "+r.status);
+const data=await r.json();
+if(!Array.isArray(data))throw Error("Veri biçimi geçersiz");
+fixtures=data;
+loaded=true;
+render();
+}catch(e){
+document.getElementById("status").textContent="Veriler yüklenemedi: "+e.message;
+}
+}
+function render(){
+const now=new Date();
+const target=new Date(now.toLocaleString("en-US",{timeZone:tz}));
+target.setDate(target.getDate()+day);
+const key=dateKey(target);
+document.getElementById("heading").textContent=(day===0?"Bugünün":"Yarının")+" Maçları";
 const q=document.getElementById("search").value.toLocaleLowerCase("tr");
-const list=fixtures.filter(m=>(m.home+" "+m.away+" "+m.league).toLocaleLowerCase("tr").includes(q));
-document.getElementById("status").textContent="Örnek karşılaşmalar — gerçek fikstür değildir.";
-document.getElementById("matches").innerHTML=list.length?list.map(m=>'<article class="match" onclick="this.classList.toggle(\'open\')"><div class="league">'+m.league+'</div><div class="teams"><span>'+m.home+'</span><span class="time">'+m.time+'</span><span>'+m.away+'</span></div><div class="details"><b>Maç Detayları</b><div>Takım formu: Veri bağlantısı bekleniyor</div><div>Gol ortalamaları: Veri bağlantısı bekleniyor</div><div>Korner ortalamaları: Veri bağlantısı bekleniyor</div><div>Karşılıklı maçlar: Veri bağlantısı bekleniyor</div><div>Analiz: Gerçek istatistikler bağlandığında hazırlanacak.</div></div></article>').join(""):"<p>Aramanla eşleşen maç bulunamadı.</p>";
+const list=fixtures.filter(m=>{
+const d=new Date(m.date);
+return !isNaN(d)&&dateKey(d)===key&&(m.home+" "+m.away+" "+m.league+" "+m.country).toLocaleLowerCase("tr").includes(q);
+}).sort((a,b)=>new Date(a.date)-new Date(b.date));
+document.getElementById("status").textContent=loaded?list.length+" maç bulundu":"Maçlar yükleniyor...";
+let html="",lastLeague="";
+for(const m of list){
+const league=(m.country||"")+" • "+(m.league||"");
+if(league!==lastLeague){html+='<div class="league">'+safe(league)+'</div>';lastLeague=league;}
+const time=new Date(m.date).toLocaleTimeString("tr-TR",{timeZone:tz,hour:"2-digit",minute:"2-digit"});
+const g=m.goals||{};
+const score=g.home!=null&&g.away!=null?g.home+" - "+g.away:time;
+html+='<article class="match" onclick="this.classList.toggle(\'open\')"><div class="teams"><b>'+safe(m.home)+'</b><span class="score">'+safe(score)+'</span><b>'+safe(m.away)+'</b></div><div class="details">Başlangıç: '+safe(time)+'<div>Durum: '+safe(m.status||"Bilinmiyor")+'</div><div>Gol: '+safe(g.home??"-")+' / '+safe(g.away??"-")+'</div><div>Korner, takım formu ve son maç analizleri sonraki güncellemede eklenecek.</div></div></article>';
+}
+document.getElementById("matches").innerHTML=html||"<p>Bu tarihte erişilebilir maç bulunamadı.</p>";
 }
 render();
+loadMatches();
 </script>
 </body>
 </html>
