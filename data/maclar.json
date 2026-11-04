@@ -1,0 +1,5202 @@
+[
+  {
+    "id": 1559696,
+    "date": "2026-11-04T00:00:00+03:00",
+    "league": "Liga Nacional",
+    "country": "Guatemala",
+    "home": "Xelajú",
+    "away": "Marquense",
+    "status": "FT",
+    "goals": {
+      "home": 2,
+      "away": 0
+    }
+  },
+  {
+    "id": 1646928,
+    "date": "2026-11-04T00:30:00+03:00",
+    "league": "Primera División",
+    "country": "Venezuela",
+    "home": "Monagas SC",
+    "away": "Caracas FC",
+    "status": "FT",
+    "goals": {
+      "home": 0,
+      "away": 2
+    }
+  },
+  {
+    "id": 1612158,
+    "date": "2026-11-04T01:00:00+03:00",
+    "league": "Reserve League",
+    "country": "Argentina",
+    "home": "River Plate Res.",
+    "away": "Tigre Res.",
+    "status": "FT",
+    "goals": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  {
+    "id": 1492443,
+    "date": "2026-11-04T01:30:00+03:00",
+    "league": "Serie A",
+    "country": "Brazil",
+    "home": "Chapecoense-sc",
+    "away": "Mirassol",
+    "status": "FT",
+    "goals": {
+      "home": 1,
+      "away": 2
+    }
+  },
+  {
+    "id": 1632053,
+    "date": "2026-11-04T01:30:00+03:00",
+    "league": "Division Profesional - Clausura",
+    "country": "Paraguay",
+    "home": "Nacional Asuncion",
+    "away": "Club Sp. San Lorenzo",
+    "status": "FT",
+    "goals": {
+      "home": 0,
+      "away": 2
+    }
+  },
+  {
+    "id": 1645454,
+    "date": "2026-11-04T02:00:00+03:00",
+    "league": "Copa de la División Profesional",
+    "country": "Bolivia",
+    "home": "Aurora",
+    "away": "Independiente Petrolero",
+    "status": "FT",
+    "goals": {
+      "home": 3,
+      "away": 2
+    }
+  },
+  {
+    "id": 1549847,
+    "date": "2026-11-04T02:20:00+03:00",
+    "league": "Primera A",
+    "country": "Colombia",
+    "home": "Deportivo Pasto",
+    "away": "Jaguares",
+    "status": "FT",
+    "goals": {
+      "home": 2,
+      "away": 0
+    }
+  },
+  {
+    "id": 1646929,
+    "date": "2026-11-04T02:30:00+03:00",
+    "league": "Primera División",
+    "country": "Venezuela",
+    "home": "Deportivo Tachira FC",
+    "away": "Puerto Cabello",
+    "status": "FT",
+    "goals": {
+      "home": 3,
+      "away": 2
+    }
+  },
+  {
+    "id": 1492446,
+    "date": "2026-11-04T03:30:00+03:00",
+    "league": "Serie A",
+    "country": "Brazil",
+    "home": "Internacional",
+    "away": "Coritiba",
+    "status": "FT",
+    "goals": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  {
+    "id": 1647432,
+    "date": "2026-11-04T03:30:00+03:00",
+    "league": "Brasileiro U17",
+    "country": "Brazil",
+    "home": "Cruzeiro U17",
+    "away": "Corinthians U17",
+    "status": "FT",
+    "goals": {
+      "home": 3,
+      "away": 1
+    }
+  },
+  {
+    "id": 1549537,
+    "date": "2026-11-04T04:00:00+03:00",
+    "league": "Primera División",
+    "country": "Peru",
+    "home": "Alianza Lima",
+    "away": "Cienciano",
+    "status": "FT",
+    "goals": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  {
+    "id": 1551721,
+    "date": "2026-11-04T04:00:00+03:00",
+    "league": "Primera División",
+    "country": "Costa-Rica",
+    "home": "Sporting San Jose",
+    "away": "Perez Zeledon",
+    "status": "FT",
+    "goals": {
+      "home": 3,
+      "away": 1
+    }
+  },
+  {
+    "id": 1647445,
+    "date": "2026-11-04T04:30:00+03:00",
+    "league": "Primera B",
+    "country": "Colombia",
+    "home": "Real Cartagena",
+    "away": "Quindio",
+    "status": "FT",
+    "goals": {
+      "home": 2,
+      "away": 3
+    }
+  },
+  {
+    "id": 1555787,
+    "date": "2026-11-04T08:00:00+03:00",
+    "league": "J3 League",
+    "country": "Japan",
+    "home": "Osaka",
+    "away": "Roasso Kumamoto",
+    "status": "FT",
+    "goals": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  {
+    "id": 1639104,
+    "date": "2026-11-04T10:00:00+03:00",
+    "league": "PFL",
+    "country": "Philippines",
+    "home": "Philippine Army",
+    "away": "Azkals",
+    "status": "FT",
+    "goals": {
+      "home": 1,
+      "away": 2
+    }
+  },
+  {
+    "id": 1637494,
+    "date": "2026-11-04T10:45:00+03:00",
+    "league": "AFC Champions League Two",
+    "country": "World",
+    "home": "Melbourne Victory",
+    "away": "Persib Bandung",
+    "status": "FT",
+    "goals": {
+      "home": 1,
+      "away": 2
+    }
+  },
+  {
+    "id": 1646177,
+    "date": "2026-11-04T11:00:00+03:00",
+    "league": "Cup",
+    "country": "Russia",
+    "home": "Enisey",
+    "away": "Nizhny Novgorod",
+    "status": "FT",
+    "goals": {
+      "home": 1,
+      "away": 2
+    }
+  },
+  {
+    "id": 1593009,
+    "date": "2026-11-04T11:30:00+03:00",
+    "league": "Druha Liga",
+    "country": "Ukraine",
+    "home": "Trostianets",
+    "away": "Metalurh Zaporizhya",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1638226,
+    "date": "2026-11-04T11:30:00+03:00",
+    "league": "AFC Women's Champions League",
+    "country": "World",
+    "home": "April W",
+    "away": "Hồ Chí Minh City W",
+    "status": "FT",
+    "goals": {
+      "home": 6,
+      "away": 0
+    }
+  },
+  {
+    "id": 1638228,
+    "date": "2026-11-04T11:30:00+03:00",
+    "league": "AFC Women's Champions League",
+    "country": "World",
+    "home": "Bam Khatoon W",
+    "away": "Naegohyang W",
+    "status": "FT",
+    "goals": {
+      "home": 1,
+      "away": 6
+    }
+  },
+  {
+    "id": 1648375,
+    "date": "2026-11-04T11:30:00+03:00",
+    "league": "League Cup Indonesia",
+    "country": "Indonesia",
+    "home": "PSS Sleman",
+    "away": "PSGC Ciamis",
+    "status": "FT",
+    "goals": {
+      "home": 6,
+      "away": 0
+    }
+  },
+  {
+    "id": 1646170,
+    "date": "2026-11-04T12:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Kairat U19",
+    "away": "MTK U19",
+    "status": "FT",
+    "goals": {
+      "home": 2,
+      "away": 2
+    }
+  },
+  {
+    "id": 1648371,
+    "date": "2026-11-04T12:00:00+03:00",
+    "league": "League Cup Indonesia",
+    "country": "Indonesia",
+    "home": "Java United",
+    "away": "Bekasi City",
+    "status": "FT",
+    "goals": {
+      "home": 5,
+      "away": 0
+    }
+  },
+  {
+    "id": 1648372,
+    "date": "2026-11-04T12:00:00+03:00",
+    "league": "League Cup Indonesia",
+    "country": "Indonesia",
+    "home": "Persikad Depok FC",
+    "away": "Persiku Kudus",
+    "status": "FT",
+    "goals": {
+      "home": 6,
+      "away": 2
+    }
+  },
+  {
+    "id": 1562650,
+    "date": "2026-11-04T12:15:00+03:00",
+    "league": "3. liga - CFL A",
+    "country": "Czech-Republic",
+    "home": "Sparta Praha II",
+    "away": "Viktoria Plzeň II",
+    "status": "FT",
+    "goals": {
+      "home": 1,
+      "away": 3
+    }
+  },
+  {
+    "id": 1639105,
+    "date": "2026-11-04T12:45:00+03:00",
+    "league": "PFL",
+    "country": "Philippines",
+    "home": "Mendiola",
+    "away": "Dynamic Herb Cebu",
+    "status": "FT",
+    "goals": {
+      "home": 0,
+      "away": 3
+    }
+  },
+  {
+    "id": 1611790,
+    "date": "2026-11-04T13:00:00+03:00",
+    "league": "U19 League",
+    "country": "Ukraine",
+    "home": "Livyi Bereh U19",
+    "away": "LNZ Cherkasy U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1611792,
+    "date": "2026-11-04T13:00:00+03:00",
+    "league": "U19 League",
+    "country": "Ukraine",
+    "home": "Oleksandria U19",
+    "away": "Zhytomyr U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1611884,
+    "date": "2026-11-04T13:00:00+03:00",
+    "league": "U19 League",
+    "country": "Ukraine",
+    "home": "Karpaty Lviv U19",
+    "away": "Lviv U19",
+    "status": "FT",
+    "goals": {
+      "home": 2,
+      "away": 1
+    }
+  },
+  {
+    "id": 1629973,
+    "date": "2026-11-04T13:00:00+03:00",
+    "league": "AFC Champions League Elite",
+    "country": "World",
+    "home": "Pohang Steelers",
+    "away": "Gamba Osaka",
+    "status": "FT",
+    "goals": {
+      "home": 3,
+      "away": 3
+    }
+  },
+  {
+    "id": 1630392,
+    "date": "2026-11-04T13:00:00+03:00",
+    "league": "AFC Champions League Two",
+    "country": "World",
+    "home": "FC Seoul",
+    "away": "Viettel",
+    "status": "FT",
+    "goals": {
+      "home": 3,
+      "away": 0
+    }
+  },
+  {
+    "id": 1637370,
+    "date": "2026-11-04T13:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "AEK Athens U19",
+    "away": "Real Madrid U19",
+    "status": "FT",
+    "goals": {
+      "home": 1,
+      "away": 4
+    }
+  },
+  {
+    "id": 1645429,
+    "date": "2026-11-04T13:00:00+03:00",
+    "league": "Türkiye Kupası",
+    "country": "Turkey",
+    "home": "Fethiyespor",
+    "away": "Eyüpspor",
+    "status": "FT",
+    "goals": {
+      "home": 2,
+      "away": 4
+    }
+  },
+  {
+    "id": 1638230,
+    "date": "2026-11-04T13:30:00+03:00",
+    "league": "AFC Women's Champions League",
+    "country": "World",
+    "home": "Kaya W",
+    "away": "Melbourne City W",
+    "status": "FT",
+    "goals": {
+      "home": 0,
+      "away": 7
+    }
+  },
+  {
+    "id": 1638859,
+    "date": "2026-11-04T13:30:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Septemvri Sofia U19",
+    "away": "Fiorentina U19",
+    "status": "FT",
+    "goals": {
+      "home": 0,
+      "away": 3
+    }
+  },
+  {
+    "id": 1630124,
+    "date": "2026-11-04T13:45:00+03:00",
+    "league": "U19 league",
+    "country": "Serbia",
+    "home": "Brodarac U19",
+    "away": "Jedinstvo U. U19",
+    "status": "FT",
+    "goals": {
+      "home": 3,
+      "away": 1
+    }
+  },
+  {
+    "id": 1565167,
+    "date": "2026-11-04T14:00:00+03:00",
+    "league": "1. Liga U19",
+    "country": "Czech-Republic",
+    "home": "Zbrojovka Brno U19",
+    "away": "Teplice U19",
+    "status": "2H",
+    "goals": {
+      "home": 4,
+      "away": 0
+    }
+  },
+  {
+    "id": 1568815,
+    "date": "2026-11-04T14:00:00+03:00",
+    "league": "III Liga - Group 2",
+    "country": "Poland",
+    "home": "Kluczevia Stargard",
+    "away": "Lech Poznań II",
+    "status": "2H",
+    "goals": {
+      "home": 3,
+      "away": 3
+    }
+  },
+  {
+    "id": 1611791,
+    "date": "2026-11-04T14:00:00+03:00",
+    "league": "U19 League",
+    "country": "Ukraine",
+    "home": "Obolon' Kyiv U19",
+    "away": "Metalist 1925 U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1611794,
+    "date": "2026-11-04T14:00:00+03:00",
+    "league": "U19 League",
+    "country": "Ukraine",
+    "home": "Veres Rivne U19",
+    "away": "Kolos Kovalivka U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1619616,
+    "date": "2026-11-04T14:00:00+03:00",
+    "league": "Ligue A",
+    "country": "Burundi",
+    "home": "Rukinzo",
+    "away": "Inter Star",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630462,
+    "date": "2026-11-04T14:00:00+03:00",
+    "league": "Birinci Dasta",
+    "country": "Azerbaijan",
+    "home": "Mingəçevir",
+    "away": "Şahdağ",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1637373,
+    "date": "2026-11-04T14:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Fenerbahce U19",
+    "away": "Liverpool U19",
+    "status": "2H",
+    "goals": {
+      "home": 3,
+      "away": 5
+    }
+  },
+  {
+    "id": 1646174,
+    "date": "2026-11-04T14:00:00+03:00",
+    "league": "Cup",
+    "country": "Russia",
+    "home": "Leningradets",
+    "away": "Ska-khabarovsk",
+    "status": "2H",
+    "goals": {
+      "home": 1,
+      "away": 1
+    }
+  },
+  {
+    "id": 1647633,
+    "date": "2026-11-04T14:00:00+03:00",
+    "league": "Friendlies",
+    "country": "World",
+    "home": "Slovakia U18",
+    "away": "Hungary U18",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1604159,
+    "date": "2026-11-04T14:30:00+03:00",
+    "league": "III Liga - Group 3",
+    "country": "Poland",
+    "home": "Rakow II",
+    "away": "Kluczbork",
+    "status": "2H",
+    "goals": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 1556465,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "1 Lyga",
+    "country": "Lithuania",
+    "home": "Tauras",
+    "away": "Minija",
+    "status": "1H",
+    "goals": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 1559407,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Second League",
+    "country": "Montenegro",
+    "home": "Grbalj",
+    "away": "Kom",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1559408,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Second League",
+    "country": "Montenegro",
+    "home": "Iskra",
+    "away": "Jedinstvo",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1559409,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Second League",
+    "country": "Montenegro",
+    "home": "Mogren",
+    "away": "Berane",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1559410,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Second League",
+    "country": "Montenegro",
+    "home": "Rudar",
+    "away": "Lovćen",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1559411,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Second League",
+    "country": "Montenegro",
+    "home": "Zeta",
+    "away": "Mladost Lješkopolje",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1591331,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "2. Lig",
+    "country": "Turkey",
+    "home": "Somaspor",
+    "away": "Sebat Gençlikspor",
+    "status": "1H",
+    "goals": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 1603816,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Third League - Southwest",
+    "country": "Bulgaria",
+    "home": "Botev Ihtiman",
+    "away": "Oborishte",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1603818,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Third League - Southwest",
+    "country": "Bulgaria",
+    "home": "Kyustendil",
+    "away": "Strumska Slava",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1603822,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Third League - Southwest",
+    "country": "Bulgaria",
+    "home": "Slavia Sofia II",
+    "away": "Bansko",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630125,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "U19 league",
+    "country": "Serbia",
+    "home": "Cukaricki U19",
+    "away": "Partizan U19",
+    "status": "1H",
+    "goals": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 1630126,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "U19 league",
+    "country": "Serbia",
+    "home": "Mladost Lucani U19",
+    "away": "IMT Novi Beograd U19",
+    "status": "1H",
+    "goals": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  {
+    "id": 1637372,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Porto U19",
+    "away": "Napoli U19",
+    "status": "1H",
+    "goals": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  {
+    "id": 1637378,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Viking U19",
+    "away": "Sabah U19",
+    "status": "1H",
+    "goals": {
+      "home": 4,
+      "away": 0
+    }
+  },
+  {
+    "id": 1638853,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Dinamo Zagreb U19",
+    "away": "Qarabağ U19",
+    "status": "1H",
+    "goals": {
+      "home": 2,
+      "away": 0
+    }
+  },
+  {
+    "id": 1638856,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Pafos U19",
+    "away": "Benfica U19",
+    "status": "1H",
+    "goals": {
+      "home": 0,
+      "away": 2
+    }
+  },
+  {
+    "id": 1645810,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Cup",
+    "country": "Serbia",
+    "home": "Budučnost Krušik",
+    "away": "FK Partizan",
+    "status": "1H",
+    "goals": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  {
+    "id": 1647037,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "CAF Women's Champions League",
+    "country": "World",
+    "home": "Lekie W",
+    "away": "Mamelodi Sundowns W",
+    "status": "1H",
+    "goals": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  {
+    "id": 1647172,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Cup",
+    "country": "Slovakia",
+    "home": "Boleráz",
+    "away": "Skalica",
+    "status": "1H",
+    "goals": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  {
+    "id": 1647455,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Superliga",
+    "country": "Kosovo",
+    "home": "Drita",
+    "away": "Prishtina",
+    "status": "1H",
+    "goals": {
+      "home": 1,
+      "away": 1
+    }
+  },
+  {
+    "id": 1648369,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "League Cup Indonesia",
+    "country": "Indonesia",
+    "home": "PSPS",
+    "away": "Bhayangkara FC",
+    "status": "1H",
+    "goals": {
+      "home": 0,
+      "away": 2
+    }
+  },
+  {
+    "id": 1648373,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "League Cup Indonesia",
+    "country": "Indonesia",
+    "home": "Persiba Balikpapan",
+    "away": "Bali United",
+    "status": "1H",
+    "goals": {
+      "home": 0,
+      "away": 3
+    }
+  },
+  {
+    "id": 1648374,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "League Cup Indonesia",
+    "country": "Indonesia",
+    "home": "Persik Kediri",
+    "away": "Persis Solo",
+    "status": "1H",
+    "goals": {
+      "home": 2,
+      "away": 0
+    }
+  },
+  {
+    "id": 1648473,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Liga E Pare",
+    "country": "Kosovo",
+    "home": "FC Besa Peja",
+    "away": "Prishtina e Re",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648474,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Liga E Pare",
+    "country": "Kosovo",
+    "home": "Dinamo Ferizaj",
+    "away": "Vëllaznimi",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648475,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Liga E Pare",
+    "country": "Kosovo",
+    "home": "KF Lepenci",
+    "away": "Trepça'89",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648476,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Liga E Pare",
+    "country": "Kosovo",
+    "home": "Kika",
+    "away": "Vjosa",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648477,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Liga E Pare",
+    "country": "Kosovo",
+    "home": "Mitrovica",
+    "away": "2 Korriku",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648478,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Liga E Pare",
+    "country": "Kosovo",
+    "home": "Rilindja 1974",
+    "away": "Ramiz Sadiku",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648479,
+    "date": "2026-11-04T15:00:00+03:00",
+    "league": "Liga E Pare",
+    "country": "Kosovo",
+    "home": "Suhareka",
+    "away": "Liria Prizren",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1629974,
+    "date": "2026-11-04T15:15:00+03:00",
+    "league": "AFC Champions League Elite",
+    "country": "World",
+    "home": "Buriram United",
+    "away": "Kashima",
+    "status": "1H",
+    "goals": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 1606187,
+    "date": "2026-11-04T15:30:00+03:00",
+    "league": "Third League - Southeast",
+    "country": "Bulgaria",
+    "home": "Atletik Kuklen",
+    "away": "Spartak Plovdiv",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1606192,
+    "date": "2026-11-04T15:30:00+03:00",
+    "league": "Third League - Southeast",
+    "country": "Bulgaria",
+    "home": "Neftochimic Burgas",
+    "away": "Maritsa Plovdiv",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630127,
+    "date": "2026-11-04T15:30:00+03:00",
+    "league": "U19 league",
+    "country": "Serbia",
+    "home": "OFK Beograd U19",
+    "away": "TSC U19",
+    "status": "1H",
+    "goals": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 1638227,
+    "date": "2026-11-04T15:30:00+03:00",
+    "league": "AFC Women's Champions League",
+    "country": "World",
+    "home": "Ayeyawady W",
+    "away": "INAC Kobe Leonessa W",
+    "status": "1H",
+    "goals": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 1639106,
+    "date": "2026-11-04T15:30:00+03:00",
+    "league": "PFL",
+    "country": "Philippines",
+    "home": "Manila Digger",
+    "away": "Tuloy",
+    "status": "1H",
+    "goals": {
+      "home": 1,
+      "away": 0
+    }
+  },
+  {
+    "id": 1647244,
+    "date": "2026-11-04T15:30:00+03:00",
+    "league": "Premier League",
+    "country": "Kyrgyzstan",
+    "home": "Dordoi Bishkek",
+    "away": "Asiagoal",
+    "status": "1H",
+    "goals": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 1647245,
+    "date": "2026-11-04T15:30:00+03:00",
+    "league": "Premier League",
+    "country": "Kyrgyzstan",
+    "home": "Ilbirs",
+    "away": "Toktogul",
+    "status": "1H",
+    "goals": {
+      "home": 0,
+      "away": 1
+    }
+  },
+  {
+    "id": 1648417,
+    "date": "2026-11-04T15:30:00+03:00",
+    "league": "LFA First Division",
+    "country": "Liberia",
+    "home": "Gardnersville",
+    "away": "NPA Anchors",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1589848,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "3. SNL - West",
+    "country": "Slovenia",
+    "home": "Litija",
+    "away": "Tolmin",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1619611,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "Ligue A",
+    "country": "Burundi",
+    "home": "Never Give Up Academy",
+    "away": "Kayanza United",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1619613,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "Ligue A",
+    "country": "Burundi",
+    "home": "Musongati",
+    "away": "Young Star",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1619614,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "Ligue A",
+    "country": "Burundi",
+    "home": "Olympic Star",
+    "away": "Flambeau du Centre",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1619615,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "Ligue A",
+    "country": "Burundi",
+    "home": "Panthere Noir",
+    "away": "Vital'O",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630129,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "U19 league",
+    "country": "Serbia",
+    "home": "Usce U19",
+    "away": "Vojvodina U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630625,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "Super League",
+    "country": "Zambia",
+    "home": "Kabwe Warriors",
+    "away": "Roan United",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630628,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "Super League",
+    "country": "Zambia",
+    "home": "Nkana",
+    "away": "Kansanshi Dynamos",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630629,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "Super League",
+    "country": "Zambia",
+    "home": "Red Arrows",
+    "away": "Nkwazi",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630630,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "Super League",
+    "country": "Zambia",
+    "home": "Zanaco",
+    "away": "Man Utd Zambia Academy",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1632527,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "National Soccer League",
+    "country": "Rwanda",
+    "home": "Bugesera",
+    "away": "Amagaju",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1632528,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "National Soccer League",
+    "country": "Rwanda",
+    "home": "Etincelles",
+    "away": "Kiyovu Sports",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1632529,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "National Soccer League",
+    "country": "Rwanda",
+    "home": "Etoile de l'Est",
+    "away": "Musanze",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1632530,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "National Soccer League",
+    "country": "Rwanda",
+    "home": "Gorilla",
+    "away": "Gicumbi",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1635317,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "Premier League",
+    "country": "Uganda",
+    "home": "KCCA",
+    "away": "Maroons",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1635318,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "Premier League",
+    "country": "Uganda",
+    "home": "Kataka",
+    "away": "URA",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1637374,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Lens U19",
+    "away": "Como U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1637375,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "PSV U19",
+    "away": "Club Brugge U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1637377,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Slavia Praha U19",
+    "away": "Arsenal U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1638852,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Crvena Zvezda U18",
+    "away": "Bravo U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1644408,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "Premier Soccer League",
+    "country": "Zimbabwe",
+    "home": "Scotland Mabvuku",
+    "away": "Chicken Inn",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1644877,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "Ligue 1",
+    "country": "Congo-DR",
+    "home": "Malole",
+    "away": "Tanganyika",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646166,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Chelsea U19",
+    "away": "Flora III",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646167,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "København U19",
+    "away": "Dinamo Tbilisi U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647246,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "Premier League",
+    "country": "Kyrgyzstan",
+    "home": "Bars",
+    "away": "Muras United",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647247,
+    "date": "2026-11-04T16:00:00+03:00",
+    "league": "Premier League",
+    "country": "Kyrgyzstan",
+    "home": "Ozgon",
+    "away": "Kara-Balta",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1642126,
+    "date": "2026-11-04T16:05:00+03:00",
+    "league": "Professional League",
+    "country": "Oman",
+    "home": "Al Nasr",
+    "away": "Sur",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1609941,
+    "date": "2026-11-04T16:30:00+03:00",
+    "league": "1st League - RS",
+    "country": "Bosnia",
+    "home": "FK Majevica Lopare",
+    "away": "Sutjeska Foča",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1624362,
+    "date": "2026-11-04T16:30:00+03:00",
+    "league": "Serie D - Girone B",
+    "country": "Italy",
+    "home": "Milan II",
+    "away": "Piacenza",
+    "status": "SUSP",
+    "goals": {
+      "home": 0,
+      "away": 0
+    }
+  },
+  {
+    "id": 1645217,
+    "date": "2026-11-04T16:30:00+03:00",
+    "league": "Coppa Italia Serie D",
+    "country": "Italy",
+    "home": "Lucchese",
+    "away": "Sestri Levante",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646035,
+    "date": "2026-11-04T16:30:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "PAOK U19",
+    "away": "Zrinjski U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1619617,
+    "date": "2026-11-04T16:45:00+03:00",
+    "league": "Ligue A",
+    "country": "Burundi",
+    "home": "Bumamuru",
+    "away": "Royal Vision",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630393,
+    "date": "2026-11-04T16:45:00+03:00",
+    "league": "AFC Champions League Two",
+    "country": "World",
+    "home": "Arkadag",
+    "away": "Gol Gohar",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1595731,
+    "date": "2026-11-04T17:00:00+03:00",
+    "league": "U19 Bundesliga",
+    "country": "Germany",
+    "home": "Hallescher FC U19",
+    "away": "Hertha BSC U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1627302,
+    "date": "2026-11-04T17:00:00+03:00",
+    "league": "Girabola",
+    "country": "Angola",
+    "home": "Sporting de Cabinda",
+    "away": "Kabuscorp",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1634109,
+    "date": "2026-11-04T17:00:00+03:00",
+    "league": "Premier League",
+    "country": "Botswana",
+    "home": "BDF XI",
+    "away": "Centre Chiefs",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1637376,
+    "date": "2026-11-04T17:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "RB Leipzig U19",
+    "away": "Manchester City U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646204,
+    "date": "2026-11-04T17:00:00+03:00",
+    "league": "Ligue 1",
+    "country": "Congo-DR",
+    "home": "Novakin",
+    "away": "Céleste",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646205,
+    "date": "2026-11-04T17:00:00+03:00",
+    "league": "Ligue 1",
+    "country": "Congo-DR",
+    "home": "FC Renaissance",
+    "away": "Anges Verts",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1606560,
+    "date": "2026-11-04T17:15:00+03:00",
+    "league": "Second Division",
+    "country": "Qatar",
+    "home": "Al Shamal II",
+    "away": "Al Mesaimeer",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1627296,
+    "date": "2026-11-04T17:30:00+03:00",
+    "league": "Girabola",
+    "country": "Angola",
+    "home": "1º de Agosto",
+    "away": "Wiliete",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1638229,
+    "date": "2026-11-04T17:30:00+03:00",
+    "league": "AFC Women's Champions League",
+    "country": "World",
+    "home": "East Bengal W",
+    "away": "Hwacheon KSPO W",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1638237,
+    "date": "2026-11-04T17:30:00+03:00",
+    "league": "AFC Women's Champions League",
+    "country": "World",
+    "home": "Nasaf W",
+    "away": "Beijing Beikong W",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1645866,
+    "date": "2026-11-04T17:30:00+03:00",
+    "league": "Elite One",
+    "country": "Cameroon",
+    "home": "Dynamo de Douala",
+    "away": "Gazelle",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1645867,
+    "date": "2026-11-04T17:30:00+03:00",
+    "league": "Elite One",
+    "country": "Cameroon",
+    "home": "Victoria United",
+    "away": "Cotonsport",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647209,
+    "date": "2026-11-04T17:30:00+03:00",
+    "league": "Division 1",
+    "country": "Kuwait",
+    "home": "Al Jazira",
+    "away": "Khaitan",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647210,
+    "date": "2026-11-04T17:30:00+03:00",
+    "league": "Division 1",
+    "country": "Kuwait",
+    "home": "Burgan",
+    "away": "Shamiya",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647211,
+    "date": "2026-11-04T17:30:00+03:00",
+    "league": "Division 1",
+    "country": "Kuwait",
+    "home": "Yarmouk",
+    "away": "Sporty",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1534464,
+    "date": "2026-11-04T18:00:00+03:00",
+    "league": "1. Division",
+    "country": "Belarus",
+    "home": "Uni Minsk",
+    "away": "Dinamo Minsk II",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1598737,
+    "date": "2026-11-04T18:00:00+03:00",
+    "league": "Liga Revelação U23",
+    "country": "Portugal",
+    "home": "União Leiria U23",
+    "away": "Estoril U23",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1628558,
+    "date": "2026-11-04T18:00:00+03:00",
+    "league": "NPFL",
+    "country": "Nigeria",
+    "home": "Enugu Rangers",
+    "away": "Bendel Insurance",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1637371,
+    "date": "2026-11-04T18:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Borussia Dortmund U19",
+    "away": "Real Betis U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1640300,
+    "date": "2026-11-04T18:00:00+03:00",
+    "league": "League Cup",
+    "country": "Egypt",
+    "home": "Masr",
+    "away": "El Geish",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1640303,
+    "date": "2026-11-04T18:00:00+03:00",
+    "league": "League Cup",
+    "country": "Egypt",
+    "home": "AL Masry",
+    "away": "Petrojet",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1645611,
+    "date": "2026-11-04T18:00:00+03:00",
+    "league": "AGCFF Gulf Champions League",
+    "country": "World",
+    "home": "Al Nasr",
+    "away": "Qatar SC",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647038,
+    "date": "2026-11-04T18:00:00+03:00",
+    "league": "CAF Women's Champions League",
+    "country": "World",
+    "home": "Masar W",
+    "away": "FUS Rabat W",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648289,
+    "date": "2026-11-04T18:00:00+03:00",
+    "league": "World Cup - U17 - Women",
+    "country": "World",
+    "home": "Japan U17 W",
+    "away": "North Korea U17 W",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648291,
+    "date": "2026-11-04T18:00:00+03:00",
+    "league": "Cup",
+    "country": "Egypt",
+    "home": "Ghazl El Mehalla",
+    "away": "Al Ittihad",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1642127,
+    "date": "2026-11-04T18:20:00+03:00",
+    "league": "Professional League",
+    "country": "Oman",
+    "home": "Sohar",
+    "away": "Bahla",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1556388,
+    "date": "2026-11-04T18:30:00+03:00",
+    "league": "1 Lyga",
+    "country": "Lithuania",
+    "home": "Be1 NFA",
+    "away": "Atmosfera",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636324,
+    "date": "2026-11-04T18:30:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "Rennes",
+    "away": "Olympiakos Piraeus",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646173,
+    "date": "2026-11-04T18:30:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Žilina U19",
+    "away": "HJK U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1571805,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "NB II",
+    "country": "Hungary",
+    "home": "Szeged 2011",
+    "away": "BVSC",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630394,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "AFC Champions League Two",
+    "country": "World",
+    "home": "Al Kuwait",
+    "away": "Nasaf",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630395,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "AFC Champions League Two",
+    "country": "World",
+    "home": "Al-Rayyan SC",
+    "away": "Al-Nahda",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630396,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "AFC Champions League Two",
+    "country": "World",
+    "home": "Al Wahda FC",
+    "away": "Khalidiya",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1638860,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Sheriff U19",
+    "away": "FCV Farul U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1642280,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "Cup",
+    "country": "Cyprus",
+    "home": "Doxa",
+    "away": "Olympiakos",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1645613,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "AGCFF Gulf Champions League",
+    "country": "World",
+    "home": "Al-Ettifaq",
+    "away": "Ajman",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646171,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Super Nova U19",
+    "away": "Hammarby U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647171,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "Cup",
+    "country": "Slovakia",
+    "home": "Dukla Banská Bystrica",
+    "away": "AS Trencin",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648418,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "LFA First Division",
+    "country": "Liberia",
+    "home": "Black Man Warrior",
+    "away": "Paynesville",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648419,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "LFA First Division",
+    "country": "Liberia",
+    "home": "District 17",
+    "away": "Golden Dream",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648420,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "LFA First Division",
+    "country": "Liberia",
+    "home": "Downtown",
+    "away": "Wologizi",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648421,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "LFA First Division",
+    "country": "Liberia",
+    "home": "Fassell",
+    "away": "LPRC Oilers",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648422,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "LFA First Division",
+    "country": "Liberia",
+    "home": "Freeport",
+    "away": "Heaven Eleven",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648423,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "LFA First Division",
+    "country": "Liberia",
+    "home": "Shaita",
+    "away": "Borough",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648424,
+    "date": "2026-11-04T19:00:00+03:00",
+    "league": "LFA First Division",
+    "country": "Liberia",
+    "home": "Watanga",
+    "away": "Discoveries",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1606555,
+    "date": "2026-11-04T19:30:00+03:00",
+    "league": "Second Division",
+    "country": "Qatar",
+    "home": "Al Bidda SC",
+    "away": "Muaither SC",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1606556,
+    "date": "2026-11-04T19:30:00+03:00",
+    "league": "Second Division",
+    "country": "Qatar",
+    "home": "Al-Gharafa B",
+    "away": "UMM Salal",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1632531,
+    "date": "2026-11-04T19:30:00+03:00",
+    "league": "National Soccer League",
+    "country": "Rwanda",
+    "home": "Al Hilal Omdurman",
+    "away": "Rayon Sports",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646169,
+    "date": "2026-11-04T19:30:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Hradec Králové U19",
+    "away": "Partizani U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1560043,
+    "date": "2026-11-04T20:00:00+03:00",
+    "league": "Czech Liga",
+    "country": "Czech-Republic",
+    "home": "Artis",
+    "away": "Bohemians 1905",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1572374,
+    "date": "2026-11-04T20:00:00+03:00",
+    "league": "Segunda División RFEF - Group 2",
+    "country": "Spain",
+    "home": "Espanyol II",
+    "away": "Náxara",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1598740,
+    "date": "2026-11-04T20:00:00+03:00",
+    "league": "Liga Revelação U23",
+    "country": "Portugal",
+    "home": "Penafiel U23",
+    "away": "Famalicão U23",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1614291,
+    "date": "2026-11-04T20:00:00+03:00",
+    "league": "Tercera División RFEF - Group 6",
+    "country": "Spain",
+    "home": "Roda",
+    "away": "Torrellano",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1616433,
+    "date": "2026-11-04T20:00:00+03:00",
+    "league": "Tercera División RFEF - Group 13",
+    "country": "Spain",
+    "home": "Cartagena LU II",
+    "away": "Santomera",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1616434,
+    "date": "2026-11-04T20:00:00+03:00",
+    "league": "Tercera División RFEF - Group 13",
+    "country": "Spain",
+    "home": "Mazarrón FC",
+    "away": "Los Garres",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630128,
+    "date": "2026-11-04T20:00:00+03:00",
+    "league": "U19 league",
+    "country": "Serbia",
+    "home": "Sp. Subotica U19",
+    "away": "Crvena Zvezda U18",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1634108,
+    "date": "2026-11-04T20:00:00+03:00",
+    "league": "Premier League",
+    "country": "Botswana",
+    "home": "Gaborone United",
+    "away": "Enesia",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1634112,
+    "date": "2026-11-04T20:00:00+03:00",
+    "league": "Premier League",
+    "country": "Botswana",
+    "home": "Orapa United",
+    "away": "Tonota",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1645612,
+    "date": "2026-11-04T20:00:00+03:00",
+    "league": "AGCFF Gulf Champions League",
+    "country": "World",
+    "home": "Erbil",
+    "away": "Kazma",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646168,
+    "date": "2026-11-04T20:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Hoffenheim U19",
+    "away": "Akademija Pandev U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646172,
+    "date": "2026-11-04T20:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Žalgiris U19",
+    "away": "St Patrick's U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647646,
+    "date": "2026-11-04T20:00:00+03:00",
+    "league": "Copa de la Reina",
+    "country": "Spain",
+    "home": "Levante W",
+    "away": "Eibar W",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648170,
+    "date": "2026-11-04T20:00:00+03:00",
+    "league": "Cup",
+    "country": "Estonia",
+    "home": "Flora Tallinn",
+    "away": "Tartu Welco",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1600369,
+    "date": "2026-11-04T20:30:00+03:00",
+    "league": "Premier Soccer League",
+    "country": "South-Africa",
+    "home": "Chippa United",
+    "away": "Sekhukhune United",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1600370,
+    "date": "2026-11-04T20:30:00+03:00",
+    "league": "Premier Soccer League",
+    "country": "South-Africa",
+    "home": "Golden Arrows",
+    "away": "Marumo Gallants",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1600371,
+    "date": "2026-11-04T20:30:00+03:00",
+    "league": "Premier Soccer League",
+    "country": "South-Africa",
+    "home": "Kaizer Chiefs",
+    "away": "Amazulu",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1600373,
+    "date": "2026-11-04T20:30:00+03:00",
+    "league": "Premier Soccer League",
+    "country": "South-Africa",
+    "home": "Polokwane City",
+    "away": "Kruger United",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1600374,
+    "date": "2026-11-04T20:30:00+03:00",
+    "league": "Premier Soccer League",
+    "country": "South-Africa",
+    "home": "Richards Bay",
+    "away": "Stellenbosch",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1600375,
+    "date": "2026-11-04T20:30:00+03:00",
+    "league": "Premier Soccer League",
+    "country": "South-Africa",
+    "home": "Siwelele",
+    "away": "Orlando Pirates",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1600376,
+    "date": "2026-11-04T20:30:00+03:00",
+    "league": "Premier Soccer League",
+    "country": "South-Africa",
+    "home": "TS Galaxy",
+    "away": "Durban City",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1635606,
+    "date": "2026-11-04T20:45:00+03:00",
+    "league": "UEFA Champions League",
+    "country": "World",
+    "home": "AEK Athens FC",
+    "away": "Real Madrid",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1635658,
+    "date": "2026-11-04T20:45:00+03:00",
+    "league": "UEFA Champions League",
+    "country": "World",
+    "home": "Fenerbahçe",
+    "away": "Liverpool",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1574597,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "Frauenliga",
+    "country": "Austria",
+    "home": "SK Rapid W",
+    "away": "St. Pölten W",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1612145,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "Reserve League",
+    "country": "Argentina",
+    "home": "Aldosivi Res.",
+    "away": "Barracas Central Res.",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1612150,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "Reserve League",
+    "country": "Argentina",
+    "home": "Deportivo Riestra Res.",
+    "away": "Quilmes 2",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1612152,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "Reserve League",
+    "country": "Argentina",
+    "home": "Gimnasia La Plata Res.",
+    "away": "Gimnasia Mendoza 2",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1612159,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "Reserve League",
+    "country": "Argentina",
+    "home": "San Martín San Juan Res.",
+    "away": "Central Córdoba SdE Res.",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1612161,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "Reserve League",
+    "country": "Argentina",
+    "home": "Unión Santa Fe Res.",
+    "away": "Godoy Cruz Res.",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1612162,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "Reserve League",
+    "country": "Argentina",
+    "home": "Vélez Sársfield Res.",
+    "away": "San Lorenzo Res.",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1614294,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "Tercera División RFEF - Group 6",
+    "country": "Spain",
+    "home": "Vall de Uxó",
+    "away": "Torrent",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1638851,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Clermont U19",
+    "away": "Legia Warszawa U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1644369,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "Copa del Rey",
+    "country": "Spain",
+    "home": "Portugalete",
+    "away": "Real Unión",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647091,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "Sergipano - 2",
+    "country": "Brazil",
+    "home": "Maruinense",
+    "away": "Socorro Sport",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647092,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "Sergipano - 2",
+    "country": "Brazil",
+    "home": "Estanciano",
+    "away": "Frei Paulistano",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647093,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "Sergipano - 2",
+    "country": "Brazil",
+    "home": "Independente Simão Dias",
+    "away": "Barra SE",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647202,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "Copa Uruguay",
+    "country": "Uruguay",
+    "home": "San Carlos",
+    "away": "Boston River",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647256,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "Copa do Brasil U20",
+    "country": "Brazil",
+    "home": "Atlético Mineiro U20",
+    "away": "Santa Cruz U20",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647647,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "Copa de la Reina",
+    "country": "Spain",
+    "home": "Osasuna W",
+    "away": "Edf Logrono W",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648290,
+    "date": "2026-11-04T21:00:00+03:00",
+    "league": "World Cup - U17 - Women",
+    "country": "World",
+    "home": "Brazil U17 W",
+    "away": "Nigeria U17 W",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630397,
+    "date": "2026-11-04T21:15:00+03:00",
+    "league": "AFC Champions League Two",
+    "country": "World",
+    "home": "Muharraq",
+    "away": "Al-Jazira",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630398,
+    "date": "2026-11-04T21:15:00+03:00",
+    "league": "AFC Champions League Two",
+    "country": "World",
+    "home": "Al Taawon",
+    "away": "Al Faisaly",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1614292,
+    "date": "2026-11-04T21:30:00+03:00",
+    "league": "Tercera División RFEF - Group 6",
+    "country": "Spain",
+    "home": "Saguntino",
+    "away": "Jove Español",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1614293,
+    "date": "2026-11-04T21:30:00+03:00",
+    "league": "Tercera División RFEF - Group 6",
+    "country": "Spain",
+    "home": "Soneja",
+    "away": "Atzeneta",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1616431,
+    "date": "2026-11-04T21:30:00+03:00",
+    "league": "Tercera División RFEF - Group 13",
+    "country": "Spain",
+    "home": "Bala Azul",
+    "away": "Santa Cruz",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1614290,
+    "date": "2026-11-04T21:45:00+03:00",
+    "league": "Tercera División RFEF - Group 6",
+    "country": "Spain",
+    "home": "Ontinyent 1931",
+    "away": "Utiel",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1559176,
+    "date": "2026-11-04T22:00:00+03:00",
+    "league": "Challenger Pro League",
+    "country": "Belgium",
+    "home": "RSC Anderlecht II",
+    "away": "K. Lierse S.K.",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1559178,
+    "date": "2026-11-04T22:00:00+03:00",
+    "league": "Challenger Pro League",
+    "country": "Belgium",
+    "home": "Francs Borains",
+    "away": "Dender",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1574388,
+    "date": "2026-11-04T22:00:00+03:00",
+    "league": "1. Liga Promotion",
+    "country": "Switzerland",
+    "home": "FC Schaffhausen",
+    "away": "Biel-Bienne",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1599119,
+    "date": "2026-11-04T22:00:00+03:00",
+    "league": "Oberliga - Rheinland-Pfalz / Saar",
+    "country": "Germany",
+    "home": "RW Wittlich",
+    "away": "Gau-Odernheim",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1611385,
+    "date": "2026-11-04T22:00:00+03:00",
+    "league": "Ligue 1",
+    "country": "Algeria",
+    "home": "MC Alger",
+    "away": "MC Oran",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1614288,
+    "date": "2026-11-04T22:00:00+03:00",
+    "league": "Tercera División RFEF - Group 6",
+    "country": "Spain",
+    "home": "Buñol",
+    "away": "Hércules II",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1615824,
+    "date": "2026-11-04T22:00:00+03:00",
+    "league": "Tercera División RFEF - Group 11",
+    "country": "Spain",
+    "home": "Porreres",
+    "away": "Alcúdia",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1616435,
+    "date": "2026-11-04T22:00:00+03:00",
+    "league": "Tercera División RFEF - Group 13",
+    "country": "Spain",
+    "home": "Olímpico Totana",
+    "away": "Algar",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1616436,
+    "date": "2026-11-04T22:00:00+03:00",
+    "league": "Tercera División RFEF - Group 13",
+    "country": "Spain",
+    "home": "Atlético Pulpileño",
+    "away": "Balsicas Atlético",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1638857,
+    "date": "2026-11-04T22:00:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Rangers U19",
+    "away": "Dynamo Kyiv U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1644335,
+    "date": "2026-11-04T22:00:00+03:00",
+    "league": "Copa del Rey",
+    "country": "Spain",
+    "home": "Amorebieta",
+    "away": "UD Logroñés",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647648,
+    "date": "2026-11-04T22:00:00+03:00",
+    "league": "Copa de la Reina",
+    "country": "Spain",
+    "home": "CD Argual W",
+    "away": "Madrid CFF W",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648425,
+    "date": "2026-11-04T22:00:00+03:00",
+    "league": "LFA First Division",
+    "country": "Liberia",
+    "home": "BEA Mountain",
+    "away": "LISCR",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1558657,
+    "date": "2026-11-04T22:30:00+03:00",
+    "league": "Jupiler Pro League",
+    "country": "Belgium",
+    "home": "Kortrijk",
+    "away": "KV Mechelen",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1616429,
+    "date": "2026-11-04T22:30:00+03:00",
+    "league": "Tercera División RFEF - Group 13",
+    "country": "Spain",
+    "home": "Águilas II",
+    "away": "UCAM Murcia II",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1616430,
+    "date": "2026-11-04T22:30:00+03:00",
+    "league": "Tercera División RFEF - Group 13",
+    "country": "Spain",
+    "home": "Alcantarilla",
+    "away": "SFC Minerva",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1616437,
+    "date": "2026-11-04T22:30:00+03:00",
+    "league": "Tercera División RFEF - Group 13",
+    "country": "Spain",
+    "home": "San Javier",
+    "away": "Bullas Deportivo",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1644353,
+    "date": "2026-11-04T22:30:00+03:00",
+    "league": "Copa del Rey",
+    "country": "Spain",
+    "home": "Deportiva Minera",
+    "away": "FC Cartagena",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1644373,
+    "date": "2026-11-04T22:30:00+03:00",
+    "league": "Copa del Rey",
+    "country": "Spain",
+    "home": "Reddis",
+    "away": "Barakaldo",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1644384,
+    "date": "2026-11-04T22:30:00+03:00",
+    "league": "Copa del Rey",
+    "country": "Spain",
+    "home": "Utebo",
+    "away": "Sabadell",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1563248,
+    "date": "2026-11-04T22:45:00+03:00",
+    "league": "Championship",
+    "country": "England",
+    "home": "Cardiff",
+    "away": "West Ham",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1563250,
+    "date": "2026-11-04T22:45:00+03:00",
+    "league": "Championship",
+    "country": "England",
+    "home": "Wrexham",
+    "away": "Middlesbrough",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1564266,
+    "date": "2026-11-04T22:45:00+03:00",
+    "league": "League One",
+    "country": "England",
+    "home": "Oxford United",
+    "away": "Reading",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1644370,
+    "date": "2026-11-04T22:45:00+03:00",
+    "league": "Copa del Rey",
+    "country": "Spain",
+    "home": "Calvo Sotelo",
+    "away": "Albacete",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646165,
+    "date": "2026-11-04T22:45:00+03:00",
+    "league": "UEFA Youth League",
+    "country": "World",
+    "home": "Cardiff Metropolitan U19",
+    "away": "Stabæk U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1563247,
+    "date": "2026-11-04T23:00:00+03:00",
+    "league": "Championship",
+    "country": "England",
+    "home": "Bristol City",
+    "away": "Wolves",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1616432,
+    "date": "2026-11-04T23:00:00+03:00",
+    "league": "Tercera División RFEF - Group 13",
+    "country": "Spain",
+    "home": "Cotillas CD",
+    "away": "Unión Molinense",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1635651,
+    "date": "2026-11-04T23:00:00+03:00",
+    "league": "UEFA Champions League",
+    "country": "World",
+    "home": "Borussia Dortmund",
+    "away": "Real Betis",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1635656,
+    "date": "2026-11-04T23:00:00+03:00",
+    "league": "UEFA Champions League",
+    "country": "World",
+    "home": "FC Porto",
+    "away": "Napoli",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1635681,
+    "date": "2026-11-04T23:00:00+03:00",
+    "league": "UEFA Champions League",
+    "country": "World",
+    "home": "Lens",
+    "away": "Como",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1635707,
+    "date": "2026-11-04T23:00:00+03:00",
+    "league": "UEFA Champions League",
+    "country": "World",
+    "home": "PSV Eindhoven",
+    "away": "Club Brugge KV",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1635710,
+    "date": "2026-11-04T23:00:00+03:00",
+    "league": "UEFA Champions League",
+    "country": "World",
+    "home": "RB Leipzig",
+    "away": "Manchester City",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1635726,
+    "date": "2026-11-04T23:00:00+03:00",
+    "league": "UEFA Champions League",
+    "country": "World",
+    "home": "Slavia Praha",
+    "away": "Arsenal",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1635745,
+    "date": "2026-11-04T23:00:00+03:00",
+    "league": "UEFA Champions League",
+    "country": "World",
+    "home": "Viking",
+    "away": "Sabah FA",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636664,
+    "date": "2026-11-04T23:00:00+03:00",
+    "league": "Botola Pro",
+    "country": "Morocco",
+    "home": "FAR Rabat",
+    "away": "Raja Casablanca",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1644346,
+    "date": "2026-11-04T23:00:00+03:00",
+    "league": "Copa del Rey",
+    "country": "Spain",
+    "home": "Badajoz",
+    "away": "Tenerife",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647649,
+    "date": "2026-11-04T23:00:00+03:00",
+    "league": "Copa de la Reina",
+    "country": "Spain",
+    "home": "Cacereno W",
+    "away": "Deportivo Alavés W",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1638960,
+    "date": "2026-11-05T00:00:00+03:00",
+    "league": "Primera Division",
+    "country": "Nicaragua",
+    "home": "H&H Export",
+    "away": "Matagalpa",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1642304,
+    "date": "2026-11-05T00:00:00+03:00",
+    "league": "Liga Nacional",
+    "country": "Honduras",
+    "home": "Olancho",
+    "away": "Lobos Upnfm",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646930,
+    "date": "2026-11-05T00:30:00+03:00",
+    "league": "Primera División",
+    "country": "Venezuela",
+    "home": "Portuguesa FC",
+    "away": "Deportivo La Guaira",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1632051,
+    "date": "2026-11-05T01:00:00+03:00",
+    "league": "Division Profesional - Clausura",
+    "country": "Paraguay",
+    "home": "Sportivo Ameliano",
+    "away": "Club Guarani",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1632052,
+    "date": "2026-11-05T01:00:00+03:00",
+    "league": "Division Profesional - Clausura",
+    "country": "Paraguay",
+    "home": "Libertad Asuncion",
+    "away": "Cerro Porteno",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1645380,
+    "date": "2026-11-05T01:00:00+03:00",
+    "league": "Copa Chile",
+    "country": "Chile",
+    "home": "Union La Calera",
+    "away": "Coquimbo Unido",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1645455,
+    "date": "2026-11-05T01:00:00+03:00",
+    "league": "Copa de la División Profesional",
+    "country": "Bolivia",
+    "home": "Nacional Potosí",
+    "away": "Oriente Petrolero",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648408,
+    "date": "2026-11-05T01:00:00+03:00",
+    "league": "Coupe de France",
+    "country": "France",
+    "home": "Sporting Baie-Mahault",
+    "away": "Siroco Les Abymes",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1492440,
+    "date": "2026-11-05T01:30:00+03:00",
+    "league": "Serie A",
+    "country": "Brazil",
+    "home": "Atletico Paranaense",
+    "away": "Vasco DA Gama",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1492445,
+    "date": "2026-11-05T01:30:00+03:00",
+    "league": "Serie A",
+    "country": "Brazil",
+    "home": "Flamengo",
+    "away": "Gremio",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1645261,
+    "date": "2026-11-05T02:00:00+03:00",
+    "league": "Eerste Divisie",
+    "country": "Suriname",
+    "home": "Coronie Boys",
+    "away": "Transvaal",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648266,
+    "date": "2026-11-05T02:00:00+03:00",
+    "league": "Liga de Expansión MX",
+    "country": "Mexico",
+    "home": "Venados FC",
+    "away": "Monarcas",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1642305,
+    "date": "2026-11-05T02:15:00+03:00",
+    "league": "Liga Nacional",
+    "country": "Honduras",
+    "home": "Estrella Roja",
+    "away": "CD Motagua",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1549845,
+    "date": "2026-11-05T02:30:00+03:00",
+    "league": "Primera A",
+    "country": "Colombia",
+    "home": "Cucuta",
+    "away": "Santa Fe",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646931,
+    "date": "2026-11-05T02:30:00+03:00",
+    "league": "Primera División",
+    "country": "Venezuela",
+    "home": "Metropolitanos FC",
+    "away": "Carabobo FC",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1551720,
+    "date": "2026-11-05T03:00:00+03:00",
+    "league": "Primera División",
+    "country": "Costa-Rica",
+    "home": "Puntarenas FC",
+    "away": "San Carlos",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1639722,
+    "date": "2026-11-05T03:00:00+03:00",
+    "league": "Copa Ecuador",
+    "country": "Ecuador",
+    "home": "LDU de Quito",
+    "away": "Universidad Catolica",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647203,
+    "date": "2026-11-05T03:00:00+03:00",
+    "league": "Copa Uruguay",
+    "country": "Uruguay",
+    "home": "Ferro Carril",
+    "away": "Club Nacional",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1632054,
+    "date": "2026-11-05T03:15:00+03:00",
+    "league": "Division Profesional - Clausura",
+    "country": "Paraguay",
+    "home": "Olimpia",
+    "away": "Deportivo Recoleta",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1492441,
+    "date": "2026-11-05T03:30:00+03:00",
+    "league": "Serie A",
+    "country": "Brazil",
+    "home": "Botafogo",
+    "away": "Atletico-MG",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1492448,
+    "date": "2026-11-05T03:30:00+03:00",
+    "league": "Serie A",
+    "country": "Brazil",
+    "home": "Sao Paulo",
+    "away": "Corinthians",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1645456,
+    "date": "2026-11-05T03:30:00+03:00",
+    "league": "Copa de la División Profesional",
+    "country": "Bolivia",
+    "home": "The Strongest",
+    "away": "Always Ready",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1600557,
+    "date": "2026-11-05T04:00:00+03:00",
+    "league": "Primera Division",
+    "country": "El-Salvador",
+    "home": "Firpo",
+    "away": "Alianza",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1600665,
+    "date": "2026-11-05T04:00:00+03:00",
+    "league": "Primera Division",
+    "country": "El-Salvador",
+    "home": "Municipal Limeño",
+    "away": "Fuerte San Francisco",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648265,
+    "date": "2026-11-05T04:05:00+03:00",
+    "league": "Liga de Expansión MX",
+    "country": "Mexico",
+    "home": "Tlaxcala",
+    "away": "CA La Paz",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1549535,
+    "date": "2026-11-05T04:30:00+03:00",
+    "league": "Primera División",
+    "country": "Peru",
+    "home": "Universitario",
+    "away": "Sport Boys",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1549851,
+    "date": "2026-11-05T04:30:00+03:00",
+    "league": "Primera A",
+    "country": "Colombia",
+    "home": "Millonarios",
+    "away": "America de Cali",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1642306,
+    "date": "2026-11-05T04:30:00+03:00",
+    "league": "Liga Nacional",
+    "country": "Honduras",
+    "home": "CD Olimpia",
+    "away": "Juticalpa",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1598820,
+    "date": "2026-11-05T05:00:00+03:00",
+    "league": "Primera División",
+    "country": "Costa-Rica",
+    "home": "Escorpiones Belén",
+    "away": "LD Alajuelense",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646991,
+    "date": "2026-11-05T08:00:00+03:00",
+    "league": "Premier League",
+    "country": "Mongolia",
+    "home": "Khovd Western",
+    "away": "Ulaangom City",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646992,
+    "date": "2026-11-05T11:00:00+03:00",
+    "league": "Premier League",
+    "country": "Mongolia",
+    "home": "Amtat FC",
+    "away": "Erchim",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1640352,
+    "date": "2026-11-05T11:30:00+03:00",
+    "league": "Australian Championship",
+    "country": "Australia",
+    "home": "Sydney Olympic",
+    "away": "Oakleigh Cannons",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1611885,
+    "date": "2026-11-05T13:00:00+03:00",
+    "league": "U19 League",
+    "country": "Ukraine",
+    "home": "SK Metalurh U19",
+    "away": "Shakhtar Donetsk U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630399,
+    "date": "2026-11-05T13:00:00+03:00",
+    "league": "AFC Champions League Two",
+    "country": "World",
+    "home": "Kitchee",
+    "away": "Phnom Penh Crown",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630400,
+    "date": "2026-11-05T13:00:00+03:00",
+    "league": "AFC Champions League Two",
+    "country": "World",
+    "home": "Home United",
+    "away": "Adelaide United",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630401,
+    "date": "2026-11-05T13:00:00+03:00",
+    "league": "AFC Champions League Two",
+    "country": "World",
+    "home": "Machida Zelvia",
+    "away": "Shanghai Shenhua",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630460,
+    "date": "2026-11-05T14:00:00+03:00",
+    "league": "Birinci Dasta",
+    "country": "Azerbaijan",
+    "home": "Baku Sportinq",
+    "away": "Xankəndi FK",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630461,
+    "date": "2026-11-05T14:00:00+03:00",
+    "league": "Birinci Dasta",
+    "country": "Azerbaijan",
+    "home": "Karvan",
+    "away": "Şimal",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630463,
+    "date": "2026-11-05T14:00:00+03:00",
+    "league": "Birinci Dasta",
+    "country": "Azerbaijan",
+    "home": "Səbail",
+    "away": "Cəbrayıl",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630464,
+    "date": "2026-11-05T14:00:00+03:00",
+    "league": "Birinci Dasta",
+    "country": "Azerbaijan",
+    "home": "Zaqatala",
+    "away": "MOIK",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1644880,
+    "date": "2026-11-05T14:00:00+03:00",
+    "league": "Ligue 1",
+    "country": "Congo-DR",
+    "home": "Butras",
+    "away": "Simba",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1644881,
+    "date": "2026-11-05T14:00:00+03:00",
+    "league": "Ligue 1",
+    "country": "Congo-DR",
+    "home": "Saint-Luc",
+    "away": "Lubumbashi Sport",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1642190,
+    "date": "2026-11-05T14:30:00+03:00",
+    "league": "Indian Super League",
+    "country": "India",
+    "home": "Churchill Brothers",
+    "away": "NorthEast United",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647040,
+    "date": "2026-11-05T15:00:00+03:00",
+    "league": "CAF Women's Champions League",
+    "country": "World",
+    "home": "FAR Rabat W",
+    "away": "USFAS Bamako W",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648480,
+    "date": "2026-11-05T15:00:00+03:00",
+    "league": "Liga E Pare",
+    "country": "Kosovo",
+    "home": "Trepça Mitrovicë",
+    "away": "Istogu",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630402,
+    "date": "2026-11-05T15:15:00+03:00",
+    "league": "AFC Champions League Two",
+    "country": "World",
+    "home": "Kuching FA",
+    "away": "Gangwon FC",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630403,
+    "date": "2026-11-05T15:15:00+03:00",
+    "league": "AFC Champions League Two",
+    "country": "World",
+    "home": "BG Pathum United",
+    "away": "Wofoo Tai Po",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630404,
+    "date": "2026-11-05T15:15:00+03:00",
+    "league": "AFC Champions League Two",
+    "country": "World",
+    "home": "Svay Rieng",
+    "away": "Tampines Rovers",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648292,
+    "date": "2026-11-05T15:30:00+03:00",
+    "league": "Cup",
+    "country": "Egypt",
+    "home": "El Gouna FC",
+    "away": "El Shorta",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1642128,
+    "date": "2026-11-05T15:45:00+03:00",
+    "league": "Professional League",
+    "country": "Oman",
+    "home": "Fanja",
+    "away": "Al Musannah",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1628029,
+    "date": "2026-11-05T16:00:00+03:00",
+    "league": "Iraqi League",
+    "country": "Iraq",
+    "home": "Al Kahrabaa",
+    "away": "Zakho",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630626,
+    "date": "2026-11-05T16:00:00+03:00",
+    "league": "Super League",
+    "country": "Zambia",
+    "home": "Konkola Blades",
+    "away": "Trident",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630627,
+    "date": "2026-11-05T16:00:00+03:00",
+    "league": "Super League",
+    "country": "Zambia",
+    "home": "NAPSA Stars",
+    "away": "Power Dynamos",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630631,
+    "date": "2026-11-05T16:00:00+03:00",
+    "league": "Super League",
+    "country": "Zambia",
+    "home": "Chirundu Utd",
+    "away": "Green Eagles",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630632,
+    "date": "2026-11-05T16:00:00+03:00",
+    "league": "Super League",
+    "country": "Zambia",
+    "home": "Green Buffaloes",
+    "away": "ZESCO United",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630633,
+    "date": "2026-11-05T16:00:00+03:00",
+    "league": "Super League",
+    "country": "Zambia",
+    "home": "Mutondo Stars",
+    "away": "Mufulira Wanderers",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630634,
+    "date": "2026-11-05T16:00:00+03:00",
+    "league": "Super League",
+    "country": "Zambia",
+    "home": "Nchanga Rangers",
+    "away": "Makeni All Stars",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1632532,
+    "date": "2026-11-05T16:00:00+03:00",
+    "league": "National Soccer League",
+    "country": "Rwanda",
+    "home": "Marines",
+    "away": "Police",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1632533,
+    "date": "2026-11-05T16:00:00+03:00",
+    "league": "National Soccer League",
+    "country": "Rwanda",
+    "home": "Sunrise",
+    "away": "Al Merreikh",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1635320,
+    "date": "2026-11-05T16:00:00+03:00",
+    "league": "Premier League",
+    "country": "Uganda",
+    "home": "Express",
+    "away": "Blacks Power",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1635322,
+    "date": "2026-11-05T16:00:00+03:00",
+    "league": "Premier League",
+    "country": "Uganda",
+    "home": "Ntugasaze",
+    "away": "Entebbe UPPC",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1639680,
+    "date": "2026-11-05T16:00:00+03:00",
+    "league": "Persian Gulf Pro League",
+    "country": "Iran",
+    "home": "Shams Azar Qazvin",
+    "away": "Sanat Naft",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1644882,
+    "date": "2026-11-05T16:00:00+03:00",
+    "league": "Ligue 1",
+    "country": "Congo-DR",
+    "home": "AS New Soger",
+    "away": "CS Manika",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1644883,
+    "date": "2026-11-05T16:00:00+03:00",
+    "league": "Ligue 1",
+    "country": "Congo-DR",
+    "home": "Sanga Balende",
+    "away": "Blessing",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646618,
+    "date": "2026-11-05T16:00:00+03:00",
+    "league": "I-League",
+    "country": "India",
+    "home": "Samaleswari SC",
+    "away": "Dempo",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1603087,
+    "date": "2026-11-05T16:25:00+03:00",
+    "league": "Pro League",
+    "country": "Saudi-Arabia",
+    "home": "Al Kholood",
+    "away": "Al Khaleej Saihat",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1516184,
+    "date": "2026-11-05T16:30:00+03:00",
+    "league": "Super League",
+    "country": "Uzbekistan",
+    "home": "Bunyodkor",
+    "away": "Xorazm",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1628036,
+    "date": "2026-11-05T16:45:00+03:00",
+    "league": "Iraqi League",
+    "country": "Iraq",
+    "home": "Diyala",
+    "away": "Al Minaa Basra",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1630130,
+    "date": "2026-11-05T17:00:00+03:00",
+    "league": "U19 league",
+    "country": "Serbia",
+    "home": "Vozdovac U19",
+    "away": "Novi Pazar U19",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1634111,
+    "date": "2026-11-05T17:00:00+03:00",
+    "league": "Premier League",
+    "country": "Botswana",
+    "home": "Nico United",
+    "away": "Morupule Wanderers",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1642191,
+    "date": "2026-11-05T17:00:00+03:00",
+    "league": "Indian Super League",
+    "country": "India",
+    "home": "ATK Mohun Bagan",
+    "away": "Odisha",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646206,
+    "date": "2026-11-05T17:00:00+03:00",
+    "league": "Ligue 1",
+    "country": "Congo-DR",
+    "home": "Rangers",
+    "away": "New Jack",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1606557,
+    "date": "2026-11-05T17:15:00+03:00",
+    "league": "Second Division",
+    "country": "Qatar",
+    "home": "Al-Markhiya",
+    "away": "Al Waab",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1606559,
+    "date": "2026-11-05T17:15:00+03:00",
+    "league": "Second Division",
+    "country": "Qatar",
+    "home": "Qatar U23",
+    "away": "Al-Khor",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1602542,
+    "date": "2026-11-05T18:00:00+03:00",
+    "league": "Liga II",
+    "country": "Romania",
+    "home": "Chindia Targoviste",
+    "away": "Popești-Leordeni",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647039,
+    "date": "2026-11-05T18:00:00+03:00",
+    "league": "CAF Women's Champions League",
+    "country": "World",
+    "home": "Ampem Darkoa W",
+    "away": "Kawempe Muslim W",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648293,
+    "date": "2026-11-05T18:00:00+03:00",
+    "league": "Cup",
+    "country": "Egypt",
+    "home": "National Bank of Egypt",
+    "away": "Bur Fouad",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1603080,
+    "date": "2026-11-05T18:10:00+03:00",
+    "league": "Pro League",
+    "country": "Saudi-Arabia",
+    "home": "Abha",
+    "away": "Al Shabab",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1642129,
+    "date": "2026-11-05T18:20:00+03:00",
+    "league": "Professional League",
+    "country": "Oman",
+    "home": "Dhofar",
+    "away": "Saham",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1628031,
+    "date": "2026-11-05T18:30:00+03:00",
+    "league": "Iraqi League",
+    "country": "Iraq",
+    "home": "Mosul",
+    "away": "Duhok",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647001,
+    "date": "2026-11-05T18:30:00+03:00",
+    "league": "Ligue 1",
+    "country": "Ivory-Coast",
+    "home": "Bouaké",
+    "away": "Korhogo",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647002,
+    "date": "2026-11-05T18:30:00+03:00",
+    "league": "Ligue 1",
+    "country": "Ivory-Coast",
+    "home": "San-Pédro",
+    "away": "SOA",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647003,
+    "date": "2026-11-05T18:30:00+03:00",
+    "league": "Ligue 1",
+    "country": "Ivory-Coast",
+    "home": "Stella",
+    "away": "AFAD",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1606558,
+    "date": "2026-11-05T19:30:00+03:00",
+    "league": "Second Division",
+    "country": "Qatar",
+    "home": "Al Rayyan SC B",
+    "away": "Al Kharaitiyat",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1646176,
+    "date": "2026-11-05T19:30:00+03:00",
+    "league": "Cup",
+    "country": "Russia",
+    "home": "Volga Ulyanovsk",
+    "away": "Chertanovo Moscow",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1619360,
+    "date": "2026-11-05T19:45:00+03:00",
+    "league": "Premier League Women",
+    "country": "Saudi-Arabia",
+    "home": "Neom SC W",
+    "away": "Al Hilal W",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1603081,
+    "date": "2026-11-05T20:00:00+03:00",
+    "league": "Pro League",
+    "country": "Saudi-Arabia",
+    "home": "Al-Ahli Jeddah",
+    "away": "Al Taawon",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1603082,
+    "date": "2026-11-05T20:00:00+03:00",
+    "league": "Pro League",
+    "country": "Saudi-Arabia",
+    "home": "Al-Ettifaq",
+    "away": "Al-Hilal Saudi FC",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1603083,
+    "date": "2026-11-05T20:00:00+03:00",
+    "league": "Pro League",
+    "country": "Saudi-Arabia",
+    "home": "Al-Faisaly FC",
+    "away": "Al Diriyah",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1603084,
+    "date": "2026-11-05T20:00:00+03:00",
+    "league": "Pro League",
+    "country": "Saudi-Arabia",
+    "home": "Al-Fateh",
+    "away": "Al Riyadh",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1603085,
+    "date": "2026-11-05T20:00:00+03:00",
+    "league": "Pro League",
+    "country": "Saudi-Arabia",
+    "home": "Al-Hazm",
+    "away": "Al-Nassr",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1603086,
+    "date": "2026-11-05T20:00:00+03:00",
+    "league": "Pro League",
+    "country": "Saudi-Arabia",
+    "home": "Al-Ittihad FC",
+    "away": "NEOM",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1634114,
+    "date": "2026-11-05T20:00:00+03:00",
+    "league": "Premier League",
+    "country": "Botswana",
+    "home": "Police XI",
+    "away": "Township Rollers",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1635319,
+    "date": "2026-11-05T20:00:00+03:00",
+    "league": "Premier League",
+    "country": "Uganda",
+    "home": "Vipers",
+    "away": "Lugazi",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1603088,
+    "date": "2026-11-05T20:30:00+03:00",
+    "league": "Pro League",
+    "country": "Saudi-Arabia",
+    "home": "Al-Qadisiyah FC",
+    "away": "Al-Fayha",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1621392,
+    "date": "2026-11-05T20:30:00+03:00",
+    "league": "Liga Alef",
+    "country": "Israel",
+    "home": "Beitar Nahariya",
+    "away": "Tzeirey Tamra",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636208,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "AC Milan",
+    "away": "Ferencvarosi TC",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636211,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "Anderlecht",
+    "away": "Red Bull Salzburg",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636254,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "Crystal Palace",
+    "away": "1899 Hoffenheim",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636286,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "Levski Sofia",
+    "away": "Jagiellonia",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636289,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "Lillestrom",
+    "away": "Plzen",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636302,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "NEC Nijmegen",
+    "away": "Omonia Nicosia",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636319,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "Real Sociedad",
+    "away": "Lyon",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636337,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "Sparta Praha",
+    "away": "Bournemouth",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636376,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "Aarhus",
+    "away": "SC Braga",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636383,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "Atalanta",
+    "away": "Kairat Almaty",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636399,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "FK Crvena Zvezda",
+    "away": "Inter Club d'Escaldes",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636439,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "KuPS",
+    "away": "Gent",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636444,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "Lincoln Red Imps FC",
+    "away": "HNK Hajduk Split",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636448,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "FC Midtjylland",
+    "away": "Ajax",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636452,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "Mjallby AIF",
+    "away": "Borac Banja Luka",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636473,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "FC Thun",
+    "away": "Heart Of Midlothian",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636476,
+    "date": "2026-11-05T20:45:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "Trabzonspor",
+    "away": "SC Freiburg",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1612147,
+    "date": "2026-11-05T21:00:00+03:00",
+    "league": "Reserve League",
+    "country": "Argentina",
+    "home": "Atlético Tucumán Res.",
+    "away": "Instituto Res.",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1612148,
+    "date": "2026-11-05T21:00:00+03:00",
+    "league": "Reserve League",
+    "country": "Argentina",
+    "home": "Belgrano Córdoba Res.",
+    "away": "Platense Res.",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1612149,
+    "date": "2026-11-05T21:00:00+03:00",
+    "league": "Reserve League",
+    "country": "Argentina",
+    "home": "Defensa y Justicia Res.",
+    "away": "Boca Juniors Res.",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1612151,
+    "date": "2026-11-05T21:00:00+03:00",
+    "league": "Reserve League",
+    "country": "Argentina",
+    "home": "Estudiantes Rio Cuarto 2",
+    "away": "Ferro 2",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1612153,
+    "date": "2026-11-05T21:00:00+03:00",
+    "league": "Reserve League",
+    "country": "Argentina",
+    "home": "Huracán Res.",
+    "away": "Colón Res.",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1612157,
+    "date": "2026-11-05T21:00:00+03:00",
+    "league": "Reserve League",
+    "country": "Argentina",
+    "home": "Racing Club Res.",
+    "away": "Rosario Central Res.",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1642284,
+    "date": "2026-11-05T21:00:00+03:00",
+    "league": "Cup",
+    "country": "Cyprus",
+    "home": "Omonia 29is Maiou",
+    "away": "Polemidion",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1644379,
+    "date": "2026-11-05T21:00:00+03:00",
+    "league": "Copa del Rey",
+    "country": "Spain",
+    "home": "Tarancón",
+    "away": "Levante",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647004,
+    "date": "2026-11-05T21:00:00+03:00",
+    "league": "Ligue 1",
+    "country": "Ivory-Coast",
+    "home": "ISCA",
+    "away": "ASEC Mimosas",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647257,
+    "date": "2026-11-05T21:00:00+03:00",
+    "league": "Copa do Brasil U20",
+    "country": "Brazil",
+    "home": "São Paulo U20",
+    "away": "Ceará U20",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1599763,
+    "date": "2026-11-05T21:30:00+03:00",
+    "league": "National 2 - Group B",
+    "country": "France",
+    "home": "Angoulême",
+    "away": "Saint-Malo",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647201,
+    "date": "2026-11-05T22:00:00+03:00",
+    "league": "Copa Uruguay",
+    "country": "Uruguay",
+    "home": "Lito",
+    "away": "Wanderers",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647650,
+    "date": "2026-11-05T22:00:00+03:00",
+    "league": "Copa de la Reina",
+    "country": "Spain",
+    "home": "CE Europa W",
+    "away": "Deportivo de La Coruña W",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647651,
+    "date": "2026-11-05T22:00:00+03:00",
+    "league": "Copa de la Reina",
+    "country": "Spain",
+    "home": "Sporting Huelva W",
+    "away": "FC Levante Badalona W",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647652,
+    "date": "2026-11-05T22:30:00+03:00",
+    "league": "Copa de la Reina",
+    "country": "Spain",
+    "home": "CD Samper W",
+    "away": "Valencia W",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1574784,
+    "date": "2026-11-05T22:45:00+03:00",
+    "league": "Ligue 3",
+    "country": "France",
+    "home": "Valenciennes",
+    "away": "Orleans",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636219,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "AZ Alkmaar",
+    "away": "Juventus",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636223,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "Bayer Leverkusen",
+    "away": "Marseille",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636229,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "Benfica",
+    "away": "Lech Poznan",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636245,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "Celta Vigo",
+    "away": "Union St. Gilloise",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636250,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "Celtic",
+    "away": "Beşiktaş",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636264,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "Hapoel Beer Sheva",
+    "away": "OFI",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636339,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "Sturm Graz",
+    "away": "Celje",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636345,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "Sunderland",
+    "away": "Dinamo Zagreb",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636347,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa League",
+    "country": "World",
+    "home": "Torreense",
+    "away": "Ararat-Armenia",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636408,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "FC Copenhagen",
+    "away": "FC Iberia 1999",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636416,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "Getafe",
+    "away": "Brighton",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636447,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "FC Lugano",
+    "away": "Kauno Žalgiris",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636456,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "Monaco",
+    "away": "FC Nordsjaelland",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636465,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "Panathinaikos",
+    "away": "CSKA Sofia",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636466,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "Riga",
+    "away": "FK Jablonec",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636469,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "St. Truiden",
+    "away": "Brann",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636478,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "Twente",
+    "away": "Pafos",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1636483,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "UEFA Europa Conference League",
+    "country": "World",
+    "home": "Universitatea Craiova",
+    "away": "Egnatia Rrogozhinë",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1644334,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "Copa del Rey",
+    "country": "Spain",
+    "home": "Alcoyano",
+    "away": "Mallorca",
+    "status": "PST",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1648481,
+    "date": "2026-11-05T23:00:00+03:00",
+    "league": "Premier League",
+    "country": "Jamaica",
+    "home": "Portmore United",
+    "away": "Treasure Beach",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  },
+  {
+    "id": 1647258,
+    "date": "2026-11-05T23:30:00+03:00",
+    "league": "Copa do Brasil U20",
+    "country": "Brazil",
+    "home": "Paysandu PA U20",
+    "away": "Palmeiras U20",
+    "status": "NS",
+    "goals": {
+      "home": null,
+      "away": null
+    }
+  }
+]
