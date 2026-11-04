@@ -15,6 +15,8 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+
     steps:
       - name: Depoyu indir
         uses: actions/checkout@v4
@@ -22,19 +24,21 @@ jobs:
       - name: Python kur
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.11'
 
-      - name: Mac verilerini getir
+      - name: Mac verilerini guncelle
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
         run: python scripts/maclari_getir.py
 
-      - name: Degisiklikleri kaydet
+      - name: Verileri GitHub'a kaydet
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/maclar.json
+          git add data/maclar.json data/detaylar.json data/guncelleme.json
           if ! git diff --cached --quiet; then
-            git commit -m "Mac verilerini guncelle"
+            git commit -m "Mac verilerini otomatik guncelle"
             git push
+          else
+            echo "Kaydedilecek yeni veri yok."
           fi
