@@ -431,11 +431,11 @@
     "away_id": 651,
     "home_logo": "https://media.api-sports.io/football/teams/489.png",
     "away_logo": "https://media.api-sports.io/football/teams/651.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 10,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "San Siro/Giuseppe Meazza"
   },
@@ -451,11 +451,11 @@
     "away_id": 571,
     "home_logo": "https://media.api-sports.io/football/teams/554.png",
     "away_logo": "https://media.api-sports.io/football/teams/571.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 11,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Lotto Park"
   },
@@ -471,11 +471,11 @@
     "away_id": 167,
     "home_logo": "https://media.api-sports.io/football/teams/52.png",
     "away_logo": "https://media.api-sports.io/football/teams/167.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 11,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": "Selhurst Park"
   },
@@ -491,11 +491,11 @@
     "away_id": 336,
     "home_logo": "https://media.api-sports.io/football/teams/646.png",
     "away_logo": "https://media.api-sports.io/football/teams/336.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 11,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Vasil Levski National Stadium"
   },
@@ -511,11 +511,11 @@
     "away_id": 567,
     "home_logo": "https://media.api-sports.io/football/teams/321.png",
     "away_logo": "https://media.api-sports.io/football/teams/567.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 11,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": "Åråsen Stadion"
   },
@@ -531,11 +531,11 @@
     "away_id": 3402,
     "home_logo": "https://media.api-sports.io/football/teams/413.png",
     "away_logo": "https://media.api-sports.io/football/teams/3402.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 11,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Stadion de Goffert"
   },
@@ -551,11 +551,11 @@
     "away_id": 80,
     "home_logo": "https://media.api-sports.io/football/teams/548.png",
     "away_logo": "https://media.api-sports.io/football/teams/80.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 11,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Anoeta Stadium"
   },
@@ -571,11 +571,11 @@
     "away_id": 35,
     "home_logo": "https://media.api-sports.io/football/teams/628.png",
     "away_logo": "https://media.api-sports.io/football/teams/35.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 11,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Stadion Letná"
   },
@@ -591,11 +591,11 @@
     "away_id": 217,
     "home_logo": "https://media.api-sports.io/football/teams/406.png",
     "away_logo": "https://media.api-sports.io/football/teams/217.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 9,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Cepheus Park"
   },
@@ -611,11 +611,11 @@
     "away_id": 664,
     "home_logo": "https://media.api-sports.io/football/teams/499.png",
     "away_logo": "https://media.api-sports.io/football/teams/664.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 11,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "New Balance Arena"
   },
@@ -631,11 +631,11 @@
     "away_id": 3342,
     "home_logo": "https://media.api-sports.io/football/teams/598.png",
     "away_logo": "https://media.api-sports.io/football/teams/3342.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 11,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Stadion Rajko Mit"
   },
@@ -651,11 +651,11 @@
     "away_id": 631,
     "home_logo": "https://media.api-sports.io/football/teams/1165.png",
     "away_logo": "https://media.api-sports.io/football/teams/631.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 11,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Tammelan Stadion"
   },
@@ -671,11 +671,11 @@
     "away_id": 608,
     "home_logo": "https://media.api-sports.io/football/teams/667.png",
     "away_logo": "https://media.api-sports.io/football/teams/608.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 11,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Europa Point Stadium"
   },
@@ -691,7 +691,7 @@
     "away_id": 194,
     "home_logo": "https://media.api-sports.io/football/teams/397.png",
     "away_logo": "https://media.api-sports.io/football/teams/194.png",
-    "status": "NS",
+    "status": "PST",
     "minute": null,
     "goals": {
       "home": null,
@@ -711,11 +711,11 @@
     "away_id": 3364,
     "home_logo": "https://media.api-sports.io/football/teams/2240.png",
     "away_logo": "https://media.api-sports.io/football/teams/3364.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 11,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Olympia"
   },
@@ -731,11 +731,11 @@
     "away_id": 254,
     "home_logo": "https://media.api-sports.io/football/teams/1012.png",
     "away_logo": "https://media.api-sports.io/football/teams/254.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 10,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Stockhorn Arena"
   },
@@ -751,11 +751,11 @@
     "away_id": 160,
     "home_logo": "https://media.api-sports.io/football/teams/998.png",
     "away_logo": "https://media.api-sports.io/football/teams/160.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 11,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Papara Park"
   },
