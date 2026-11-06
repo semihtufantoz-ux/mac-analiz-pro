@@ -360,26 +360,6 @@
     "venue": "Papara Park"
   },
   {
-    "id": 1644379,
-    "date": "2026-11-05T21:00:00+03:00",
-    "league_id": 143,
-    "league": "Copa del Rey",
-    "country": "İspanya",
-    "home": "Tarancón",
-    "away": "Levante",
-    "home_id": 9907,
-    "away_id": 539,
-    "home_logo": "https://media.api-sports.io/football/teams/9907.png",
-    "away_logo": "https://media.api-sports.io/football/teams/539.png",
-    "status": "NS",
-    "minute": null,
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "venue": "Estadio Municipal de Tarancon"
-  },
-  {
     "id": 1636219,
     "date": "2026-11-05T23:00:00+03:00",
     "league_id": 3,
@@ -1797,7 +1777,7 @@
       "home": null,
       "away": null
     },
-    "venue": "Leipzig Red Bull Arena"
+    "venue": "Red Bull Arena"
   },
   {
     "id": 1575217,
@@ -1817,7 +1797,7 @@
       "home": null,
       "away": null
     },
-    "venue": "MEWA Arena"
+    "venue": "Mewa Arena"
   },
   {
     "id": 1575220,
@@ -2937,7 +2917,7 @@
       "home": null,
       "away": null
     },
-    "venue": "MHP Arena"
+    "venue": "MHPArena"
   },
   {
     "id": 1646905,
