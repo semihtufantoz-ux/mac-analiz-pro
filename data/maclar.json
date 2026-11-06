@@ -1,405 +1,5 @@
 [
   {
-    "id": 1645429,
-    "date": "2026-11-04T13:00:00+03:00",
-    "league_id": 206,
-    "league": "Türkiye Kupası",
-    "country": "Türkiye",
-    "home": "Fethiyespor",
-    "away": "Eyüpspor",
-    "home_id": 3590,
-    "away_id": 3588,
-    "home_logo": "https://media.api-sports.io/football/teams/3590.png",
-    "away_logo": "https://media.api-sports.io/football/teams/3588.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 2,
-      "away": 4
-    },
-    "venue": null
-  },
-  {
-    "id": 1636324,
-    "date": "2026-11-04T18:30:00+03:00",
-    "league_id": 3,
-    "league": "Avrupa Ligi",
-    "country": "Avrupa",
-    "home": "Rennes",
-    "away": "Olympiakos Piraeus",
-    "home_id": 94,
-    "away_id": 553,
-    "home_logo": "https://media.api-sports.io/football/teams/94.png",
-    "away_logo": "https://media.api-sports.io/football/teams/553.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 0,
-      "away": 0
-    },
-    "venue": "Roazhon Park"
-  },
-  {
-    "id": 1635606,
-    "date": "2026-11-04T20:45:00+03:00",
-    "league_id": 2,
-    "league": "Şampiyonlar Ligi",
-    "country": "Avrupa",
-    "home": "AEK Athens FC",
-    "away": "Real Madrid",
-    "home_id": 575,
-    "away_id": 541,
-    "home_logo": "https://media.api-sports.io/football/teams/575.png",
-    "away_logo": "https://media.api-sports.io/football/teams/541.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 2,
-      "away": 3
-    },
-    "venue": "Allwyn Arena"
-  },
-  {
-    "id": 1635658,
-    "date": "2026-11-04T20:45:00+03:00",
-    "league_id": 2,
-    "league": "Şampiyonlar Ligi",
-    "country": "Avrupa",
-    "home": "Fenerbahçe",
-    "away": "Liverpool",
-    "home_id": 611,
-    "away_id": 40,
-    "home_logo": "https://media.api-sports.io/football/teams/611.png",
-    "away_logo": "https://media.api-sports.io/football/teams/40.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 3,
-      "away": 2
-    },
-    "venue": "Chobani Stadium"
-  },
-  {
-    "id": 1644369,
-    "date": "2026-11-04T21:00:00+03:00",
-    "league_id": 143,
-    "league": "Copa del Rey",
-    "country": "İspanya",
-    "home": "Portugalete",
-    "away": "Real Unión",
-    "home_id": 9408,
-    "away_id": 9586,
-    "home_logo": "https://media.api-sports.io/football/teams/9408.png",
-    "away_logo": "https://media.api-sports.io/football/teams/9586.png",
-    "status": "PST",
-    "minute": null,
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "venue": "Estadio La Florida"
-  },
-  {
-    "id": 1644335,
-    "date": "2026-11-04T22:00:00+03:00",
-    "league_id": 143,
-    "league": "Copa del Rey",
-    "country": "İspanya",
-    "home": "Amorebieta",
-    "away": "UD Logroñés",
-    "home_id": 9380,
-    "away_id": 5280,
-    "home_logo": "https://media.api-sports.io/football/teams/9380.png",
-    "away_logo": "https://media.api-sports.io/football/teams/5280.png",
-    "status": "PST",
-    "minute": null,
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "venue": "Campo Municipal de Urritxe"
-  },
-  {
-    "id": 1644353,
-    "date": "2026-11-04T22:30:00+03:00",
-    "league_id": 143,
-    "league": "Copa del Rey",
-    "country": "İspanya",
-    "home": "Deportiva Minera",
-    "away": "FC Cartagena",
-    "home_id": 9811,
-    "away_id": 5262,
-    "home_logo": "https://media.api-sports.io/football/teams/9811.png",
-    "away_logo": "https://media.api-sports.io/football/teams/5262.png",
-    "status": "PST",
-    "minute": null,
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "venue": "Estadio Municipal Angel Celdran"
-  },
-  {
-    "id": 1644373,
-    "date": "2026-11-04T22:30:00+03:00",
-    "league_id": 143,
-    "league": "Copa del Rey",
-    "country": "İspanya",
-    "home": "Reddis",
-    "away": "Barakaldo",
-    "home_id": 22136,
-    "away_id": 5251,
-    "home_logo": "https://media.api-sports.io/football/teams/22136.png",
-    "away_logo": "https://media.api-sports.io/football/teams/5251.png",
-    "status": "PST",
-    "minute": null,
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "venue": "Estadi Municipal de Reus"
-  },
-  {
-    "id": 1644384,
-    "date": "2026-11-04T22:30:00+03:00",
-    "league_id": 143,
-    "league": "Copa del Rey",
-    "country": "İspanya",
-    "home": "Utebo",
-    "away": "Sabadell",
-    "home_id": 9891,
-    "away_id": 9593,
-    "home_logo": "https://media.api-sports.io/football/teams/9891.png",
-    "away_logo": "https://media.api-sports.io/football/teams/9593.png",
-    "status": "PST",
-    "minute": null,
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "venue": "Campo Santa Ana"
-  },
-  {
-    "id": 1563248,
-    "date": "2026-11-04T22:45:00+03:00",
-    "league_id": 40,
-    "league": "Championship",
-    "country": "İngiltere",
-    "home": "Cardiff",
-    "away": "West Ham",
-    "home_id": 43,
-    "away_id": 48,
-    "home_logo": "https://media.api-sports.io/football/teams/43.png",
-    "away_logo": "https://media.api-sports.io/football/teams/48.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 3,
-      "away": 3
-    },
-    "venue": "Cardiff City Stadium"
-  },
-  {
-    "id": 1563250,
-    "date": "2026-11-04T22:45:00+03:00",
-    "league_id": 40,
-    "league": "Championship",
-    "country": "İngiltere",
-    "home": "Wrexham",
-    "away": "Middlesbrough",
-    "home_id": 1837,
-    "away_id": 70,
-    "home_logo": "https://media.api-sports.io/football/teams/1837.png",
-    "away_logo": "https://media.api-sports.io/football/teams/70.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 2,
-      "away": 0
-    },
-    "venue": "Racecourse Ground"
-  },
-  {
-    "id": 1644370,
-    "date": "2026-11-04T22:45:00+03:00",
-    "league_id": 143,
-    "league": "Copa del Rey",
-    "country": "İspanya",
-    "home": "Calvo Sotelo",
-    "away": "Albacete",
-    "home_id": 9899,
-    "away_id": 722,
-    "home_logo": "https://media.api-sports.io/football/teams/9899.png",
-    "away_logo": "https://media.api-sports.io/football/teams/722.png",
-    "status": "PST",
-    "minute": null,
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "venue": "New Municipal Stadium Ciudad de Puertollano"
-  },
-  {
-    "id": 1563247,
-    "date": "2026-11-04T23:00:00+03:00",
-    "league_id": 40,
-    "league": "Championship",
-    "country": "İngiltere",
-    "home": "Bristol City",
-    "away": "Wolves",
-    "home_id": 56,
-    "away_id": 39,
-    "home_logo": "https://media.api-sports.io/football/teams/56.png",
-    "away_logo": "https://media.api-sports.io/football/teams/39.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 2
-    },
-    "venue": "Ashton Gate Stadium"
-  },
-  {
-    "id": 1635651,
-    "date": "2026-11-04T23:00:00+03:00",
-    "league_id": 2,
-    "league": "Şampiyonlar Ligi",
-    "country": "Avrupa",
-    "home": "Borussia Dortmund",
-    "away": "Real Betis",
-    "home_id": 165,
-    "away_id": 543,
-    "home_logo": "https://media.api-sports.io/football/teams/165.png",
-    "away_logo": "https://media.api-sports.io/football/teams/543.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 2,
-      "away": 1
-    },
-    "venue": "Signal Iduna Park"
-  },
-  {
-    "id": 1635656,
-    "date": "2026-11-04T23:00:00+03:00",
-    "league_id": 2,
-    "league": "Şampiyonlar Ligi",
-    "country": "Avrupa",
-    "home": "FC Porto",
-    "away": "Napoli",
-    "home_id": 212,
-    "away_id": 492,
-    "home_logo": "https://media.api-sports.io/football/teams/212.png",
-    "away_logo": "https://media.api-sports.io/football/teams/492.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 4,
-      "away": 1
-    },
-    "venue": "Estádio do Dragão"
-  },
-  {
-    "id": 1635681,
-    "date": "2026-11-04T23:00:00+03:00",
-    "league_id": 2,
-    "league": "Şampiyonlar Ligi",
-    "country": "Avrupa",
-    "home": "Lens",
-    "away": "Como",
-    "home_id": 116,
-    "away_id": 895,
-    "home_logo": "https://media.api-sports.io/football/teams/116.png",
-    "away_logo": "https://media.api-sports.io/football/teams/895.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 9
-    },
-    "venue": "Stade Bollaert-Delelis"
-  },
-  {
-    "id": 1635707,
-    "date": "2026-11-04T23:00:00+03:00",
-    "league_id": 2,
-    "league": "Şampiyonlar Ligi",
-    "country": "Avrupa",
-    "home": "PSV Eindhoven",
-    "away": "Club Brugge KV",
-    "home_id": 197,
-    "away_id": 569,
-    "home_logo": "https://media.api-sports.io/football/teams/197.png",
-    "away_logo": "https://media.api-sports.io/football/teams/569.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 2
-    },
-    "venue": "Philips Stadion"
-  },
-  {
-    "id": 1635710,
-    "date": "2026-11-04T23:00:00+03:00",
-    "league_id": 2,
-    "league": "Şampiyonlar Ligi",
-    "country": "Avrupa",
-    "home": "RB Leipzig",
-    "away": "Manchester City",
-    "home_id": 173,
-    "away_id": 50,
-    "home_logo": "https://media.api-sports.io/football/teams/173.png",
-    "away_logo": "https://media.api-sports.io/football/teams/50.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 2,
-      "away": 3
-    },
-    "venue": "Leipzig Red Bull Arena"
-  },
-  {
-    "id": 1635726,
-    "date": "2026-11-04T23:00:00+03:00",
-    "league_id": 2,
-    "league": "Şampiyonlar Ligi",
-    "country": "Avrupa",
-    "home": "Slavia Praha",
-    "away": "Arsenal",
-    "home_id": 560,
-    "away_id": 42,
-    "home_logo": "https://media.api-sports.io/football/teams/560.png",
-    "away_logo": "https://media.api-sports.io/football/teams/42.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 2
-    },
-    "venue": "Sinobo Stadium"
-  },
-  {
-    "id": 1635745,
-    "date": "2026-11-04T23:00:00+03:00",
-    "league_id": 2,
-    "league": "Şampiyonlar Ligi",
-    "country": "Avrupa",
-    "home": "Viking",
-    "away": "Sabah FA",
-    "home_id": 759,
-    "away_id": 13976,
-    "home_logo": "https://media.api-sports.io/football/teams/759.png",
-    "away_logo": "https://media.api-sports.io/football/teams/13976.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 4,
-      "away": 1
-    },
-    "venue": "SR-Bank Arena"
-  },
-  {
     "id": 1648408,
     "date": "2026-11-05T03:00:00+03:00",
     "league_id": 66,
@@ -431,11 +31,11 @@
     "away_id": 651,
     "home_logo": "https://media.api-sports.io/football/teams/489.png",
     "away_logo": "https://media.api-sports.io/football/teams/651.png",
-    "status": "1H",
-    "minute": 10,
+    "status": "FT",
+    "minute": 90,
     "goals": {
       "home": 0,
-      "away": 0
+      "away": 2
     },
     "venue": "San Siro/Giuseppe Meazza"
   },
@@ -451,10 +51,10 @@
     "away_id": 571,
     "home_logo": "https://media.api-sports.io/football/teams/554.png",
     "away_logo": "https://media.api-sports.io/football/teams/571.png",
-    "status": "1H",
-    "minute": 11,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "venue": "Lotto Park"
@@ -471,10 +71,10 @@
     "away_id": 167,
     "home_logo": "https://media.api-sports.io/football/teams/52.png",
     "away_logo": "https://media.api-sports.io/football/teams/167.png",
-    "status": "1H",
-    "minute": 11,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
+      "home": 1,
       "away": 1
     },
     "venue": "Selhurst Park"
@@ -491,10 +91,10 @@
     "away_id": 336,
     "home_logo": "https://media.api-sports.io/football/teams/646.png",
     "away_logo": "https://media.api-sports.io/football/teams/336.png",
-    "status": "1H",
-    "minute": 11,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "venue": "Vasil Levski National Stadium"
@@ -511,8 +111,8 @@
     "away_id": 567,
     "home_logo": "https://media.api-sports.io/football/teams/321.png",
     "away_logo": "https://media.api-sports.io/football/teams/567.png",
-    "status": "1H",
-    "minute": 11,
+    "status": "FT",
+    "minute": 90,
     "goals": {
       "home": 0,
       "away": 1
@@ -531,11 +131,11 @@
     "away_id": 3402,
     "home_logo": "https://media.api-sports.io/football/teams/413.png",
     "away_logo": "https://media.api-sports.io/football/teams/3402.png",
-    "status": "1H",
-    "minute": 11,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 1
     },
     "venue": "Stadion de Goffert"
   },
@@ -551,11 +151,11 @@
     "away_id": 80,
     "home_logo": "https://media.api-sports.io/football/teams/548.png",
     "away_logo": "https://media.api-sports.io/football/teams/80.png",
-    "status": "1H",
-    "minute": 11,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "venue": "Anoeta Stadium"
   },
@@ -571,11 +171,11 @@
     "away_id": 35,
     "home_logo": "https://media.api-sports.io/football/teams/628.png",
     "away_logo": "https://media.api-sports.io/football/teams/35.png",
-    "status": "1H",
-    "minute": 11,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 3
     },
     "venue": "Stadion Letná"
   },
@@ -591,13 +191,13 @@
     "away_id": 217,
     "home_logo": "https://media.api-sports.io/football/teams/406.png",
     "away_logo": "https://media.api-sports.io/football/teams/217.png",
-    "status": "1H",
-    "minute": 9,
+    "status": "FT",
+    "minute": 90,
     "goals": {
       "home": 0,
       "away": 0
     },
-    "venue": "Cepheus Park"
+    "venue": "Cepheus Park Randers"
   },
   {
     "id": 1636383,
@@ -611,11 +211,11 @@
     "away_id": 664,
     "home_logo": "https://media.api-sports.io/football/teams/499.png",
     "away_logo": "https://media.api-sports.io/football/teams/664.png",
-    "status": "1H",
-    "minute": 11,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "venue": "New Balance Arena"
   },
@@ -631,13 +231,13 @@
     "away_id": 3342,
     "home_logo": "https://media.api-sports.io/football/teams/598.png",
     "away_logo": "https://media.api-sports.io/football/teams/3342.png",
-    "status": "1H",
-    "minute": 11,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
-    "venue": "Stadion Rajko Mit"
+    "venue": "Stadium Rajko Mitić"
   },
   {
     "id": 1636439,
@@ -651,13 +251,13 @@
     "away_id": 631,
     "home_logo": "https://media.api-sports.io/football/teams/1165.png",
     "away_logo": "https://media.api-sports.io/football/teams/631.png",
-    "status": "1H",
-    "minute": 11,
+    "status": "FT",
+    "minute": 90,
     "goals": {
       "home": 0,
       "away": 0
     },
-    "venue": "Tammelan Stadion"
+    "venue": "Tammela Stadium"
   },
   {
     "id": 1636444,
@@ -671,13 +271,13 @@
     "away_id": 608,
     "home_logo": "https://media.api-sports.io/football/teams/667.png",
     "away_logo": "https://media.api-sports.io/football/teams/608.png",
-    "status": "1H",
-    "minute": 11,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
-    "venue": "Europa Point Stadium"
+    "venue": "Europa Sports Park"
   },
   {
     "id": 1636448,
@@ -691,11 +291,11 @@
     "away_id": 194,
     "home_logo": "https://media.api-sports.io/football/teams/397.png",
     "away_logo": "https://media.api-sports.io/football/teams/194.png",
-    "status": "PST",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 6
     },
     "venue": "MCH Arena"
   },
@@ -711,10 +311,10 @@
     "away_id": 3364,
     "home_logo": "https://media.api-sports.io/football/teams/2240.png",
     "away_logo": "https://media.api-sports.io/football/teams/3364.png",
-    "status": "1H",
-    "minute": 11,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "venue": "Olympia"
@@ -731,11 +331,11 @@
     "away_id": 254,
     "home_logo": "https://media.api-sports.io/football/teams/1012.png",
     "away_logo": "https://media.api-sports.io/football/teams/254.png",
-    "status": "1H",
-    "minute": 10,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 1
     },
     "venue": "Stockhorn Arena"
   },
@@ -751,11 +351,11 @@
     "away_id": 160,
     "home_logo": "https://media.api-sports.io/football/teams/998.png",
     "away_logo": "https://media.api-sports.io/football/teams/160.png",
-    "status": "1H",
-    "minute": 11,
+    "status": "FT",
+    "minute": 90,
     "goals": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "venue": "Papara Park"
   },
@@ -771,7 +371,7 @@
     "away_id": 539,
     "home_logo": "https://media.api-sports.io/football/teams/9907.png",
     "away_logo": "https://media.api-sports.io/football/teams/539.png",
-    "status": "PST",
+    "status": "NS",
     "minute": null,
     "goals": {
       "home": null,
@@ -791,11 +391,11 @@
     "away_id": 496,
     "home_logo": "https://media.api-sports.io/football/teams/201.png",
     "away_logo": "https://media.api-sports.io/football/teams/496.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 2
     },
     "venue": "AFAS Stadion（Alkmaar）"
   },
@@ -811,11 +411,11 @@
     "away_id": 81,
     "home_logo": "https://media.api-sports.io/football/teams/168.png",
     "away_logo": "https://media.api-sports.io/football/teams/81.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": "BayArena"
   },
@@ -831,11 +431,11 @@
     "away_id": 347,
     "home_logo": "https://media.api-sports.io/football/teams/211.png",
     "away_logo": "https://media.api-sports.io/football/teams/347.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 3,
+      "away": 1
     },
     "venue": "Estádio da Luz"
   },
@@ -851,11 +451,11 @@
     "away_id": 1393,
     "home_logo": "https://media.api-sports.io/football/teams/538.png",
     "away_logo": "https://media.api-sports.io/football/teams/1393.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 2
     },
     "venue": "Municipal de Balaídos"
   },
@@ -871,11 +471,11 @@
     "away_id": 549,
     "home_logo": "https://media.api-sports.io/football/teams/247.png",
     "away_logo": "https://media.api-sports.io/football/teams/549.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 3,
+      "away": 2
     },
     "venue": "Celtic Park"
   },
@@ -891,11 +491,11 @@
     "away_id": 1124,
     "home_logo": "https://media.api-sports.io/football/teams/563.png",
     "away_logo": "https://media.api-sports.io/football/teams/1124.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 2
     },
     "venue": "Giulești"
   },
@@ -911,11 +511,11 @@
     "away_id": 4360,
     "home_logo": "https://media.api-sports.io/football/teams/637.png",
     "away_logo": "https://media.api-sports.io/football/teams/4360.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 3
     },
     "venue": "Stadion Graz-Liebenau"
   },
@@ -931,11 +531,11 @@
     "away_id": 620,
     "home_logo": "https://media.api-sports.io/football/teams/746.png",
     "away_logo": "https://media.api-sports.io/football/teams/620.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 2
     },
     "venue": "Stadium of Light"
   },
@@ -951,11 +551,11 @@
     "away_id": 3683,
     "home_logo": "https://media.api-sports.io/football/teams/4799.png",
     "away_logo": "https://media.api-sports.io/football/teams/3683.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 3,
+      "away": 2
     },
     "venue": "Estádio Dr. Magalhães Pessoa"
   },
@@ -971,13 +571,13 @@
     "away_id": 3502,
     "home_logo": "https://media.api-sports.io/football/teams/400.png",
     "away_logo": "https://media.api-sports.io/football/teams/3502.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 1
     },
-    "venue": "Parken Stadium"
+    "venue": "Parken"
   },
   {
     "id": 1636416,
@@ -991,13 +591,13 @@
     "away_id": 51,
     "home_logo": "https://media.api-sports.io/football/teams/546.png",
     "away_logo": "https://media.api-sports.io/football/teams/51.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
-    "venue": "Coliseum"
+    "venue": "Coliseum Alfonso Pérez"
   },
   {
     "id": 1636447,
@@ -1011,11 +611,11 @@
     "away_id": 3872,
     "home_logo": "https://media.api-sports.io/football/teams/606.png",
     "away_logo": "https://media.api-sports.io/football/teams/3872.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 3,
+      "away": 0
     },
     "venue": "AIL Arena"
   },
@@ -1031,11 +631,11 @@
     "away_id": 398,
     "home_logo": "https://media.api-sports.io/football/teams/91.png",
     "away_logo": "https://media.api-sports.io/football/teams/398.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 0
     },
     "venue": "Stade Louis II"
   },
@@ -1051,13 +651,13 @@
     "away_id": 853,
     "home_logo": "https://media.api-sports.io/football/teams/617.png",
     "away_logo": "https://media.api-sports.io/football/teams/853.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 1
     },
-    "venue": "Olympic Stadium of Athens"
+    "venue": "Spiros Louis Olympic Stadium"
   },
   {
     "id": 1636466,
@@ -1071,13 +671,13 @@
     "away_id": 1122,
     "home_logo": "https://media.api-sports.io/football/teams/10124.png",
     "away_logo": "https://media.api-sports.io/football/teams/1122.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 1
     },
-    "venue": "Skonto stadions"
+    "venue": "Skonto"
   },
   {
     "id": 1636469,
@@ -1091,13 +691,13 @@
     "away_id": 319,
     "home_logo": "https://media.api-sports.io/football/teams/735.png",
     "away_logo": "https://media.api-sports.io/football/teams/319.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 1
     },
-    "venue": "Daio Wasabi Stayen"
+    "venue": "Stayen"
   },
   {
     "id": 1636478,
@@ -1111,11 +711,11 @@
     "away_id": 3403,
     "home_logo": "https://media.api-sports.io/football/teams/415.png",
     "away_logo": "https://media.api-sports.io/football/teams/3403.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 3,
+      "away": 1
     },
     "venue": "De Grolsch Veste"
   },
@@ -1131,33 +731,13 @@
     "away_id": 3327,
     "home_logo": "https://media.api-sports.io/football/teams/632.png",
     "away_logo": "https://media.api-sports.io/football/teams/3327.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 0
     },
     "venue": "Stadionul Ion Oblemenco"
-  },
-  {
-    "id": 1644334,
-    "date": "2026-11-05T23:00:00+03:00",
-    "league_id": 143,
-    "league": "Copa del Rey",
-    "country": "İspanya",
-    "home": "Alcoyano",
-    "away": "Mallorca",
-    "home_id": 9686,
-    "away_id": 798,
-    "home_logo": "https://media.api-sports.io/football/teams/9686.png",
-    "away_logo": "https://media.api-sports.io/football/teams/798.png",
-    "status": "PST",
-    "minute": null,
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "venue": "Estadio El Collao"
   },
   {
     "id": 1584462,
@@ -1551,7 +1131,7 @@
     "away_id": 545,
     "home_logo": "https://media.api-sports.io/football/teams/5254.png",
     "away_logo": "https://media.api-sports.io/football/teams/545.png",
-    "status": "NS",
+    "status": "PST",
     "minute": null,
     "goals": {
       "home": null,
@@ -1738,5 +1318,1885 @@
       "away": null
     },
     "venue": "Estadio Ramón Sánchez-Pizjuán"
+  },
+  {
+    "id": 1648409,
+    "date": "2026-11-07T02:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Olympique Cayenne",
+    "away": "Etoile Matoury",
+    "home_id": 16591,
+    "away_id": 3048,
+    "home_logo": "https://media.api-sports.io/football/teams/16591.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3048.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1584460,
+    "date": "2026-11-07T13:30:00+03:00",
+    "league_id": 203,
+    "league": "Süper Lig",
+    "country": "Türkiye",
+    "home": "Eyüpspor",
+    "away": "Kocaelispor",
+    "home_id": 3588,
+    "away_id": 7411,
+    "home_logo": "https://media.api-sports.io/football/teams/3588.png",
+    "away_logo": "https://media.api-sports.io/football/teams/7411.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1585822,
+    "date": "2026-11-07T13:30:00+03:00",
+    "league_id": 204,
+    "league": "1. Lig",
+    "country": "Türkiye",
+    "home": "Keçiörengücü",
+    "away": "Manisa F.K.",
+    "home_id": 3595,
+    "away_id": 3597,
+    "home_logo": "https://media.api-sports.io/football/teams/3595.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3597.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Aktepe Stadium"
+  },
+  {
+    "id": 1585828,
+    "date": "2026-11-07T13:30:00+03:00",
+    "league_id": 204,
+    "league": "1. Lig",
+    "country": "Türkiye",
+    "home": "Vanspor FK",
+    "away": "Sivasspor",
+    "home_id": 6342,
+    "away_id": 1002,
+    "home_logo": "https://media.api-sports.io/football/teams/6342.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1002.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Van Ataturk Stadi"
+  },
+  {
+    "id": 1576228,
+    "date": "2026-11-07T15:00:00+03:00",
+    "league_id": 79,
+    "league": "2. Bundesliga",
+    "country": "Almanya",
+    "home": "Holstein Kiel",
+    "away": "Arminia Bielefeld",
+    "home_id": 191,
+    "away_id": 188,
+    "home_logo": "https://media.api-sports.io/football/teams/191.png",
+    "away_logo": "https://media.api-sports.io/football/teams/188.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Holstein-Stadion"
+  },
+  {
+    "id": 1576230,
+    "date": "2026-11-07T15:00:00+03:00",
+    "league_id": 79,
+    "league": "2. Bundesliga",
+    "country": "Almanya",
+    "home": "1. FC Nürnberg",
+    "away": "SV Darmstadt 98",
+    "home_id": 171,
+    "away_id": 181,
+    "home_logo": "https://media.api-sports.io/football/teams/171.png",
+    "away_logo": "https://media.api-sports.io/football/teams/181.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Max-Morlock-Stadion"
+  },
+  {
+    "id": 1576232,
+    "date": "2026-11-07T15:00:00+03:00",
+    "league_id": 79,
+    "league": "2. Bundesliga",
+    "country": "Almanya",
+    "home": "VfL Osnabrück",
+    "away": "1. FC Kaiserslautern",
+    "home_id": 1324,
+    "away_id": 745,
+    "home_logo": "https://media.api-sports.io/football/teams/1324.png",
+    "away_logo": "https://media.api-sports.io/football/teams/745.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stadion an der Bremer Brücke"
+  },
+  {
+    "id": 1557463,
+    "date": "2026-11-07T15:30:00+03:00",
+    "league_id": 39,
+    "league": "Premier League",
+    "country": "İngiltere",
+    "home": "Leeds",
+    "away": "Tottenham",
+    "home_id": 63,
+    "away_id": 47,
+    "home_logo": "https://media.api-sports.io/football/teams/63.png",
+    "away_logo": "https://media.api-sports.io/football/teams/47.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Elland Road"
+  },
+  {
+    "id": 1563253,
+    "date": "2026-11-07T15:30:00+03:00",
+    "league_id": 40,
+    "league": "Championship",
+    "country": "İngiltere",
+    "home": "Bristol City",
+    "away": "Norwich",
+    "home_id": 56,
+    "away_id": 71,
+    "home_logo": "https://media.api-sports.io/football/teams/56.png",
+    "away_logo": "https://media.api-sports.io/football/teams/71.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Ashton Gate Stadium"
+  },
+  {
+    "id": 1563257,
+    "date": "2026-11-07T15:30:00+03:00",
+    "league_id": 40,
+    "league": "Championship",
+    "country": "İngiltere",
+    "home": "Portsmouth",
+    "away": "Stoke City",
+    "home_id": 1355,
+    "away_id": 75,
+    "home_logo": "https://media.api-sports.io/football/teams/1355.png",
+    "away_logo": "https://media.api-sports.io/football/teams/75.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Fratton Park"
+  },
+  {
+    "id": 1563262,
+    "date": "2026-11-07T15:30:00+03:00",
+    "league_id": 40,
+    "league": "Championship",
+    "country": "İngiltere",
+    "home": "Wrexham",
+    "away": "Wolves",
+    "home_id": 1837,
+    "away_id": 39,
+    "home_logo": "https://media.api-sports.io/football/teams/1837.png",
+    "away_logo": "https://media.api-sports.io/football/teams/39.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Racecourse Ground"
+  },
+  {
+    "id": 1552523,
+    "date": "2026-11-07T16:00:00+03:00",
+    "league_id": 62,
+    "league": "Ligue 2",
+    "country": "Fransa",
+    "home": "Clermont Foot",
+    "away": "Rodez",
+    "home_id": 99,
+    "away_id": 1301,
+    "home_logo": "https://media.api-sports.io/football/teams/99.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1301.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stade Gabriel Montpied"
+  },
+  {
+    "id": 1570004,
+    "date": "2026-11-07T16:00:00+03:00",
+    "league_id": 141,
+    "league": "La Liga 2",
+    "country": "İspanya",
+    "home": "Burgos",
+    "away": "Celta de Vigo II",
+    "home_id": 9580,
+    "away_id": 9571,
+    "home_logo": "https://media.api-sports.io/football/teams/9580.png",
+    "away_logo": "https://media.api-sports.io/football/teams/9571.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Municipal El Plantio"
+  },
+  {
+    "id": 1570447,
+    "date": "2026-11-07T16:00:00+03:00",
+    "league_id": 140,
+    "league": "La Liga",
+    "country": "İspanya",
+    "home": "Malaga",
+    "away": "Racing Santander",
+    "home_id": 535,
+    "away_id": 4665,
+    "home_logo": "https://media.api-sports.io/football/teams/535.png",
+    "away_logo": "https://media.api-sports.io/football/teams/4665.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "La Rosaleda"
+  },
+  {
+    "id": 1584465,
+    "date": "2026-11-07T16:00:00+03:00",
+    "league_id": 203,
+    "league": "Süper Lig",
+    "country": "Türkiye",
+    "home": "Samsunspor",
+    "away": "Konyaspor",
+    "home_id": 3603,
+    "away_id": 607,
+    "home_logo": "https://media.api-sports.io/football/teams/3603.png",
+    "away_logo": "https://media.api-sports.io/football/teams/607.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Samsun 19 Mayis Stadyumu"
+  },
+  {
+    "id": 1585824,
+    "date": "2026-11-07T16:00:00+03:00",
+    "league_id": 204,
+    "league": "1. Lig",
+    "country": "Türkiye",
+    "home": "Muğlaspor",
+    "away": "Esenler Erokspor",
+    "home_id": 7414,
+    "away_id": 7402,
+    "home_logo": "https://media.api-sports.io/football/teams/7414.png",
+    "away_logo": "https://media.api-sports.io/football/teams/7402.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Mugla Ataturk Stadyumu"
+  },
+  {
+    "id": 1550188,
+    "date": "2026-11-07T17:00:00+03:00",
+    "league_id": 135,
+    "league": "Serie A",
+    "country": "İtalya",
+    "home": "Cagliari",
+    "away": "Frosinone",
+    "home_id": 490,
+    "away_id": 512,
+    "home_logo": "https://media.api-sports.io/football/teams/490.png",
+    "away_logo": "https://media.api-sports.io/football/teams/512.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Unipol Domus"
+  },
+  {
+    "id": 1550195,
+    "date": "2026-11-07T17:00:00+03:00",
+    "league_id": 135,
+    "league": "Serie A",
+    "country": "İtalya",
+    "home": "Torino",
+    "away": "Lecce",
+    "home_id": 503,
+    "away_id": 867,
+    "home_logo": "https://media.api-sports.io/football/teams/503.png",
+    "away_logo": "https://media.api-sports.io/football/teams/867.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stadio Olimpico Grande Torino"
+  },
+  {
+    "id": 1601596,
+    "date": "2026-11-07T17:00:00+03:00",
+    "league_id": 136,
+    "league": "Serie B",
+    "country": "İtalya",
+    "home": "Cesena",
+    "away": "Catanzaro",
+    "home_id": 509,
+    "away_id": 1687,
+    "home_logo": "https://media.api-sports.io/football/teams/509.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1687.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Dino Manuzzi"
+  },
+  {
+    "id": 1601598,
+    "date": "2026-11-07T17:00:00+03:00",
+    "league_id": 136,
+    "league": "Serie B",
+    "country": "İtalya",
+    "home": "Juve Stabia",
+    "away": "Arezzo",
+    "home_id": 863,
+    "away_id": 876,
+    "home_logo": "https://media.api-sports.io/football/teams/863.png",
+    "away_logo": "https://media.api-sports.io/football/teams/876.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stadio Romeo Menti"
+  },
+  {
+    "id": 1601601,
+    "date": "2026-11-07T17:00:00+03:00",
+    "league_id": 136,
+    "league": "Serie B",
+    "country": "İtalya",
+    "home": "Padova",
+    "away": "Empoli",
+    "home_id": 870,
+    "away_id": 511,
+    "home_logo": "https://media.api-sports.io/football/teams/870.png",
+    "away_logo": "https://media.api-sports.io/football/teams/511.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stadio Comunale Euganeo"
+  },
+  {
+    "id": 1601602,
+    "date": "2026-11-07T17:00:00+03:00",
+    "league_id": 136,
+    "league": "Serie B",
+    "country": "İtalya",
+    "home": "Pisa",
+    "away": "Sudtirol",
+    "home_id": 801,
+    "away_id": 1578,
+    "home_logo": "https://media.api-sports.io/football/teams/801.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1578.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Arena Garibaldi"
+  },
+  {
+    "id": 1575212,
+    "date": "2026-11-07T17:30:00+03:00",
+    "league_id": 78,
+    "league": "Bundesliga",
+    "country": "Almanya",
+    "home": "Borussia Dortmund",
+    "away": "SV Elversberg",
+    "home_id": 165,
+    "away_id": 1660,
+    "home_logo": "https://media.api-sports.io/football/teams/165.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1660.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Signal Iduna Park"
+  },
+  {
+    "id": 1575213,
+    "date": "2026-11-07T17:30:00+03:00",
+    "league_id": 78,
+    "league": "Bundesliga",
+    "country": "Almanya",
+    "home": "RB Leipzig",
+    "away": "FC Augsburg",
+    "home_id": 173,
+    "away_id": 170,
+    "home_logo": "https://media.api-sports.io/football/teams/173.png",
+    "away_logo": "https://media.api-sports.io/football/teams/170.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Leipzig Red Bull Arena"
+  },
+  {
+    "id": 1575217,
+    "date": "2026-11-07T17:30:00+03:00",
+    "league_id": 78,
+    "league": "Bundesliga",
+    "country": "Almanya",
+    "home": "FSV Mainz 05",
+    "away": "Bayern München",
+    "home_id": 164,
+    "away_id": 157,
+    "home_logo": "https://media.api-sports.io/football/teams/164.png",
+    "away_logo": "https://media.api-sports.io/football/teams/157.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "MEWA Arena"
+  },
+  {
+    "id": 1575220,
+    "date": "2026-11-07T17:30:00+03:00",
+    "league_id": 78,
+    "league": "Bundesliga",
+    "country": "Almanya",
+    "home": "SC Paderborn 07",
+    "away": "Eintracht Frankfurt",
+    "home_id": 185,
+    "away_id": 169,
+    "home_logo": "https://media.api-sports.io/football/teams/185.png",
+    "away_logo": "https://media.api-sports.io/football/teams/169.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Home Deluxe Arena"
+  },
+  {
+    "id": 1557457,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 39,
+    "league": "Premier League",
+    "country": "İngiltere",
+    "home": "Arsenal",
+    "away": "Hull City",
+    "home_id": 42,
+    "away_id": 64,
+    "home_logo": "https://media.api-sports.io/football/teams/42.png",
+    "away_logo": "https://media.api-sports.io/football/teams/64.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Emirates Stadium"
+  },
+  {
+    "id": 1557461,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 39,
+    "league": "Premier League",
+    "country": "İngiltere",
+    "home": "Fulham",
+    "away": "Newcastle",
+    "home_id": 36,
+    "away_id": 34,
+    "home_logo": "https://media.api-sports.io/football/teams/36.png",
+    "away_logo": "https://media.api-sports.io/football/teams/34.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Craven Cottage"
+  },
+  {
+    "id": 1563251,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 40,
+    "league": "Championship",
+    "country": "İngiltere",
+    "home": "Birmingham",
+    "away": "Swansea",
+    "home_id": 54,
+    "away_id": 76,
+    "home_logo": "https://media.api-sports.io/football/teams/54.png",
+    "away_logo": "https://media.api-sports.io/football/teams/76.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "St. Andrew's Stadium"
+  },
+  {
+    "id": 1563252,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 40,
+    "league": "Championship",
+    "country": "İngiltere",
+    "home": "Blackburn",
+    "away": "West Ham",
+    "home_id": 67,
+    "away_id": 48,
+    "home_logo": "https://media.api-sports.io/football/teams/67.png",
+    "away_logo": "https://media.api-sports.io/football/teams/48.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Ewood Park"
+  },
+  {
+    "id": 1563254,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 40,
+    "league": "Championship",
+    "country": "İngiltere",
+    "home": "Cardiff",
+    "away": "Burnley",
+    "home_id": 43,
+    "away_id": 44,
+    "home_logo": "https://media.api-sports.io/football/teams/43.png",
+    "away_logo": "https://media.api-sports.io/football/teams/44.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Cardiff City Stadium"
+  },
+  {
+    "id": 1563255,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 40,
+    "league": "Championship",
+    "country": "İngiltere",
+    "home": "Charlton",
+    "away": "Sheffield Utd",
+    "home_id": 1335,
+    "away_id": 62,
+    "home_logo": "https://media.api-sports.io/football/teams/1335.png",
+    "away_logo": "https://media.api-sports.io/football/teams/62.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "The Valley"
+  },
+  {
+    "id": 1563258,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 40,
+    "league": "Championship",
+    "country": "İngiltere",
+    "home": "Preston",
+    "away": "Southampton",
+    "home_id": 59,
+    "away_id": 41,
+    "home_logo": "https://media.api-sports.io/football/teams/59.png",
+    "away_logo": "https://media.api-sports.io/football/teams/41.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Deepdale Stadium"
+  },
+  {
+    "id": 1563259,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 40,
+    "league": "Championship",
+    "country": "İngiltere",
+    "home": "QPR",
+    "away": "Lincoln",
+    "home_id": 72,
+    "away_id": 1379,
+    "home_logo": "https://media.api-sports.io/football/teams/72.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1379.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Loftus Road"
+  },
+  {
+    "id": 1563260,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 40,
+    "league": "Championship",
+    "country": "İngiltere",
+    "home": "Watford",
+    "away": "Middlesbrough",
+    "home_id": 38,
+    "away_id": 70,
+    "home_logo": "https://media.api-sports.io/football/teams/38.png",
+    "away_logo": "https://media.api-sports.io/football/teams/70.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Vicarage Road"
+  },
+  {
+    "id": 1563261,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 40,
+    "league": "Championship",
+    "country": "İngiltere",
+    "home": "West Brom",
+    "away": "Millwall",
+    "home_id": 60,
+    "away_id": 58,
+    "home_logo": "https://media.api-sports.io/football/teams/60.png",
+    "away_logo": "https://media.api-sports.io/football/teams/58.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "The Hawthorns"
+  },
+  {
+    "id": 1646790,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Accrington ST",
+    "away": "Wycombe",
+    "home_id": 1360,
+    "away_id": 1358,
+    "home_logo": "https://media.api-sports.io/football/teams/1360.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1358.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "The Crown Ground"
+  },
+  {
+    "id": 1646791,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Barnet",
+    "away": "Tranmere",
+    "home_id": 1369,
+    "away_id": 1381,
+    "home_logo": "https://media.api-sports.io/football/teams/1369.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1381.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "The Hive Stadium"
+  },
+  {
+    "id": 1646792,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Boreham Wood",
+    "away": "Wigan",
+    "home_id": 1830,
+    "away_id": 61,
+    "home_logo": "https://media.api-sports.io/football/teams/1830.png",
+    "away_logo": "https://media.api-sports.io/football/teams/61.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Meadow Park"
+  },
+  {
+    "id": 1646793,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Bradford",
+    "away": "Marine",
+    "home_id": 1343,
+    "away_id": 7656,
+    "home_logo": "https://media.api-sports.io/football/teams/1343.png",
+    "away_logo": "https://media.api-sports.io/football/teams/7656.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Valley Parade"
+  },
+  {
+    "id": 1646795,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Bromley",
+    "away": "Rotherham",
+    "home_id": 1832,
+    "away_id": 73,
+    "home_logo": "https://media.api-sports.io/football/teams/1832.png",
+    "away_logo": "https://media.api-sports.io/football/teams/73.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Copperjax Community Stadium"
+  },
+  {
+    "id": 1646796,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Burton Albion",
+    "away": "AFC Rushden & Diamonds",
+    "home_id": 748,
+    "away_id": 7691,
+    "home_logo": "https://media.api-sports.io/football/teams/748.png",
+    "away_logo": "https://media.api-sports.io/football/teams/7691.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Pirelli Stadium"
+  },
+  {
+    "id": 1646797,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Carlisle",
+    "away": "Salford City",
+    "home_id": 1371,
+    "away_id": 1844,
+    "home_logo": "https://media.api-sports.io/football/teams/1371.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1844.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Brunton Park"
+  },
+  {
+    "id": 1646798,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Cheltenham",
+    "away": "FC Halifax Town",
+    "home_id": 1372,
+    "away_id": 1841,
+    "home_logo": "https://media.api-sports.io/football/teams/1372.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1841.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Whaddon Road"
+  },
+  {
+    "id": 1646799,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Crewe",
+    "away": "AFC Wimbledon",
+    "home_id": 1363,
+    "away_id": 1333,
+    "home_logo": "https://media.api-sports.io/football/teams/1363.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1333.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Alexandra Stadium"
+  },
+  {
+    "id": 1646800,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Dover",
+    "away": "Wealdstone",
+    "home_id": 1829,
+    "away_id": 8663,
+    "home_logo": "https://media.api-sports.io/football/teams/1829.png",
+    "away_logo": "https://media.api-sports.io/football/teams/8663.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Crabble Athletic Ground"
+  },
+  {
+    "id": 1646801,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Eastleigh",
+    "away": "Shrewsbury",
+    "home_id": 1822,
+    "away_id": 1352,
+    "home_logo": "https://media.api-sports.io/football/teams/1822.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1352.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Silverlake Stadium"
+  },
+  {
+    "id": 1646802,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Fleetwood Town",
+    "away": "Rochdale",
+    "home_id": 1336,
+    "away_id": 1339,
+    "home_logo": "https://media.api-sports.io/football/teams/1336.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1339.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Highbury Stadium"
+  },
+  {
+    "id": 1646803,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Guiseley AFC",
+    "away": "Sutton Utd",
+    "home_id": 1824,
+    "away_id": 1835,
+    "home_logo": "https://media.api-sports.io/football/teams/1824.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1835.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Nethermoor Park"
+  },
+  {
+    "id": 1646804,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "AFC Hornchurch",
+    "away": "Blackpool",
+    "home_id": 7690,
+    "away_id": 1356,
+    "home_logo": "https://media.api-sports.io/football/teams/7690.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1356.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Hornchurch Stadium"
+  },
+  {
+    "id": 1646805,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Huddersfield",
+    "away": "Exeter City",
+    "home_id": 37,
+    "away_id": 1364,
+    "home_logo": "https://media.api-sports.io/football/teams/37.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1364.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "John Smith's Stadium"
+  },
+  {
+    "id": 1646806,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Kidderminster Harriers",
+    "away": "Doncaster",
+    "home_id": 4695,
+    "away_id": 1354,
+    "home_logo": "https://media.api-sports.io/football/teams/4695.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1354.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Aggborough"
+  },
+  {
+    "id": 1646807,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Leyton Orient",
+    "away": "Harborough Town",
+    "home_id": 1373,
+    "away_id": 8812,
+    "home_logo": "https://media.api-sports.io/football/teams/1373.png",
+    "away_logo": "https://media.api-sports.io/football/teams/8812.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Matchroom Stadium"
+  },
+  {
+    "id": 1646808,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Milton Keynes Dons",
+    "away": "Swindon Town",
+    "home_id": 1348,
+    "away_id": 1353,
+    "home_logo": "https://media.api-sports.io/football/teams/1348.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1353.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stadium MK"
+  },
+  {
+    "id": 1646809,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Newport County",
+    "away": "Walsall",
+    "home_id": 1367,
+    "away_id": 1342,
+    "home_logo": "https://media.api-sports.io/football/teams/1367.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1342.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Rodney Parade"
+  },
+  {
+    "id": 1646812,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Oxford United",
+    "away": "Stevenage",
+    "home_id": 1338,
+    "away_id": 1368,
+    "home_logo": "https://media.api-sports.io/football/teams/1338.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1368.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Kassam Stadium"
+  },
+  {
+    "id": 1646815,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Port Vale",
+    "away": "Scunthorpe",
+    "home_id": 1351,
+    "away_id": 1340,
+    "home_logo": "https://media.api-sports.io/football/teams/1351.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1340.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Vale Park"
+  },
+  {
+    "id": 1646816,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Salisbury",
+    "away": "Sholing",
+    "home_id": 7744,
+    "away_id": 7668,
+    "home_logo": "https://media.api-sports.io/football/teams/7744.png",
+    "away_logo": "https://media.api-sports.io/football/teams/7668.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Raymond McEnhill Stadium"
+  },
+  {
+    "id": 1646818,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "York",
+    "away": "Northampton",
+    "home_id": 1828,
+    "away_id": 1337,
+    "home_logo": "https://media.api-sports.io/football/teams/1828.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1337.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "York`s LNER Community Stadium"
+  },
+  {
+    "id": 1646906,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Barnsley",
+    "away": "Aldershot Town",
+    "home_id": 747,
+    "away_id": 1818,
+    "home_logo": "https://media.api-sports.io/football/teams/747.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1818.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Oakwell Ground"
+  },
+  {
+    "id": 1646907,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Chesterfield",
+    "away": "Yeovil Town",
+    "home_id": 1345,
+    "away_id": 1377,
+    "home_logo": "https://media.api-sports.io/football/teams/1345.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1377.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Proact Stadium"
+  },
+  {
+    "id": 1646908,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Colchester",
+    "away": "Worcester City",
+    "home_id": 1361,
+    "away_id": 9010,
+    "home_logo": "https://media.api-sports.io/football/teams/1361.png",
+    "away_logo": "https://media.api-sports.io/football/teams/9010.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Colchester Community Stadium"
+  },
+  {
+    "id": 1646910,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Gillingham",
+    "away": "Barrow",
+    "home_id": 1347,
+    "away_id": 1819,
+    "home_logo": "https://media.api-sports.io/football/teams/1347.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1819.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Priestfield Stadium"
+  },
+  {
+    "id": 1646911,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Harrogate Town",
+    "away": "AFC Fylde",
+    "home_id": 1842,
+    "away_id": 1839,
+    "home_logo": "https://media.api-sports.io/football/teams/1842.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1839.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "CNG Stadium"
+  },
+  {
+    "id": 1646912,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Luton",
+    "away": "Forest Green",
+    "home_id": 1359,
+    "away_id": 1378,
+    "home_logo": "https://media.api-sports.io/football/teams/1359.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1378.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Kenilworth Road"
+  },
+  {
+    "id": 1646913,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Mansfield Town",
+    "away": "Macclesfield",
+    "home_id": 1374,
+    "away_id": 1380,
+    "home_logo": "https://media.api-sports.io/football/teams/1374.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1380.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Field Mill"
+  },
+  {
+    "id": 1646914,
+    "date": "2026-11-07T18:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Plymouth",
+    "away": "Alvechurch",
+    "home_id": 1357,
+    "away_id": 7692,
+    "home_logo": "https://media.api-sports.io/football/teams/1357.png",
+    "away_logo": "https://media.api-sports.io/football/teams/7692.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Home Park"
+  },
+  {
+    "id": 1570005,
+    "date": "2026-11-07T18:15:00+03:00",
+    "league_id": 141,
+    "league": "La Liga 2",
+    "country": "İspanya",
+    "home": "Cadiz",
+    "away": "Oviedo",
+    "home_id": 724,
+    "away_id": 718,
+    "home_logo": "https://media.api-sports.io/football/teams/724.png",
+    "away_logo": "https://media.api-sports.io/football/teams/718.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Nuevo Mirandilla"
+  },
+  {
+    "id": 1570446,
+    "date": "2026-11-07T18:15:00+03:00",
+    "league_id": 140,
+    "league": "La Liga",
+    "country": "İspanya",
+    "home": "Espanyol",
+    "away": "Deportivo La Coruna",
+    "home_id": 540,
+    "away_id": 544,
+    "home_logo": "https://media.api-sports.io/football/teams/540.png",
+    "away_logo": "https://media.api-sports.io/football/teams/544.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "RCDE Stadium"
+  },
+  {
+    "id": 1551874,
+    "date": "2026-11-07T18:30:00+03:00",
+    "league_id": 89,
+    "league": "Eerste Divisie",
+    "country": "Hollanda",
+    "home": "Den Bosch",
+    "away": "Jong Utrecht",
+    "home_id": 421,
+    "away_id": 428,
+    "home_logo": "https://media.api-sports.io/football/teams/421.png",
+    "away_logo": "https://media.api-sports.io/football/teams/428.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stadion de Vliert"
+  },
+  {
+    "id": 1552217,
+    "date": "2026-11-07T18:30:00+03:00",
+    "league_id": 88,
+    "league": "Eredivisie",
+    "country": "Hollanda",
+    "home": "Fortuna Sittard",
+    "away": "Telstar",
+    "home_id": 205,
+    "away_id": 427,
+    "home_logo": "https://media.api-sports.io/football/teams/205.png",
+    "away_logo": "https://media.api-sports.io/football/teams/427.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Fortuna Sittard Stadion"
+  },
+  {
+    "id": 1584461,
+    "date": "2026-11-07T19:00:00+03:00",
+    "league_id": 203,
+    "league": "Süper Lig",
+    "country": "Türkiye",
+    "home": "Galatasaray",
+    "away": "Amed",
+    "home_id": 645,
+    "away_id": 3579,
+    "home_logo": "https://media.api-sports.io/football/teams/645.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3579.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Rams Park"
+  },
+  {
+    "id": 1584463,
+    "date": "2026-11-07T19:00:00+03:00",
+    "league_id": 203,
+    "league": "Süper Lig",
+    "country": "Türkiye",
+    "home": "Göztepe",
+    "away": "Başakşehir",
+    "home_id": 994,
+    "away_id": 564,
+    "home_logo": "https://media.api-sports.io/football/teams/994.png",
+    "away_logo": "https://media.api-sports.io/football/teams/564.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1585825,
+    "date": "2026-11-07T19:00:00+03:00",
+    "league_id": 204,
+    "league": "1. Lig",
+    "country": "Türkiye",
+    "home": "Pendikspor",
+    "away": "İstanbulspor",
+    "home_id": 3601,
+    "away_id": 3578,
+    "home_logo": "https://media.api-sports.io/football/teams/3601.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3578.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Pendik Stadium"
+  },
+  {
+    "id": 1601600,
+    "date": "2026-11-07T19:15:00+03:00",
+    "league_id": 136,
+    "league": "Serie B",
+    "country": "İtalya",
+    "home": "Mantova",
+    "away": "Hellas Verona",
+    "home_id": 1693,
+    "away_id": 504,
+    "home_logo": "https://media.api-sports.io/football/teams/1693.png",
+    "away_logo": "https://media.api-sports.io/football/teams/504.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stadio Danilo Martelli"
+  },
+  {
+    "id": 1550194,
+    "date": "2026-11-07T20:00:00+03:00",
+    "league_id": 135,
+    "league": "Serie A",
+    "country": "İtalya",
+    "home": "Parma",
+    "away": "Bologna",
+    "home_id": 523,
+    "away_id": 500,
+    "home_logo": "https://media.api-sports.io/football/teams/523.png",
+    "away_logo": "https://media.api-sports.io/football/teams/500.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Ennio Tardini"
+  },
+  {
+    "id": 1557465,
+    "date": "2026-11-07T20:30:00+03:00",
+    "league_id": 39,
+    "league": "Premier League",
+    "country": "İngiltere",
+    "home": "Nottingham Forest",
+    "away": "Manchester City",
+    "home_id": 65,
+    "away_id": 50,
+    "home_logo": "https://media.api-sports.io/football/teams/65.png",
+    "away_logo": "https://media.api-sports.io/football/teams/50.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "City Ground"
+  },
+  {
+    "id": 1570007,
+    "date": "2026-11-07T20:30:00+03:00",
+    "league_id": 141,
+    "league": "La Liga 2",
+    "country": "İspanya",
+    "home": "Cordoba",
+    "away": "AD Ceuta FC",
+    "home_id": 713,
+    "away_id": 10139,
+    "home_logo": "https://media.api-sports.io/football/teams/713.png",
+    "away_logo": "https://media.api-sports.io/football/teams/10139.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Estadio Nuevo Arcángel"
+  },
+  {
+    "id": 1570012,
+    "date": "2026-11-07T20:30:00+03:00",
+    "league_id": 141,
+    "league": "La Liga 2",
+    "country": "İspanya",
+    "home": "Leganes",
+    "away": "Albacete",
+    "home_id": 537,
+    "away_id": 722,
+    "home_logo": "https://media.api-sports.io/football/teams/537.png",
+    "away_logo": "https://media.api-sports.io/football/teams/722.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Municipal de Butarque"
+  },
+  {
+    "id": 1570448,
+    "date": "2026-11-07T20:30:00+03:00",
+    "league_id": 140,
+    "league": "La Liga",
+    "country": "İspanya",
+    "home": "Osasuna",
+    "away": "Athletic Club",
+    "home_id": 727,
+    "away_id": 531,
+    "home_logo": "https://media.api-sports.io/football/teams/727.png",
+    "away_logo": "https://media.api-sports.io/football/teams/531.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Estadio El Sadar"
+  },
+  {
+    "id": 1575214,
+    "date": "2026-11-07T20:30:00+03:00",
+    "league_id": 78,
+    "league": "Bundesliga",
+    "country": "Almanya",
+    "home": "VfB Stuttgart",
+    "away": "Werder Bremen",
+    "home_id": 172,
+    "away_id": 162,
+    "home_logo": "https://media.api-sports.io/football/teams/172.png",
+    "away_logo": "https://media.api-sports.io/football/teams/162.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "MHP Arena"
+  },
+  {
+    "id": 1646905,
+    "date": "2026-11-07T20:30:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Altrincham",
+    "away": "Notts County",
+    "home_id": 4700,
+    "away_id": 1376,
+    "home_logo": "https://media.api-sports.io/football/teams/4700.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1376.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Moss Lane"
+  },
+  {
+    "id": 1552220,
+    "date": "2026-11-07T20:45:00+03:00",
+    "league_id": 88,
+    "league": "Eredivisie",
+    "country": "Hollanda",
+    "home": "ADO Den Haag",
+    "away": "Sparta Rotterdam",
+    "home_id": 198,
+    "away_id": 426,
+    "home_logo": "https://media.api-sports.io/football/teams/198.png",
+    "away_logo": "https://media.api-sports.io/football/teams/426.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Bingoal Stadion"
+  },
+  {
+    "id": 1552811,
+    "date": "2026-11-07T21:00:00+03:00",
+    "league_id": 61,
+    "league": "Ligue 1",
+    "country": "Fransa",
+    "home": "Auxerre",
+    "away": "Paris FC",
+    "home_id": 108,
+    "away_id": 114,
+    "home_logo": "https://media.api-sports.io/football/teams/108.png",
+    "away_logo": "https://media.api-sports.io/football/teams/114.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stade de l'Abbé-Deschamps"
+  },
+  {
+    "id": 1601594,
+    "date": "2026-11-07T21:30:00+03:00",
+    "league_id": 136,
+    "league": "Serie B",
+    "country": "İtalya",
+    "home": "Benevento",
+    "away": "Avellino",
+    "home_id": 506,
+    "away_id": 528,
+    "home_logo": "https://media.api-sports.io/football/teams/506.png",
+    "away_logo": "https://media.api-sports.io/football/teams/528.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stadio Ciro Vigorito"
+  },
+  {
+    "id": 1552529,
+    "date": "2026-11-07T22:00:00+03:00",
+    "league_id": 62,
+    "league": "Ligue 2",
+    "country": "Fransa",
+    "home": "PAU",
+    "away": "Nantes",
+    "home_id": 1297,
+    "away_id": 83,
+    "home_logo": "https://media.api-sports.io/football/teams/1297.png",
+    "away_logo": "https://media.api-sports.io/football/teams/83.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Nouste Camp"
+  },
+  {
+    "id": 1552530,
+    "date": "2026-11-07T22:00:00+03:00",
+    "league_id": 62,
+    "league": "Ligue 2",
+    "country": "Fransa",
+    "home": "Saint Etienne",
+    "away": "Laval",
+    "home_id": 1063,
+    "away_id": 433,
+    "home_logo": "https://media.api-sports.io/football/teams/1063.png",
+    "away_logo": "https://media.api-sports.io/football/teams/433.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stade Geoffroy-Guichard"
+  },
+  {
+    "id": 1576227,
+    "date": "2026-11-07T22:30:00+03:00",
+    "league_id": 79,
+    "league": "2. Bundesliga",
+    "country": "Almanya",
+    "home": "Hertha BSC",
+    "away": "VfL Wolfsburg",
+    "home_id": 159,
+    "away_id": 161,
+    "home_logo": "https://media.api-sports.io/football/teams/159.png",
+    "away_logo": "https://media.api-sports.io/football/teams/161.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Olympiastadion"
+  },
+  {
+    "id": 1550187,
+    "date": "2026-11-07T22:45:00+03:00",
+    "league_id": 135,
+    "league": "Serie A",
+    "country": "İtalya",
+    "home": "AS Roma",
+    "away": "Sassuolo",
+    "home_id": 497,
+    "away_id": 488,
+    "home_logo": "https://media.api-sports.io/football/teams/497.png",
+    "away_logo": "https://media.api-sports.io/football/teams/488.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stadio Olimpico"
+  },
+  {
+    "id": 1552218,
+    "date": "2026-11-07T23:00:00+03:00",
+    "league_id": 88,
+    "league": "Eredivisie",
+    "country": "Hollanda",
+    "home": "Excelsior",
+    "away": "GO Ahead Eagles",
+    "home_id": 196,
+    "away_id": 410,
+    "home_logo": "https://media.api-sports.io/football/teams/196.png",
+    "away_logo": "https://media.api-sports.io/football/teams/410.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Van Donge & De Roo Stadion"
+  },
+  {
+    "id": 1570010,
+    "date": "2026-11-07T23:00:00+03:00",
+    "league_id": 141,
+    "league": "La Liga 2",
+    "country": "İspanya",
+    "home": "Granada CF",
+    "away": "Tenerife",
+    "home_id": 715,
+    "away_id": 719,
+    "home_logo": "https://media.api-sports.io/football/teams/715.png",
+    "away_logo": "https://media.api-sports.io/football/teams/719.png",
+    "status": "PST",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Nuevo Los Cármenes"
+  },
+  {
+    "id": 1570451,
+    "date": "2026-11-07T23:00:00+03:00",
+    "league_id": 140,
+    "league": "La Liga",
+    "country": "İspanya",
+    "home": "Valencia",
+    "away": "Real Madrid",
+    "home_id": 532,
+    "away_id": 541,
+    "home_logo": "https://media.api-sports.io/football/teams/532.png",
+    "away_logo": "https://media.api-sports.io/football/teams/541.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Estadio de Mestalla"
+  },
+  {
+    "id": 1646813,
+    "date": "2026-11-07T23:00:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Peterborough",
+    "away": "Reading",
+    "home_id": 1350,
+    "away_id": 53,
+    "home_logo": "https://media.api-sports.io/football/teams/1350.png",
+    "away_logo": "https://media.api-sports.io/football/teams/53.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "ABAX Stadium"
+  },
+  {
+    "id": 1552815,
+    "date": "2026-11-07T23:05:00+03:00",
+    "league_id": 61,
+    "league": "Ligue 1",
+    "country": "Fransa",
+    "home": "Paris Saint Germain",
+    "away": "Estac Troyes",
+    "home_id": 85,
+    "away_id": 110,
+    "home_logo": "https://media.api-sports.io/football/teams/85.png",
+    "away_logo": "https://media.api-sports.io/football/teams/110.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Parc des Princes"
   }
 ]
