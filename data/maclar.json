@@ -731,11 +731,11 @@
     "away_id": 1004,
     "home_logo": "https://media.api-sports.io/football/teams/3573.png",
     "away_logo": "https://media.api-sports.io/football/teams/1004.png",
-    "status": "NS",
-    "minute": null,
+    "status": "HT",
+    "minute": 45,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 2
     },
     "venue": "Gaziantep Stadyumu"
   },
@@ -751,11 +751,11 @@
     "away_id": 1003,
     "home_logo": "https://media.api-sports.io/football/teams/1005.png",
     "away_logo": "https://media.api-sports.io/football/teams/1003.png",
-    "status": "NS",
-    "minute": null,
+    "status": "HT",
+    "minute": 45,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 1
     },
     "venue": "Corendon Airlines Park"
   },
@@ -771,11 +771,11 @@
     "away_id": 17259,
     "home_logo": "https://media.api-sports.io/football/teams/3605.png",
     "away_logo": "https://media.api-sports.io/football/teams/17259.png",
-    "status": "NS",
-    "minute": null,
+    "status": "HT",
+    "minute": 45,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Yusuf Ziya Öniş Stadium"
   },
@@ -791,11 +791,11 @@
     "away_id": 1320,
     "home_logo": "https://media.api-sports.io/football/teams/744.png",
     "away_logo": "https://media.api-sports.io/football/teams/1320.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 24,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Eintracht-Stadion"
   },
@@ -811,11 +811,11 @@
     "away_id": 178,
     "home_logo": "https://media.api-sports.io/football/teams/183.png",
     "away_logo": "https://media.api-sports.io/football/teams/178.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 24,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Rudolf-Harbig Stadion"
   },
@@ -1777,7 +1777,7 @@
       "home": null,
       "away": null
     },
-    "venue": "Red Bull Arena"
+    "venue": "Leipzig Red Bull Arena"
   },
   {
     "id": 1575217,
@@ -1797,7 +1797,7 @@
       "home": null,
       "away": null
     },
-    "venue": "Mewa Arena"
+    "venue": "MEWA Arena"
   },
   {
     "id": 1575220,
@@ -2917,7 +2917,7 @@
       "home": null,
       "away": null
     },
-    "venue": "MHPArena"
+    "venue": "MHP Arena"
   },
   {
     "id": 1646905,
