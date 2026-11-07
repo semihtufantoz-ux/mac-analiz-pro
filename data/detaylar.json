@@ -801,5 +801,339 @@
       }
     ],
     "updated_at": "2026-11-07T14:47:21.888846+03:00"
+  },
+  "1584461": {
+    "statistics": [
+      {
+        "team": {
+          "id": 645,
+          "name": "Galatasaray",
+          "logo": "https://media.api-sports.io/football/teams/645.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": 4
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 4
+          },
+          {
+            "type": "Total Shots",
+            "value": 13
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 5
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 5
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 8
+          },
+          {
+            "type": "Fouls",
+            "value": 6
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 3
+          },
+          {
+            "type": "Offsides",
+            "value": 3
+          },
+          {
+            "type": "Ball Possession",
+            "value": "56%"
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 0
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 2
+          },
+          {
+            "type": "Total passes",
+            "value": 368
+          },
+          {
+            "type": "Passes accurate",
+            "value": 305
+          },
+          {
+            "type": "Passes %",
+            "value": "83%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "1.05"
+          },
+          {
+            "type": "goals_prevented",
+            "value": "-2.39"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 3579,
+          "name": "Amed",
+          "logo": "https://media.api-sports.io/football/teams/3579.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": 4
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 3
+          },
+          {
+            "type": "Total Shots",
+            "value": 12
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 5
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 8
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 4
+          },
+          {
+            "type": "Fouls",
+            "value": 8
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 6
+          },
+          {
+            "type": "Offsides",
+            "value": 5
+          },
+          {
+            "type": "Ball Possession",
+            "value": "44%"
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 2
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 2
+          },
+          {
+            "type": "Total passes",
+            "value": 272
+          },
+          {
+            "type": "Passes accurate",
+            "value": 217
+          },
+          {
+            "type": "Passes %",
+            "value": "80%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "0.94"
+          },
+          {
+            "type": "goals_prevented",
+            "value": "-2.39"
+          }
+        ]
+      }
+    ],
+    "updated_at": "2026-11-07T20:43:22.348776+03:00"
+  },
+  "1584463": {
+    "statistics": [
+      {
+        "team": {
+          "id": 994,
+          "name": "Göztepe",
+          "logo": "https://media.api-sports.io/football/teams/994.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": 3
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 5
+          },
+          {
+            "type": "Total Shots",
+            "value": 11
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 3
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 6
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 5
+          },
+          {
+            "type": "Fouls",
+            "value": 8
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 3
+          },
+          {
+            "type": "Offsides",
+            "value": 2
+          },
+          {
+            "type": "Ball Possession",
+            "value": "46%"
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 1
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 3
+          },
+          {
+            "type": "Total passes",
+            "value": 223
+          },
+          {
+            "type": "Passes accurate",
+            "value": 150
+          },
+          {
+            "type": "Passes %",
+            "value": "67%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "0.65"
+          },
+          {
+            "type": "goals_prevented",
+            "value": "-0.03"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 564,
+          "name": "Başakşehir",
+          "logo": "https://media.api-sports.io/football/teams/564.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": 4
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 6
+          },
+          {
+            "type": "Total Shots",
+            "value": 14
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 4
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 11
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 3
+          },
+          {
+            "type": "Fouls",
+            "value": 5
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 7
+          },
+          {
+            "type": "Offsides",
+            "value": 1
+          },
+          {
+            "type": "Ball Possession",
+            "value": "54%"
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 1
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 2
+          },
+          {
+            "type": "Total passes",
+            "value": 254
+          },
+          {
+            "type": "Passes accurate",
+            "value": 182
+          },
+          {
+            "type": "Passes %",
+            "value": "72%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "0.99"
+          },
+          {
+            "type": "goals_prevented",
+            "value": "-0.03"
+          }
+        ]
+      }
+    ],
+    "updated_at": "2026-11-07T20:43:22.348776+03:00"
   }
 }
