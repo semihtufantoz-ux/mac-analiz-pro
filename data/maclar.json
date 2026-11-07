@@ -611,13 +611,13 @@
     "away_id": 7411,
     "home_logo": "https://media.api-sports.io/football/teams/3588.png",
     "away_logo": "https://media.api-sports.io/football/teams/7411.png",
-    "status": "NS",
-    "minute": null,
+    "status": "2H",
+    "minute": 59,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 2
     },
-    "venue": null
+    "venue": "Recep Tayyip Erdogan Stadium"
   },
   {
     "id": 1585822,
@@ -631,11 +631,11 @@
     "away_id": 3597,
     "home_logo": "https://media.api-sports.io/football/teams/3595.png",
     "away_logo": "https://media.api-sports.io/football/teams/3597.png",
-    "status": "NS",
-    "minute": null,
+    "status": "2H",
+    "minute": 58,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 0
     },
     "venue": "Aktepe Stadium"
   },
@@ -651,11 +651,11 @@
     "away_id": 1002,
     "home_logo": "https://media.api-sports.io/football/teams/6342.png",
     "away_logo": "https://media.api-sports.io/football/teams/1002.png",
-    "status": "NS",
-    "minute": null,
+    "status": "2H",
+    "minute": 61,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 0
     },
     "venue": "Van Ataturk Stadi"
   },
