@@ -968,5 +968,331 @@
       }
     ],
     "updated_at": "2026-11-08T08:55:45.371372+03:00"
+  },
+  "1584464": {
+    "statistics": [
+      {
+        "team": {
+          "id": 1007,
+          "name": "Rizespor",
+          "logo": "https://media.api-sports.io/football/teams/1007.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": 2
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 7
+          },
+          {
+            "type": "Total Shots",
+            "value": 12
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 3
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 8
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 4
+          },
+          {
+            "type": "Fouls",
+            "value": 3
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 4
+          },
+          {
+            "type": "Offsides",
+            "value": 0
+          },
+          {
+            "type": "Ball Possession",
+            "value": "66%"
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 0
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 0
+          },
+          {
+            "type": "Total passes",
+            "value": 308
+          },
+          {
+            "type": "Passes accurate",
+            "value": 277
+          },
+          {
+            "type": "Passes %",
+            "value": "90%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "1.68"
+          },
+          {
+            "type": "goals_prevented",
+            "value": "-0.10"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 1009,
+          "name": "Erzurumspor FK",
+          "logo": "https://media.api-sports.io/football/teams/1009.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": 1
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 0
+          },
+          {
+            "type": "Total Shots",
+            "value": 1
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 0
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 1
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 0
+          },
+          {
+            "type": "Fouls",
+            "value": 10
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 0
+          },
+          {
+            "type": "Offsides",
+            "value": 1
+          },
+          {
+            "type": "Ball Possession",
+            "value": "34%"
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 2
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 1
+          },
+          {
+            "type": "Total passes",
+            "value": 161
+          },
+          {
+            "type": "Passes accurate",
+            "value": 122
+          },
+          {
+            "type": "Passes %",
+            "value": "76%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "0.27"
+          },
+          {
+            "type": "goals_prevented",
+            "value": "-0.10"
+          }
+        ]
+      }
+    ],
+    "updated_at": "2026-11-08T14:47:06.875540+03:00"
+  },
+  "1585820": {
+    "statistics": [
+      {
+        "team": {
+          "id": 3584,
+          "name": "Bandırmaspor",
+          "logo": "https://media.api-sports.io/football/teams/3584.png"
+        },
+        "statistics": [
+          {
+            "type": "expected_goals",
+            "value": "0"
+          },
+          {
+            "type": "Passes accurate",
+            "value": 203
+          },
+          {
+            "type": "Free Kicks",
+            "value": 11
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 5
+          },
+          {
+            "type": "Offsides",
+            "value": 2
+          },
+          {
+            "type": "Total passes",
+            "value": 247
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 2
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 2
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 0
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 0
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 0
+          },
+          {
+            "type": "Shots on Goal",
+            "value": 0
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 0
+          },
+          {
+            "type": "Total Shots",
+            "value": 0
+          },
+          {
+            "type": "Fouls",
+            "value": 9
+          },
+          {
+            "type": "Red Cards",
+            "value": 0
+          },
+          {
+            "type": "Ball Possession",
+            "value": "44%"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 3589,
+          "name": "Fatih Karagümrük",
+          "logo": "https://media.api-sports.io/football/teams/3589.png"
+        },
+        "statistics": [
+          {
+            "type": "expected_goals",
+            "value": "1.57"
+          },
+          {
+            "type": "Passes accurate",
+            "value": 180
+          },
+          {
+            "type": "Free Kicks",
+            "value": 8
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 0
+          },
+          {
+            "type": "Offsides",
+            "value": 1
+          },
+          {
+            "type": "Total passes",
+            "value": 229
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 2
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 6
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 12
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 4
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 5
+          },
+          {
+            "type": "Shots on Goal",
+            "value": 7
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 4
+          },
+          {
+            "type": "Total Shots",
+            "value": 16
+          },
+          {
+            "type": "Fouls",
+            "value": 11
+          },
+          {
+            "type": "Red Cards",
+            "value": 0
+          },
+          {
+            "type": "Ball Possession",
+            "value": "56%"
+          }
+        ]
+      }
+    ],
+    "updated_at": "2026-11-08T14:47:06.875540+03:00"
   }
 }
