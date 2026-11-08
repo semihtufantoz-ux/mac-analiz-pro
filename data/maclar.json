@@ -1891,10 +1891,10 @@
     "away_id": 1009,
     "home_logo": "https://media.api-sports.io/football/teams/1007.png",
     "away_logo": "https://media.api-sports.io/football/teams/1009.png",
-    "status": "2H",
-    "minute": 59,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 1,
+      "home": 2,
       "away": 1
     },
     "venue": "Çaykur Didi Stadyumu"
@@ -1911,11 +1911,11 @@
     "away_id": 3589,
     "home_logo": "https://media.api-sports.io/football/teams/3584.png",
     "away_logo": "https://media.api-sports.io/football/teams/3589.png",
-    "status": "2H",
-    "minute": 56,
+    "status": "FT",
+    "minute": 90,
     "goals": {
       "home": 0,
-      "away": 2
+      "away": 4
     },
     "venue": "17 Eylül Stadium"
   },
@@ -1951,11 +1951,11 @@
     "away_id": 209,
     "home_logo": "https://media.api-sports.io/football/teams/210.png",
     "away_logo": "https://media.api-sports.io/football/teams/209.png",
-    "status": "1H",
-    "minute": 31,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
-      "away": 1
+      "home": 5,
+      "away": 3
     },
     "venue": "Abe Lenstra Stadion"
   },
@@ -1971,11 +1971,11 @@
     "away_id": 487,
     "home_logo": "https://media.api-sports.io/football/teams/492.png",
     "away_logo": "https://media.api-sports.io/football/teams/487.png",
-    "status": "1H",
-    "minute": 15,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "venue": "Maradona Stadium"
   },
@@ -1991,11 +1991,11 @@
     "away_id": 1365,
     "home_logo": "https://media.api-sports.io/football/teams/7748.png",
     "away_logo": "https://media.api-sports.io/football/teams/1365.png",
-    "status": "NS",
-    "minute": null,
+    "status": "PEN",
+    "minute": 120,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 3,
+      "away": 3
     },
     "venue": "Marston Road"
   },
@@ -2011,11 +2011,11 @@
     "away_id": 785,
     "home_logo": "https://media.api-sports.io/football/teams/176.png",
     "away_logo": "https://media.api-sports.io/football/teams/785.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 3,
+      "away": 2
     },
     "venue": "Vonovia Ruhrstadion"
   },
@@ -2031,11 +2031,11 @@
     "away_id": 166,
     "home_logo": "https://media.api-sports.io/football/teams/180.png",
     "away_logo": "https://media.api-sports.io/football/teams/166.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 2
     },
     "venue": "Voith-Arena"
   },
@@ -2051,11 +2051,11 @@
     "away_id": 186,
     "home_logo": "https://media.api-sports.io/football/teams/179.png",
     "away_logo": "https://media.api-sports.io/football/teams/186.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 4,
+      "away": 1
     },
     "venue": "Avnet Arena"
   },
@@ -2091,11 +2091,11 @@
     "away_id": 543,
     "home_logo": "https://media.api-sports.io/football/teams/797.png",
     "away_logo": "https://media.api-sports.io/football/teams/543.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 2
     },
     "venue": "Estadio Manuel Martínez Valero"
   },
@@ -2111,13 +2111,13 @@
     "away_id": 611,
     "home_logo": "https://media.api-sports.io/football/teams/6343.png",
     "away_logo": "https://media.api-sports.io/football/teams/611.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 5
     },
-    "venue": "Corum Stadyumu"
+    "venue": "Çorum Şehir Stadyumu"
   },
   {
     "id": 1585821,
@@ -2131,11 +2131,11 @@
     "away_id": 3583,
     "home_logo": "https://media.api-sports.io/football/teams/3569.png",
     "away_logo": "https://media.api-sports.io/football/teams/3583.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 2
     },
     "venue": "Bolu Atatürk Stadium"
   },
@@ -2151,11 +2151,11 @@
     "away_id": 1001,
     "home_logo": "https://media.api-sports.io/football/teams/3577.png",
     "away_logo": "https://media.api-sports.io/football/teams/1001.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 1
     },
     "venue": "Ümraniye Belediyesi Sehir Stadi"
   },
@@ -2171,11 +2171,11 @@
     "away_id": 194,
     "home_logo": "https://media.api-sports.io/football/teams/415.png",
     "away_logo": "https://media.api-sports.io/football/teams/194.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 2
     },
     "venue": "De Grolsch Veste"
   },
@@ -2191,11 +2191,11 @@
     "away_id": 489,
     "home_logo": "https://media.api-sports.io/football/teams/495.png",
     "away_logo": "https://media.api-sports.io/football/teams/489.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 2
     },
     "venue": "Luigi Ferraris"
   },
@@ -2211,11 +2211,11 @@
     "away_id": 499,
     "home_logo": "https://media.api-sports.io/football/teams/1579.png",
     "away_logo": "https://media.api-sports.io/football/teams/499.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": "Stadio Brianteo"
   },
@@ -2231,11 +2231,11 @@
     "away_id": 79,
     "home_logo": "https://media.api-sports.io/football/teams/94.png",
     "away_logo": "https://media.api-sports.io/football/teams/79.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 2
     },
     "venue": "Roazhon Park"
   },
@@ -2251,11 +2251,11 @@
     "away_id": 55,
     "home_logo": "https://media.api-sports.io/football/teams/51.png",
     "away_logo": "https://media.api-sports.io/football/teams/55.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 0
     },
     "venue": "American Express Stadium"
   },
@@ -2271,11 +2271,11 @@
     "away_id": 40,
     "home_logo": "https://media.api-sports.io/football/teams/52.png",
     "away_logo": "https://media.api-sports.io/football/teams/40.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 3
     },
     "venue": "Selhurst Park"
   },
@@ -2291,11 +2291,11 @@
     "away_id": 35,
     "home_logo": "https://media.api-sports.io/football/teams/57.png",
     "away_logo": "https://media.api-sports.io/football/teams/35.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 2
     },
     "venue": "Portman Road Stadium"
   },
@@ -2311,11 +2311,11 @@
     "away_id": 49,
     "home_logo": "https://media.api-sports.io/football/teams/746.png",
     "away_logo": "https://media.api-sports.io/football/teams/49.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 0
     },
     "venue": "Stadium of Light"
   },
@@ -2331,11 +2331,11 @@
     "away_id": 899,
     "home_logo": "https://media.api-sports.io/football/teams/527.png",
     "away_logo": "https://media.api-sports.io/football/teams/899.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 2
     },
     "venue": "Stadio Comunale"
   },
@@ -2351,11 +2351,11 @@
     "away_id": 4686,
     "home_logo": "https://media.api-sports.io/football/teams/7711.png",
     "away_logo": "https://media.api-sports.io/football/teams/4686.png",
-    "status": "NS",
-    "minute": null,
+    "status": "AET",
+    "minute": 120,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 3
     },
     "venue": "Flamingo Park"
   },
@@ -2371,11 +2371,11 @@
     "away_id": 168,
     "home_logo": "https://media.api-sports.io/football/teams/192.png",
     "away_logo": "https://media.api-sports.io/football/teams/168.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 2
     },
     "venue": "RheinEnergieStadion"
   },
@@ -2391,11 +2391,11 @@
     "away_id": 1362,
     "home_logo": "https://media.api-sports.io/football/teams/7758.png",
     "away_logo": "https://media.api-sports.io/football/teams/1362.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 0
     },
     "venue": "The Cuthbury"
   },
@@ -2411,11 +2411,11 @@
     "away_id": 723,
     "home_logo": "https://media.api-sports.io/football/teams/547.png",
     "away_logo": "https://media.api-sports.io/football/teams/723.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": "Estadi Montilivi"
   },
@@ -2431,11 +2431,11 @@
     "away_id": 728,
     "home_logo": "https://media.api-sports.io/football/teams/548.png",
     "away_logo": "https://media.api-sports.io/football/teams/728.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 0
     },
     "venue": "Anoeta Stadium"
   },
@@ -2451,13 +2451,13 @@
     "away_id": 998,
     "home_logo": "https://media.api-sports.io/football/teams/996.png",
     "away_logo": "https://media.api-sports.io/football/teams/998.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 2
     },
-    "venue": "Alanya Oba Stadium"
+    "venue": "Bahcesehir Okullari Stadium"
   },
   {
     "id": 1551876,
@@ -2471,11 +2471,11 @@
     "away_id": 412,
     "home_logo": "https://media.api-sports.io/football/teams/208.png",
     "away_logo": "https://media.api-sports.io/football/teams/412.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 2
     },
     "venue": "De Oude Meerdijk"
   },
@@ -2491,11 +2491,11 @@
     "away_id": 197,
     "home_logo": "https://media.api-sports.io/football/teams/420.png",
     "away_logo": "https://media.api-sports.io/football/teams/197.png",
-    "status": "NS",
-    "minute": null,
+    "status": "2H",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 4
     },
     "venue": "Kooi Stadion"
   },
@@ -2511,11 +2511,11 @@
     "away_id": 202,
     "home_logo": "https://media.api-sports.io/football/teams/201.png",
     "away_logo": "https://media.api-sports.io/football/teams/202.png",
-    "status": "NS",
-    "minute": null,
+    "status": "2H",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 4,
+      "away": 3
     },
     "venue": "AFAS Stadion（Alkmaar）"
   },
@@ -2531,11 +2531,11 @@
     "away_id": 7395,
     "home_logo": "https://media.api-sports.io/football/teams/6533.png",
     "away_logo": "https://media.api-sports.io/football/teams/7395.png",
-    "status": "NS",
-    "minute": null,
+    "status": "2H",
+    "minute": 83,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 1
     },
     "venue": "21 Kasım Stadium"
   },
@@ -2551,11 +2551,11 @@
     "away_id": 84,
     "home_logo": "https://media.api-sports.io/football/teams/77.png",
     "away_logo": "https://media.api-sports.io/football/teams/84.png",
-    "status": "NS",
-    "minute": null,
+    "status": "2H",
+    "minute": 69,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": "Stade Raymond Kopa"
   },
@@ -2571,11 +2571,11 @@
     "away_id": 80,
     "home_logo": "https://media.api-sports.io/football/teams/106.png",
     "away_logo": "https://media.api-sports.io/football/teams/80.png",
-    "status": "NS",
-    "minute": null,
+    "status": "2H",
+    "minute": 71,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 0
     },
     "venue": "Stade Francis-Le-Blé"
   },
@@ -2591,11 +2591,11 @@
     "away_id": 97,
     "home_logo": "https://media.api-sports.io/football/teams/111.png",
     "away_logo": "https://media.api-sports.io/football/teams/97.png",
-    "status": "NS",
-    "minute": null,
+    "status": "2H",
+    "minute": 70,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": "Stade Océane"
   },
@@ -2611,11 +2611,11 @@
     "away_id": 91,
     "home_logo": "https://media.api-sports.io/football/teams/1298.png",
     "away_logo": "https://media.api-sports.io/football/teams/91.png",
-    "status": "NS",
-    "minute": null,
+    "status": "2H",
+    "minute": 70,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": "MMArena"
   },
@@ -2631,11 +2631,11 @@
     "away_id": 498,
     "home_logo": "https://media.api-sports.io/football/teams/1581.png",
     "away_logo": "https://media.api-sports.io/football/teams/498.png",
-    "status": "NS",
-    "minute": null,
+    "status": "2H",
+    "minute": 66,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": "Stadio dei Marmi"
   },
@@ -2651,11 +2651,11 @@
     "away_id": 66,
     "home_logo": "https://media.api-sports.io/football/teams/33.png",
     "away_logo": "https://media.api-sports.io/football/teams/66.png",
-    "status": "NS",
-    "minute": null,
+    "status": "2H",
+    "minute": 52,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 3
     },
     "venue": "Old Trafford"
   },
@@ -2671,11 +2671,11 @@
     "away_id": 182,
     "home_logo": "https://media.api-sports.io/football/teams/160.png",
     "away_logo": "https://media.api-sports.io/football/teams/182.png",
-    "status": "NS",
-    "minute": null,
+    "status": "2H",
+    "minute": 55,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 0
     },
     "venue": "Europa-Park-Stadion"
   },
@@ -2691,11 +2691,11 @@
     "away_id": 895,
     "home_logo": "https://media.api-sports.io/football/teams/505.png",
     "away_logo": "https://media.api-sports.io/football/teams/895.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 39,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 0
     },
     "venue": "San Siro/Giuseppe Meazza"
   },
@@ -2711,11 +2711,11 @@
     "away_id": 74,
     "home_logo": "https://media.api-sports.io/football/teams/1349.png",
     "away_logo": "https://media.api-sports.io/football/teams/74.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 28,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Boundary Park"
   },
@@ -2731,11 +2731,11 @@
     "away_id": 720,
     "home_logo": "https://media.api-sports.io/football/teams/731.png",
     "away_logo": "https://media.api-sports.io/football/teams/720.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 12,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": "El Molinón-Enrique Castro Quini"
   },
@@ -2771,11 +2771,11 @@
     "away_id": 539,
     "home_logo": "https://media.api-sports.io/football/teams/538.png",
     "away_logo": "https://media.api-sports.io/football/teams/539.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 9,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Municipal de Balaídos"
   },
@@ -2791,11 +2791,11 @@
     "away_id": 546,
     "home_logo": "https://media.api-sports.io/football/teams/533.png",
     "away_logo": "https://media.api-sports.io/football/teams/546.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 12,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "Estadio de la Cerámica"
   },
