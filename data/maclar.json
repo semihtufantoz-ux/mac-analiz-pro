@@ -1,585 +1,5 @@
 [
   {
-    "id": 1584462,
-    "date": "2026-11-06T20:00:00+03:00",
-    "league_id": 203,
-    "league": "Süper Lig",
-    "country": "Türkiye",
-    "home": "Gaziantep FK",
-    "away": "Kasımpaşa",
-    "home_id": 3573,
-    "away_id": 1004,
-    "home_logo": "https://media.api-sports.io/football/teams/3573.png",
-    "away_logo": "https://media.api-sports.io/football/teams/1004.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 0,
-      "away": 2
-    },
-    "venue": "Gaziantep Stadyumu"
-  },
-  {
-    "id": 1585819,
-    "date": "2026-11-06T20:00:00+03:00",
-    "league_id": 204,
-    "league": "1. Lig",
-    "country": "Türkiye",
-    "home": "Antalyaspor",
-    "away": "Bursaspor",
-    "home_id": 1005,
-    "away_id": 1003,
-    "home_logo": "https://media.api-sports.io/football/teams/1005.png",
-    "away_logo": "https://media.api-sports.io/football/teams/1003.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 1
-    },
-    "venue": "Corendon Airlines Park"
-  },
-  {
-    "id": 1585826,
-    "date": "2026-11-06T20:00:00+03:00",
-    "league_id": 204,
-    "league": "1. Lig",
-    "country": "Türkiye",
-    "home": "Sarıyer",
-    "away": "Iğdır FK",
-    "home_id": 3605,
-    "away_id": 17259,
-    "home_logo": "https://media.api-sports.io/football/teams/3605.png",
-    "away_logo": "https://media.api-sports.io/football/teams/17259.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 1
-    },
-    "venue": "Yusuf Ziya Öniş Stadium"
-  },
-  {
-    "id": 1576225,
-    "date": "2026-11-06T20:30:00+03:00",
-    "league_id": 79,
-    "league": "2. Bundesliga",
-    "country": "Almanya",
-    "home": "Eintracht Braunschweig",
-    "away": "Energie Cottbus",
-    "home_id": 744,
-    "away_id": 1320,
-    "home_logo": "https://media.api-sports.io/football/teams/744.png",
-    "away_logo": "https://media.api-sports.io/football/teams/1320.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 0,
-      "away": 0
-    },
-    "venue": "Eintracht-Stadion"
-  },
-  {
-    "id": 1576231,
-    "date": "2026-11-06T20:30:00+03:00",
-    "league_id": 79,
-    "league": "2. Bundesliga",
-    "country": "Almanya",
-    "home": "Dynamo Dresden",
-    "away": "SpVgg Greuther Fürth",
-    "home_id": 183,
-    "away_id": 178,
-    "home_logo": "https://media.api-sports.io/football/teams/183.png",
-    "away_logo": "https://media.api-sports.io/football/teams/178.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 3,
-      "away": 0
-    },
-    "venue": "Rudolf-Harbig Stadion"
-  },
-  {
-    "id": 1551867,
-    "date": "2026-11-06T22:00:00+03:00",
-    "league_id": 89,
-    "league": "Eerste Divisie",
-    "country": "Hollanda",
-    "home": "Dordrecht",
-    "away": "NAC Breda",
-    "home_id": 409,
-    "away_id": 203,
-    "home_logo": "https://media.api-sports.io/football/teams/409.png",
-    "away_logo": "https://media.api-sports.io/football/teams/203.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 0,
-      "away": 0
-    },
-    "venue": "GN Bouw Stadion"
-  },
-  {
-    "id": 1551868,
-    "date": "2026-11-06T22:00:00+03:00",
-    "league_id": 89,
-    "league": "Eerste Divisie",
-    "country": "Hollanda",
-    "home": "FC Eindhoven",
-    "away": "Jong Ajax",
-    "home_id": 422,
-    "away_id": 425,
-    "home_logo": "https://media.api-sports.io/football/teams/422.png",
-    "away_logo": "https://media.api-sports.io/football/teams/425.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 0,
-      "away": 3
-    },
-    "venue": "Jan Louwers Stadion"
-  },
-  {
-    "id": 1551869,
-    "date": "2026-11-06T22:00:00+03:00",
-    "league_id": 89,
-    "league": "Eerste Divisie",
-    "country": "Hollanda",
-    "home": "Helmond Sport",
-    "away": "FC Volendam",
-    "home_id": 424,
-    "away_id": 416,
-    "home_logo": "https://media.api-sports.io/football/teams/424.png",
-    "away_logo": "https://media.api-sports.io/football/teams/416.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 2,
-      "away": 3
-    },
-    "venue": "Lavans Stadion"
-  },
-  {
-    "id": 1551870,
-    "date": "2026-11-06T22:00:00+03:00",
-    "league_id": 89,
-    "league": "Eerste Divisie",
-    "country": "Hollanda",
-    "home": "Heracles",
-    "away": "Roda",
-    "home_id": 206,
-    "away_id": 414,
-    "home_logo": "https://media.api-sports.io/football/teams/206.png",
-    "away_logo": "https://media.api-sports.io/football/teams/414.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 5,
-      "away": 1
-    },
-    "venue": "Polman Stadion"
-  },
-  {
-    "id": 1551871,
-    "date": "2026-11-06T22:00:00+03:00",
-    "league_id": 89,
-    "league": "Eerste Divisie",
-    "country": "Hollanda",
-    "home": "Jong AZ",
-    "away": "Almere City FC",
-    "home_id": 418,
-    "away_id": 419,
-    "home_logo": "https://media.api-sports.io/football/teams/418.png",
-    "away_logo": "https://media.api-sports.io/football/teams/419.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 3
-    },
-    "venue": "AFAS Trainingscomplex"
-  },
-  {
-    "id": 1551872,
-    "date": "2026-11-06T22:00:00+03:00",
-    "league_id": 89,
-    "league": "Eerste Divisie",
-    "country": "Hollanda",
-    "home": "FC OSS",
-    "away": "Waalwijk",
-    "home_id": 423,
-    "away_id": 417,
-    "home_logo": "https://media.api-sports.io/football/teams/423.png",
-    "away_logo": "https://media.api-sports.io/football/teams/417.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 1
-    },
-    "venue": "Frans Heesen Stadion"
-  },
-  {
-    "id": 1551873,
-    "date": "2026-11-06T22:00:00+03:00",
-    "league_id": 89,
-    "league": "Eerste Divisie",
-    "country": "Hollanda",
-    "home": "VVV Venlo",
-    "away": "Jong PSV U21",
-    "home_id": 204,
-    "away_id": 411,
-    "home_logo": "https://media.api-sports.io/football/teams/204.png",
-    "away_logo": "https://media.api-sports.io/football/teams/411.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 1
-    },
-    "venue": "Seacon Stadion De Koel"
-  },
-  {
-    "id": 1552216,
-    "date": "2026-11-06T22:00:00+03:00",
-    "league_id": 88,
-    "league": "Eredivisie",
-    "country": "Hollanda",
-    "home": "Willem II",
-    "away": "PEC Zwolle",
-    "home_id": 195,
-    "away_id": 193,
-    "home_logo": "https://media.api-sports.io/football/teams/195.png",
-    "away_logo": "https://media.api-sports.io/football/teams/193.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 1
-    },
-    "venue": "Koning Willem II Stadion"
-  },
-  {
-    "id": 1552522,
-    "date": "2026-11-06T22:00:00+03:00",
-    "league_id": 62,
-    "league": "Ligue 2",
-    "country": "Fransa",
-    "home": "Boulogne",
-    "away": "Annecy",
-    "home_id": 1299,
-    "away_id": 3012,
-    "home_logo": "https://media.api-sports.io/football/teams/1299.png",
-    "away_logo": "https://media.api-sports.io/football/teams/3012.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 3,
-      "away": 0
-    },
-    "venue": "Stade de la Libération"
-  },
-  {
-    "id": 1552524,
-    "date": "2026-11-06T22:00:00+03:00",
-    "league_id": 62,
-    "league": "Ligue 2",
-    "country": "Fransa",
-    "home": "Dijon",
-    "away": "RED Star FC 93",
-    "home_id": 89,
-    "away_id": 104,
-    "home_logo": "https://media.api-sports.io/football/teams/89.png",
-    "away_logo": "https://media.api-sports.io/football/teams/104.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 0
-    },
-    "venue": "Stade Gaston-Gérard"
-  },
-  {
-    "id": 1552525,
-    "date": "2026-11-06T22:00:00+03:00",
-    "league_id": 62,
-    "league": "Ligue 2",
-    "country": "Fransa",
-    "home": "Dunkerque",
-    "away": "Guingamp",
-    "home_id": 1304,
-    "away_id": 90,
-    "home_logo": "https://media.api-sports.io/football/teams/1304.png",
-    "away_logo": "https://media.api-sports.io/football/teams/90.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 3,
-      "away": 0
-    },
-    "venue": "Stade Marcel Tribut"
-  },
-  {
-    "id": 1552526,
-    "date": "2026-11-06T22:00:00+03:00",
-    "league_id": 62,
-    "league": "Ligue 2",
-    "country": "Fransa",
-    "home": "Grenoble",
-    "away": "Reims",
-    "home_id": 101,
-    "away_id": 93,
-    "home_logo": "https://media.api-sports.io/football/teams/101.png",
-    "away_logo": "https://media.api-sports.io/football/teams/93.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 3,
-      "away": 2
-    },
-    "venue": "Stade des Alpes"
-  },
-  {
-    "id": 1552527,
-    "date": "2026-11-06T22:00:00+03:00",
-    "league_id": 62,
-    "league": "Ligue 2",
-    "country": "Fransa",
-    "home": "Montpellier",
-    "away": "Metz",
-    "home_id": 82,
-    "away_id": 112,
-    "home_logo": "https://media.api-sports.io/football/teams/82.png",
-    "away_logo": "https://media.api-sports.io/football/teams/112.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 2,
-      "away": 3
-    },
-    "venue": "Stade de la Mosson"
-  },
-  {
-    "id": 1552528,
-    "date": "2026-11-06T22:00:00+03:00",
-    "league_id": 62,
-    "league": "Ligue 2",
-    "country": "Fransa",
-    "home": "Nancy",
-    "away": "Sochaux",
-    "home_id": 102,
-    "away_id": 115,
-    "home_logo": "https://media.api-sports.io/football/teams/102.png",
-    "away_logo": "https://media.api-sports.io/football/teams/115.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 0
-    },
-    "venue": "Stade Marcel-Picot"
-  },
-  {
-    "id": 1570006,
-    "date": "2026-11-06T22:30:00+03:00",
-    "league_id": 141,
-    "league": "La Liga 2",
-    "country": "İspanya",
-    "home": "Castellón",
-    "away": "Eibar",
-    "home_id": 5254,
-    "away_id": 545,
-    "home_logo": "https://media.api-sports.io/football/teams/5254.png",
-    "away_logo": "https://media.api-sports.io/football/teams/545.png",
-    "status": "PST",
-    "minute": null,
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "venue": "Estadio Municipal Castalia"
-  },
-  {
-    "id": 1575218,
-    "date": "2026-11-06T22:30:00+03:00",
-    "league_id": 78,
-    "league": "Bundesliga",
-    "country": "Almanya",
-    "home": "Hamburger SV",
-    "away": "Borussia Mönchengladbach",
-    "home_id": 175,
-    "away_id": 163,
-    "home_logo": "https://media.api-sports.io/football/teams/175.png",
-    "away_logo": "https://media.api-sports.io/football/teams/163.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 3,
-      "away": 1
-    },
-    "venue": "Volksparkstadion"
-  },
-  {
-    "id": 1601593,
-    "date": "2026-11-06T22:30:00+03:00",
-    "league_id": 136,
-    "league": "Serie B",
-    "country": "İtalya",
-    "home": "Ascoli",
-    "away": "Palermo",
-    "home_id": 507,
-    "away_id": 522,
-    "home_logo": "https://media.api-sports.io/football/teams/507.png",
-    "away_logo": "https://media.api-sports.io/football/teams/522.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 1
-    },
-    "venue": "Cino e Lillo Del Duca"
-  },
-  {
-    "id": 1646794,
-    "date": "2026-11-06T22:30:00+03:00",
-    "league_id": 45,
-    "league": "FA Cup",
-    "country": "İngiltere",
-    "home": "Bristol Rovers",
-    "away": "Cambridge United",
-    "home_id": 1334,
-    "away_id": 1370,
-    "home_logo": "https://media.api-sports.io/football/teams/1334.png",
-    "away_logo": "https://media.api-sports.io/football/teams/1370.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 2,
-      "away": 0
-    },
-    "venue": "Memorial Stadium"
-  },
-  {
-    "id": 1550196,
-    "date": "2026-11-06T22:45:00+03:00",
-    "league_id": 135,
-    "league": "Serie A",
-    "country": "İtalya",
-    "home": "Venezia",
-    "away": "Udinese",
-    "home_id": 517,
-    "away_id": 494,
-    "home_logo": "https://media.api-sports.io/football/teams/517.png",
-    "away_logo": "https://media.api-sports.io/football/teams/494.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 2,
-      "away": 1
-    },
-    "venue": "Stadio Pier Luigi Penzo"
-  },
-  {
-    "id": 1552817,
-    "date": "2026-11-06T22:45:00+03:00",
-    "league_id": 61,
-    "league": "Ligue 1",
-    "country": "Fransa",
-    "home": "Toulouse",
-    "away": "Strasbourg",
-    "home_id": 96,
-    "away_id": 95,
-    "home_logo": "https://media.api-sports.io/football/teams/96.png",
-    "away_logo": "https://media.api-sports.io/football/teams/95.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 3,
-      "away": 1
-    },
-    "venue": "Stadium Municipal"
-  },
-  {
-    "id": 1646811,
-    "date": "2026-11-06T22:45:00+03:00",
-    "league_id": 45,
-    "league": "FA Cup",
-    "country": "İngiltere",
-    "home": "Oxford City",
-    "away": "Leicester",
-    "home_id": 4684,
-    "away_id": 46,
-    "home_logo": "https://media.api-sports.io/football/teams/4684.png",
-    "away_logo": "https://media.api-sports.io/football/teams/46.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 2,
-      "away": 4
-    },
-    "venue": "Court Place Farm"
-  },
-  {
-    "id": 1557460,
-    "date": "2026-11-06T23:00:00+03:00",
-    "league_id": 39,
-    "league": "Premier League",
-    "country": "İngiltere",
-    "home": "Everton",
-    "away": "Coventry",
-    "home_id": 45,
-    "away_id": 1346,
-    "home_logo": "https://media.api-sports.io/football/teams/45.png",
-    "away_logo": "https://media.api-sports.io/football/teams/1346.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 3,
-      "away": 1
-    },
-    "venue": "Hill Dickinson Stadium"
-  },
-  {
-    "id": 1563256,
-    "date": "2026-11-06T23:00:00+03:00",
-    "league_id": 40,
-    "league": "Championship",
-    "country": "İngiltere",
-    "home": "Derby",
-    "away": "Bolton",
-    "home_id": 69,
-    "away_id": 68,
-    "home_logo": "https://media.api-sports.io/football/teams/69.png",
-    "away_logo": "https://media.api-sports.io/football/teams/68.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 3,
-      "away": 1
-    },
-    "venue": "Pride Park Stadium"
-  },
-  {
-    "id": 1570450,
-    "date": "2026-11-06T23:00:00+03:00",
-    "league_id": 140,
-    "league": "La Liga",
-    "country": "İspanya",
-    "home": "Sevilla",
-    "away": "Alaves",
-    "home_id": 536,
-    "away_id": 542,
-    "home_logo": "https://media.api-sports.io/football/teams/536.png",
-    "away_logo": "https://media.api-sports.io/football/teams/542.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 0,
-      "away": 0
-    },
-    "venue": "Estadio Ramón Sánchez-Pizjuán"
-  },
-  {
     "id": 1648409,
     "date": "2026-11-07T02:00:00+03:00",
     "league_id": 66,
@@ -877,7 +297,7 @@
       "home": 1,
       "away": 0
     },
-    "venue": "Samsun Yeni 19 Mayıs Stadyumu"
+    "venue": "Samsun 19 Mayis Stadyumu"
   },
   {
     "id": 1585824,
@@ -2011,11 +1431,11 @@
     "away_id": 3579,
     "home_logo": "https://media.api-sports.io/football/teams/645.png",
     "away_logo": "https://media.api-sports.io/football/teams/3579.png",
-    "status": "2H",
-    "minute": 81,
+    "status": "FT",
+    "minute": 90,
     "goals": {
       "home": 4,
-      "away": 2
+      "away": 3
     },
     "venue": "Rams Park Stadyumu"
   },
@@ -2031,11 +1451,11 @@
     "away_id": 564,
     "home_logo": "https://media.api-sports.io/football/teams/994.png",
     "away_logo": "https://media.api-sports.io/football/teams/564.png",
-    "status": "2H",
-    "minute": 77,
+    "status": "FT",
+    "minute": 90,
     "goals": {
       "home": 1,
-      "away": 1
+      "away": 2
     },
     "venue": "Gursel Aksel Stadium"
   },
@@ -2051,11 +1471,11 @@
     "away_id": 3578,
     "home_logo": "https://media.api-sports.io/football/teams/3601.png",
     "away_logo": "https://media.api-sports.io/football/teams/3578.png",
-    "status": "2H",
-    "minute": 86,
+    "status": "FT",
+    "minute": 90,
     "goals": {
       "home": 0,
-      "away": 1
+      "away": 2
     },
     "venue": "Pendik Stadium"
   },
@@ -2071,8 +1491,8 @@
     "away_id": 504,
     "home_logo": "https://media.api-sports.io/football/teams/1693.png",
     "away_logo": "https://media.api-sports.io/football/teams/504.png",
-    "status": "2H",
-    "minute": 69,
+    "status": "FT",
+    "minute": 90,
     "goals": {
       "home": 0,
       "away": 0
@@ -2091,11 +1511,11 @@
     "away_id": 500,
     "home_logo": "https://media.api-sports.io/football/teams/523.png",
     "away_logo": "https://media.api-sports.io/football/teams/500.png",
-    "status": "1H",
-    "minute": 41,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "venue": "Ennio Tardini"
   },
@@ -2111,11 +1531,11 @@
     "away_id": 50,
     "home_logo": "https://media.api-sports.io/football/teams/65.png",
     "away_logo": "https://media.api-sports.io/football/teams/50.png",
-    "status": "1H",
-    "minute": 11,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 1,
-      "away": 0
+      "home": 3,
+      "away": 1
     },
     "venue": "City Ground"
   },
@@ -2131,10 +1551,10 @@
     "away_id": 10139,
     "home_logo": "https://media.api-sports.io/football/teams/713.png",
     "away_logo": "https://media.api-sports.io/football/teams/10139.png",
-    "status": "1H",
-    "minute": 10,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
+      "home": 3,
       "away": 0
     },
     "venue": "Estadio Nuevo Arcángel"
@@ -2151,11 +1571,11 @@
     "away_id": 722,
     "home_logo": "https://media.api-sports.io/football/teams/537.png",
     "away_logo": "https://media.api-sports.io/football/teams/722.png",
-    "status": "1H",
-    "minute": 13,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 3
     },
     "venue": "Municipal de Butarque"
   },
@@ -2171,11 +1591,11 @@
     "away_id": 531,
     "home_logo": "https://media.api-sports.io/football/teams/727.png",
     "away_logo": "https://media.api-sports.io/football/teams/531.png",
-    "status": "1H",
-    "minute": 12,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "venue": "Estadio El Sadar"
   },
@@ -2191,8 +1611,8 @@
     "away_id": 162,
     "home_logo": "https://media.api-sports.io/football/teams/172.png",
     "away_logo": "https://media.api-sports.io/football/teams/162.png",
-    "status": "1H",
-    "minute": 13,
+    "status": "FT",
+    "minute": 90,
     "goals": {
       "home": 1,
       "away": 0
@@ -2211,11 +1631,11 @@
     "away_id": 1376,
     "home_logo": "https://media.api-sports.io/football/teams/4700.png",
     "away_logo": "https://media.api-sports.io/football/teams/1376.png",
-    "status": "1H",
-    "minute": 13,
+    "status": "PEN",
+    "minute": 120,
     "goals": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 2
     },
     "venue": "Moss Lane"
   },
@@ -2231,11 +1651,11 @@
     "away_id": 426,
     "home_logo": "https://media.api-sports.io/football/teams/198.png",
     "away_logo": "https://media.api-sports.io/football/teams/426.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 3,
+      "away": 1
     },
     "venue": "Bingoal Stadion"
   },
@@ -2251,11 +1671,11 @@
     "away_id": 114,
     "home_logo": "https://media.api-sports.io/football/teams/108.png",
     "away_logo": "https://media.api-sports.io/football/teams/114.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": "Stade de l'Abbé-Deschamps"
   },
@@ -2271,11 +1691,11 @@
     "away_id": 528,
     "home_logo": "https://media.api-sports.io/football/teams/506.png",
     "away_logo": "https://media.api-sports.io/football/teams/528.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 1
     },
     "venue": "Stadio Ciro Vigorito"
   },
@@ -2291,11 +1711,11 @@
     "away_id": 83,
     "home_logo": "https://media.api-sports.io/football/teams/1297.png",
     "away_logo": "https://media.api-sports.io/football/teams/83.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 2
     },
     "venue": "Nouste Camp"
   },
@@ -2311,11 +1731,11 @@
     "away_id": 433,
     "home_logo": "https://media.api-sports.io/football/teams/1063.png",
     "away_logo": "https://media.api-sports.io/football/teams/433.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 0
     },
     "venue": "Stade Geoffroy-Guichard"
   },
@@ -2331,11 +1751,11 @@
     "away_id": 161,
     "home_logo": "https://media.api-sports.io/football/teams/159.png",
     "away_logo": "https://media.api-sports.io/football/teams/161.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 1
     },
     "venue": "Olympiastadion"
   },
@@ -2351,11 +1771,11 @@
     "away_id": 488,
     "home_logo": "https://media.api-sports.io/football/teams/497.png",
     "away_logo": "https://media.api-sports.io/football/teams/488.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 3,
+      "away": 0
     },
     "venue": "Stadio Olimpico"
   },
@@ -2371,11 +1791,11 @@
     "away_id": 410,
     "home_logo": "https://media.api-sports.io/football/teams/196.png",
     "away_logo": "https://media.api-sports.io/football/teams/410.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": "Van Donge & De Roo Stadion"
   },
@@ -2411,11 +1831,11 @@
     "away_id": 541,
     "home_logo": "https://media.api-sports.io/football/teams/532.png",
     "away_logo": "https://media.api-sports.io/football/teams/541.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 3
     },
     "venue": "Estadio de Mestalla"
   },
@@ -2431,11 +1851,11 @@
     "away_id": 53,
     "home_logo": "https://media.api-sports.io/football/teams/1350.png",
     "away_logo": "https://media.api-sports.io/football/teams/53.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 5
     },
     "venue": "ABAX Stadium"
   },
@@ -2451,11 +1871,11 @@
     "away_id": 110,
     "home_logo": "https://media.api-sports.io/football/teams/85.png",
     "away_logo": "https://media.api-sports.io/football/teams/110.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 0
     },
     "venue": "Parc des Princes"
   },
@@ -3331,7 +2751,7 @@
     "away_id": 9692,
     "home_logo": "https://media.api-sports.io/football/teams/534.png",
     "away_logo": "https://media.api-sports.io/football/teams/9692.png",
-    "status": "NS",
+    "status": "PST",
     "minute": null,
     "goals": {
       "home": null,
@@ -3518,5 +2938,45 @@
       "away": null
     },
     "venue": "Riyadh Air Metropolitano"
+  },
+  {
+    "id": 1570013,
+    "date": "2026-11-09T22:30:00+03:00",
+    "league_id": 141,
+    "league": "La Liga 2",
+    "country": "İspanya",
+    "home": "Sabadell",
+    "away": "Real Sociedad II",
+    "home_id": 9593,
+    "away_id": 9585,
+    "home_logo": "https://media.api-sports.io/football/teams/9593.png",
+    "away_logo": "https://media.api-sports.io/football/teams/9585.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Nova Creu Alta"
+  },
+  {
+    "id": 1646814,
+    "date": "2026-11-09T22:30:00+03:00",
+    "league_id": 45,
+    "league": "FA Cup",
+    "country": "İngiltere",
+    "home": "Plymouth Parkway",
+    "away": "Berkhamsted",
+    "home_id": 8899,
+    "away_id": 7214,
+    "home_logo": "https://media.api-sports.io/football/teams/8899.png",
+    "away_logo": "https://media.api-sports.io/football/teams/7214.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Bolitho Park"
   }
 ]
