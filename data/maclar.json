@@ -860,26 +860,6 @@
     "venue": "El Molinón-Enrique Castro Quini"
   },
   {
-    "id": 1570011,
-    "date": "2026-11-08T20:30:00+03:00",
-    "league_id": 141,
-    "league": "La Liga 2",
-    "country": "İspanya",
-    "home": "Las Palmas",
-    "away": "Eldense",
-    "home_id": 534,
-    "away_id": 9692,
-    "home_logo": "https://media.api-sports.io/football/teams/534.png",
-    "away_logo": "https://media.api-sports.io/football/teams/9692.png",
-    "status": "NS",
-    "minute": null,
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "venue": "Gran Canaria"
-  },
-  {
     "id": 1570444,
     "date": "2026-11-08T20:30:00+03:00",
     "league_id": 140,
@@ -1058,6 +1038,26 @@
       "away": 2
     },
     "venue": "Riyadh Air Metropolitano"
+  },
+  {
+    "id": 1570011,
+    "date": "2026-11-09T22:30:00+03:00",
+    "league_id": 141,
+    "league": "La Liga 2",
+    "country": "İspanya",
+    "home": "Las Palmas",
+    "away": "Eldense",
+    "home_id": 534,
+    "away_id": 9692,
+    "home_logo": "https://media.api-sports.io/football/teams/534.png",
+    "away_logo": "https://media.api-sports.io/football/teams/9692.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Gran Canaria"
   },
   {
     "id": 1570013,

@@ -800,7 +800,7 @@
         ]
       }
     ],
-    "updated_at": "2026-11-09T09:16:58.378153+03:00"
+    "updated_at": "2026-11-09T15:02:38.029702+03:00"
   },
   "1552818": {
     "statistics": [
@@ -811,10 +811,6 @@
           "logo": "https://media.api-sports.io/football/teams/116.png"
         },
         "statistics": [
-          {
-            "type": "expected_goals",
-            "value": "2"
-          },
           {
             "type": "Passes accurate",
             "value": 357
@@ -878,6 +874,10 @@
           {
             "type": "Ball Possession",
             "value": "41%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "2.13"
           }
         ]
       },
@@ -888,10 +888,6 @@
           "logo": "https://media.api-sports.io/football/teams/81.png"
         },
         "statistics": [
-          {
-            "type": "expected_goals",
-            "value": "2.22"
-          },
           {
             "type": "Passes accurate",
             "value": 554
@@ -955,10 +951,14 @@
           {
             "type": "Ball Possession",
             "value": "59%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "2.25"
           }
         ]
       }
     ],
-    "updated_at": "2026-11-09T09:16:58.378153+03:00"
+    "updated_at": "2026-11-09T15:02:38.029702+03:00"
   }
 }
