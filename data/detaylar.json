@@ -140,7 +140,7 @@
         ]
       }
     ],
-    "updated_at": "2026-11-10T08:59:42.908064+03:00"
+    "updated_at": "2026-11-10T14:56:49.252999+03:00"
   },
   "1570013": {
     "statistics": [
@@ -157,7 +157,7 @@
           },
           {
             "type": "Passes accurate",
-            "value": 254
+            "value": 255
           },
           {
             "type": "Shots insidebox",
@@ -193,7 +193,7 @@
           },
           {
             "type": "Total passes",
-            "value": 341
+            "value": 344
           },
           {
             "type": "Total Shots",
@@ -234,7 +234,7 @@
           },
           {
             "type": "Passes accurate",
-            "value": 263
+            "value": 262
           },
           {
             "type": "Shots insidebox",
@@ -270,7 +270,7 @@
           },
           {
             "type": "Total passes",
-            "value": 350
+            "value": 353
           },
           {
             "type": "Total Shots",
@@ -299,6 +299,6 @@
         ]
       }
     ],
-    "updated_at": "2026-11-10T08:59:42.908064+03:00"
+    "updated_at": "2026-11-10T14:56:49.252999+03:00"
   }
 }
