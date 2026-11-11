@@ -1,65 +1,5 @@
 [
   {
-    "id": 1570011,
-    "date": "2026-11-09T22:30:00+03:00",
-    "league_id": 141,
-    "league": "La Liga 2",
-    "country": "İspanya",
-    "home": "Las Palmas",
-    "away": "Eldense",
-    "home_id": 534,
-    "away_id": 9692,
-    "home_logo": "https://media.api-sports.io/football/teams/534.png",
-    "away_logo": "https://media.api-sports.io/football/teams/9692.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 2,
-      "away": 0
-    },
-    "venue": "Gran Canaria"
-  },
-  {
-    "id": 1570013,
-    "date": "2026-11-09T22:30:00+03:00",
-    "league_id": 141,
-    "league": "La Liga 2",
-    "country": "İspanya",
-    "home": "Sabadell",
-    "away": "Real Sociedad II",
-    "home_id": 9593,
-    "away_id": 9585,
-    "home_logo": "https://media.api-sports.io/football/teams/9593.png",
-    "away_logo": "https://media.api-sports.io/football/teams/9585.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 0,
-      "away": 0
-    },
-    "venue": "Nova Creu Alta"
-  },
-  {
-    "id": 1646814,
-    "date": "2026-11-09T22:30:00+03:00",
-    "league_id": 45,
-    "league": "FA Cup",
-    "country": "İngiltere",
-    "home": "Plymouth Parkway",
-    "away": "Berkhamsted",
-    "home_id": 8899,
-    "away_id": 7214,
-    "home_logo": "https://media.api-sports.io/football/teams/8899.png",
-    "away_logo": "https://media.api-sports.io/football/teams/7214.png",
-    "status": "AET",
-    "minute": 120,
-    "goals": {
-      "home": 2,
-      "away": 1
-    },
-    "venue": "Bolitho Park"
-  },
-  {
     "id": 1644336,
     "date": "2026-11-10T21:00:00+03:00",
     "league_id": 143,
@@ -71,11 +11,11 @@
     "away_id": 542,
     "home_logo": "https://media.api-sports.io/football/teams/15340.png",
     "away_logo": "https://media.api-sports.io/football/teams/542.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 6
     },
     "venue": "Txerloia Futbol Zelaia"
   },
@@ -91,11 +31,11 @@
     "away_id": 545,
     "home_logo": "https://media.api-sports.io/football/teams/9854.png",
     "away_logo": "https://media.api-sports.io/football/teams/545.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 3
     },
     "venue": "Campo de Futbol Beitikuntzea"
   },
@@ -111,13 +51,13 @@
     "away_id": 5280,
     "home_logo": "https://media.api-sports.io/football/teams/9380.png",
     "away_logo": "https://media.api-sports.io/football/teams/5280.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 0
     },
-    "venue": "Instalaciones de Lezama"
+    "venue": "Campo Municipal de Urritxe"
   },
   {
     "id": 1644362,
@@ -131,11 +71,11 @@
     "away_id": 5274,
     "home_logo": "https://media.api-sports.io/football/teams/22569.png",
     "away_logo": "https://media.api-sports.io/football/teams/5274.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 2
     },
     "venue": null
   },
@@ -151,13 +91,13 @@
     "away_id": 537,
     "home_logo": "https://media.api-sports.io/football/teams/9718.png",
     "away_logo": "https://media.api-sports.io/football/teams/537.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
-    "venue": "Campo de Futbol La Canaleja"
+    "venue": "Estadio Municipal de Butarque"
   },
   {
     "id": 1644380,
@@ -171,12 +111,92 @@
     "away_id": 532,
     "home_logo": "https://media.api-sports.io/football/teams/28415.png",
     "away_logo": "https://media.api-sports.io/football/teams/532.png",
+    "status": "FT",
+    "minute": 90,
+    "goals": {
+      "home": 0,
+      "away": 6
+    },
+    "venue": "Estadio de Mestalla"
+  },
+  {
+    "id": 1644370,
+    "date": "2026-11-12T20:30:00+03:00",
+    "league_id": 143,
+    "league": "Copa del Rey",
+    "country": "İspanya",
+    "home": "Calvo Sotelo",
+    "away": "Albacete",
+    "home_id": 9899,
+    "away_id": 722,
+    "home_logo": "https://media.api-sports.io/football/teams/9899.png",
+    "away_logo": "https://media.api-sports.io/football/teams/722.png",
     "status": "NS",
     "minute": null,
     "goals": {
       "home": null,
       "away": null
     },
-    "venue": "Estadio de Mestalla"
+    "venue": "New Municipal Stadium Ciudad de Puertollano"
+  },
+  {
+    "id": 1644363,
+    "date": "2026-11-12T21:00:00+03:00",
+    "league_id": 143,
+    "league": "Copa del Rey",
+    "country": "İspanya",
+    "home": "Navalcarnero",
+    "away": "Real Betis",
+    "home_id": 5271,
+    "away_id": 543,
+    "home_logo": "https://media.api-sports.io/football/teams/5271.png",
+    "away_logo": "https://media.api-sports.io/football/teams/543.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Estadio Municipal de Santo Domingo"
+  },
+  {
+    "id": 1644379,
+    "date": "2026-11-12T21:00:00+03:00",
+    "league_id": 143,
+    "league": "Copa del Rey",
+    "country": "İspanya",
+    "home": "Tarancón",
+    "away": "Levante",
+    "home_id": 9907,
+    "away_id": 539,
+    "home_logo": "https://media.api-sports.io/football/teams/9907.png",
+    "away_logo": "https://media.api-sports.io/football/teams/539.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Estadio Municipal de Tarancon"
+  },
+  {
+    "id": 1647938,
+    "date": "2026-11-12T21:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Chambéry",
+    "away": "Grenoble",
+    "home_id": 9969,
+    "away_id": 101,
+    "home_logo": "https://media.api-sports.io/football/teams/9969.png",
+    "away_logo": "https://media.api-sports.io/football/teams/101.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
   }
 ]
