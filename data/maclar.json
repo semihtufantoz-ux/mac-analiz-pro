@@ -11,13 +11,13 @@
     "away_id": 722,
     "home_logo": "https://media.api-sports.io/football/teams/9899.png",
     "away_logo": "https://media.api-sports.io/football/teams/722.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 28,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 2
     },
-    "venue": "New Municipal Stadium Ciudad de Puertollano"
+    "venue": "Estadio Municipal Ciudadde Puertollano"
   },
   {
     "id": 1644363,
