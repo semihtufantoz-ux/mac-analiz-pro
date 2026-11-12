@@ -1,125 +1,5 @@
 [
   {
-    "id": 1644336,
-    "date": "2026-11-10T21:00:00+03:00",
-    "league_id": 143,
-    "league": "Copa del Rey",
-    "country": "İspanya",
-    "home": "Anaitasuna",
-    "away": "Alaves",
-    "home_id": 15340,
-    "away_id": 542,
-    "home_logo": "https://media.api-sports.io/football/teams/15340.png",
-    "away_logo": "https://media.api-sports.io/football/teams/542.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 6
-    },
-    "venue": "Txerloia Futbol Zelaia"
-  },
-  {
-    "id": 1644365,
-    "date": "2026-11-10T21:00:00+03:00",
-    "league_id": 143,
-    "league": "Copa del Rey",
-    "country": "İspanya",
-    "home": "Pamplona",
-    "away": "Eibar",
-    "home_id": 9854,
-    "away_id": 545,
-    "home_logo": "https://media.api-sports.io/football/teams/9854.png",
-    "away_logo": "https://media.api-sports.io/football/teams/545.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 0,
-      "away": 3
-    },
-    "venue": "Campo de Futbol Beitikuntzea"
-  },
-  {
-    "id": 1644335,
-    "date": "2026-11-10T22:00:00+03:00",
-    "league_id": 143,
-    "league": "Copa del Rey",
-    "country": "İspanya",
-    "home": "Amorebieta",
-    "away": "UD Logroñés",
-    "home_id": 9380,
-    "away_id": 5280,
-    "home_logo": "https://media.api-sports.io/football/teams/9380.png",
-    "away_logo": "https://media.api-sports.io/football/teams/5280.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 0
-    },
-    "venue": "Campo Municipal de Urritxe"
-  },
-  {
-    "id": 1644362,
-    "date": "2026-11-10T22:00:00+03:00",
-    "league_id": 143,
-    "league": "Copa del Rey",
-    "country": "İspanya",
-    "home": "Mijas Las Lagunas",
-    "away": "Real Jaén",
-    "home_id": 22569,
-    "away_id": 5274,
-    "home_logo": "https://media.api-sports.io/football/teams/22569.png",
-    "away_logo": "https://media.api-sports.io/football/teams/5274.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 1,
-      "away": 2
-    },
-    "venue": null
-  },
-  {
-    "id": 1644382,
-    "date": "2026-11-10T22:00:00+03:00",
-    "league_id": 143,
-    "league": "Copa del Rey",
-    "country": "İspanya",
-    "home": "Trival Valderas",
-    "away": "Leganes",
-    "home_id": 9718,
-    "away_id": 537,
-    "home_logo": "https://media.api-sports.io/football/teams/9718.png",
-    "away_logo": "https://media.api-sports.io/football/teams/537.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 0,
-      "away": 1
-    },
-    "venue": "Estadio Municipal de Butarque"
-  },
-  {
-    "id": 1644380,
-    "date": "2026-11-10T23:00:00+03:00",
-    "league_id": 143,
-    "league": "Copa del Rey",
-    "country": "İspanya",
-    "home": "Tavernes",
-    "away": "Valencia",
-    "home_id": 28415,
-    "away_id": 532,
-    "home_logo": "https://media.api-sports.io/football/teams/28415.png",
-    "away_logo": "https://media.api-sports.io/football/teams/532.png",
-    "status": "FT",
-    "minute": 90,
-    "goals": {
-      "home": 0,
-      "away": 6
-    },
-    "venue": "Estadio de Mestalla"
-  },
-  {
     "id": 1644370,
     "date": "2026-11-12T20:30:00+03:00",
     "league_id": 143,
@@ -191,6 +71,106 @@
     "away_id": 101,
     "home_logo": "https://media.api-sports.io/football/teams/9969.png",
     "away_logo": "https://media.api-sports.io/football/teams/101.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647948,
+    "date": "2026-11-13T22:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Dijon",
+    "away": "Orleans",
+    "home_id": 89,
+    "away_id": 103,
+    "home_logo": "https://media.api-sports.io/football/teams/89.png",
+    "away_logo": "https://media.api-sports.io/football/teams/103.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647959,
+    "date": "2026-11-13T22:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "La Neuvillette",
+    "away": "Valenciennes",
+    "home_id": 28629,
+    "away_id": 105,
+    "home_logo": "https://media.api-sports.io/football/teams/28629.png",
+    "away_logo": "https://media.api-sports.io/football/teams/105.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647986,
+    "date": "2026-11-13T22:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "St-Philbert Gd Lieu",
+    "away": "La Roche VF",
+    "home_id": 15110,
+    "away_id": 9915,
+    "home_logo": "https://media.api-sports.io/football/teams/15110.png",
+    "away_logo": "https://media.api-sports.io/football/teams/9915.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1570019,
+    "date": "2026-11-13T22:30:00+03:00",
+    "league_id": 141,
+    "league": "La Liga 2",
+    "country": "İspanya",
+    "home": "Leganes",
+    "away": "Burgos",
+    "home_id": 537,
+    "away_id": 9580,
+    "home_logo": "https://media.api-sports.io/football/teams/537.png",
+    "away_logo": "https://media.api-sports.io/football/teams/9580.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Municipal de Butarque"
+  },
+  {
+    "id": 1644376,
+    "date": "2026-11-13T23:00:00+03:00",
+    "league_id": 143,
+    "league": "Copa del Rey",
+    "country": "İspanya",
+    "home": "Salamanca UDS",
+    "away": "Celta Vigo",
+    "home_id": 9588,
+    "away_id": 538,
+    "home_logo": "https://media.api-sports.io/football/teams/9588.png",
+    "away_logo": "https://media.api-sports.io/football/teams/538.png",
     "status": "NS",
     "minute": null,
     "goals": {
