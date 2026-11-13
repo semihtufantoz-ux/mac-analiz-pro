@@ -165,5 +165,172 @@
       }
     ],
     "updated_at": "2026-11-12T20:59:19.876412+03:00"
+  },
+  "1647938": {
+    "statistics": [
+      {
+        "team": {
+          "id": 9969,
+          "name": "Chambéry",
+          "logo": "https://media.api-sports.io/football/teams/9969.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": null
+          },
+          {
+            "type": "Shots off Goal",
+            "value": null
+          },
+          {
+            "type": "Total Shots",
+            "value": null
+          },
+          {
+            "type": "Blocked Shots",
+            "value": null
+          },
+          {
+            "type": "Shots insidebox",
+            "value": null
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": null
+          },
+          {
+            "type": "Fouls",
+            "value": null
+          },
+          {
+            "type": "Corner Kicks",
+            "value": null
+          },
+          {
+            "type": "Offsides",
+            "value": null
+          },
+          {
+            "type": "Ball Possession",
+            "value": null
+          },
+          {
+            "type": "Yellow Cards",
+            "value": null
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": null
+          },
+          {
+            "type": "Total passes",
+            "value": null
+          },
+          {
+            "type": "Passes accurate",
+            "value": null
+          },
+          {
+            "type": "Passes %",
+            "value": null
+          },
+          {
+            "type": "expected_goals",
+            "value": null
+          },
+          {
+            "type": "goals_prevented",
+            "value": null
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 101,
+          "name": "Grenoble",
+          "logo": "https://media.api-sports.io/football/teams/101.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": null
+          },
+          {
+            "type": "Shots off Goal",
+            "value": null
+          },
+          {
+            "type": "Total Shots",
+            "value": null
+          },
+          {
+            "type": "Blocked Shots",
+            "value": null
+          },
+          {
+            "type": "Shots insidebox",
+            "value": null
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": null
+          },
+          {
+            "type": "Fouls",
+            "value": null
+          },
+          {
+            "type": "Corner Kicks",
+            "value": null
+          },
+          {
+            "type": "Offsides",
+            "value": null
+          },
+          {
+            "type": "Ball Possession",
+            "value": null
+          },
+          {
+            "type": "Yellow Cards",
+            "value": null
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": null
+          },
+          {
+            "type": "Total passes",
+            "value": null
+          },
+          {
+            "type": "Passes accurate",
+            "value": null
+          },
+          {
+            "type": "Passes %",
+            "value": null
+          },
+          {
+            "type": "expected_goals",
+            "value": null
+          },
+          {
+            "type": "goals_prevented",
+            "value": null
+          }
+        ]
+      }
+    ],
+    "updated_at": "2026-11-13T09:08:25.708181+03:00"
   }
 }

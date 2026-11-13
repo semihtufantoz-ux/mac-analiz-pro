@@ -11,11 +11,11 @@
     "away_id": 722,
     "home_logo": "https://media.api-sports.io/football/teams/9899.png",
     "away_logo": "https://media.api-sports.io/football/teams/722.png",
-    "status": "1H",
-    "minute": 28,
+    "status": "FT",
+    "minute": 90,
     "goals": {
       "home": 0,
-      "away": 2
+      "away": 3
     },
     "venue": "Estadio Municipal Ciudadde Puertollano"
   },
@@ -31,13 +31,13 @@
     "away_id": 543,
     "home_logo": "https://media.api-sports.io/football/teams/5271.png",
     "away_logo": "https://media.api-sports.io/football/teams/543.png",
-    "status": "NS",
-    "minute": null,
+    "status": "AET",
+    "minute": 120,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 3
     },
-    "venue": "Estadio Municipal de Santo Domingo"
+    "venue": "Santo Domingo"
   },
   {
     "id": 1644379,
@@ -51,11 +51,11 @@
     "away_id": 539,
     "home_logo": "https://media.api-sports.io/football/teams/9907.png",
     "away_logo": "https://media.api-sports.io/football/teams/539.png",
-    "status": "NS",
-    "minute": null,
+    "status": "AET",
+    "minute": 120,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 2
     },
     "venue": "Estadio Municipal de Tarancon"
   },
@@ -71,13 +71,13 @@
     "away_id": 101,
     "home_logo": "https://media.api-sports.io/football/teams/9969.png",
     "away_logo": "https://media.api-sports.io/football/teams/101.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 2
     },
-    "venue": null
+    "venue": "Stade Municipal"
   },
   {
     "id": 1647948,
@@ -178,5 +178,1265 @@
       "away": null
     },
     "venue": null
+  },
+  {
+    "id": 1570024,
+    "date": "2026-11-14T16:00:00+03:00",
+    "league_id": 141,
+    "league": "La Liga 2",
+    "country": "İspanya",
+    "home": "Valladolid",
+    "away": "Castellón",
+    "home_id": 720,
+    "away_id": 5254,
+    "home_logo": "https://media.api-sports.io/football/teams/720.png",
+    "away_logo": "https://media.api-sports.io/football/teams/5254.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Estadio José Zorrilla"
+  },
+  {
+    "id": 1647927,
+    "date": "2026-11-14T16:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Balagne",
+    "away": "Montpellier",
+    "home_id": 9931,
+    "away_id": 82,
+    "home_logo": "https://media.api-sports.io/football/teams/9931.png",
+    "away_logo": "https://media.api-sports.io/football/teams/82.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647962,
+    "date": "2026-11-14T16:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Le Puy Foot",
+    "away": "Diables Noirs",
+    "home_id": 3069,
+    "away_id": 3170,
+    "home_logo": "https://media.api-sports.io/football/teams/3069.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3170.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stade Charles Massot"
+  },
+  {
+    "id": 1647999,
+    "date": "2026-11-14T16:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Tourcoing",
+    "away": "Reims",
+    "home_id": 9314,
+    "away_id": 93,
+    "home_logo": "https://media.api-sports.io/football/teams/9314.png",
+    "away_logo": "https://media.api-sports.io/football/teams/93.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1648004,
+    "date": "2026-11-14T16:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Versailles",
+    "away": "Rodez",
+    "home_id": 3131,
+    "away_id": 1301,
+    "home_logo": "https://media.api-sports.io/football/teams/3131.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1301.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647931,
+    "date": "2026-11-14T16:30:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Boulay",
+    "away": "Sochaux",
+    "home_id": 9267,
+    "away_id": 115,
+    "home_logo": "https://media.api-sports.io/football/teams/9267.png",
+    "away_logo": "https://media.api-sports.io/football/teams/115.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647981,
+    "date": "2026-11-14T17:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Rhone-Crussol",
+    "away": "Fréjus St-Raphaël",
+    "home_id": 28644,
+    "away_id": 3051,
+    "home_logo": "https://media.api-sports.io/football/teams/28644.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3051.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647937,
+    "date": "2026-11-14T18:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Chalon",
+    "away": "Hauts Lyonnais",
+    "home_id": 27020,
+    "away_id": 3187,
+    "home_logo": "https://media.api-sports.io/football/teams/27020.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3187.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647943,
+    "date": "2026-11-14T18:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Choisy au Bac",
+    "away": "Caen",
+    "home_id": 3166,
+    "away_id": 88,
+    "home_logo": "https://media.api-sports.io/football/teams/3166.png",
+    "away_logo": "https://media.api-sports.io/football/teams/88.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647953,
+    "date": "2026-11-14T18:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Vendée Fontenay",
+    "away": "Clermont Foot",
+    "home_id": 3130,
+    "away_id": 99,
+    "home_logo": "https://media.api-sports.io/football/teams/3130.png",
+    "away_logo": "https://media.api-sports.io/football/teams/99.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1570022,
+    "date": "2026-11-14T18:15:00+03:00",
+    "league_id": 141,
+    "league": "La Liga 2",
+    "country": "İspanya",
+    "home": "Real Sociedad II",
+    "away": "Sporting Gijon",
+    "home_id": 9585,
+    "away_id": 731,
+    "home_logo": "https://media.api-sports.io/football/teams/9585.png",
+    "away_logo": "https://media.api-sports.io/football/teams/731.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Estadio Ciudad Deportiva Zubieta"
+  },
+  {
+    "id": 1551877,
+    "date": "2026-11-14T18:30:00+03:00",
+    "league_id": 89,
+    "league": "Eerste Divisie",
+    "country": "Hollanda",
+    "home": "NAC Breda",
+    "away": "Emmen",
+    "home_id": 203,
+    "away_id": 208,
+    "home_logo": "https://media.api-sports.io/football/teams/203.png",
+    "away_logo": "https://media.api-sports.io/football/teams/208.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Rat Verlegh Stadion"
+  },
+  {
+    "id": 1647942,
+    "date": "2026-11-14T19:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Cheruy",
+    "away": "Bourg-en-bresse 01",
+    "home_id": 28622,
+    "away_id": 430,
+    "home_logo": "https://media.api-sports.io/football/teams/28622.png",
+    "away_logo": "https://media.api-sports.io/football/teams/430.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647952,
+    "date": "2026-11-14T19:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Firminy",
+    "away": "Annecy",
+    "home_id": 28626,
+    "away_id": 3012,
+    "home_logo": "https://media.api-sports.io/football/teams/28626.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3012.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647956,
+    "date": "2026-11-14T19:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Croix Football IC",
+    "away": "Thaon",
+    "home_id": 3043,
+    "away_id": 3123,
+    "home_logo": "https://media.api-sports.io/football/teams/3043.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3123.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647961,
+    "date": "2026-11-14T19:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Le Poiré sur Vie",
+    "away": "USSA Vertou",
+    "home_id": 3068,
+    "away_id": 3127,
+    "home_logo": "https://media.api-sports.io/football/teams/3068.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3127.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647994,
+    "date": "2026-11-14T19:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "St Sebastien",
+    "away": "La Baule-Le Pouliguen",
+    "home_id": 28648,
+    "away_id": 9283,
+    "home_logo": "https://media.api-sports.io/football/teams/28648.png",
+    "away_logo": "https://media.api-sports.io/football/teams/9283.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647998,
+    "date": "2026-11-14T19:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Tinteniac",
+    "away": "Concarneau",
+    "home_id": 28633,
+    "away_id": 1300,
+    "home_logo": "https://media.api-sports.io/football/teams/28633.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1300.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647958,
+    "date": "2026-11-14T19:30:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Koetzingue",
+    "away": "Biesheim",
+    "home_id": 13691,
+    "away_id": 3025,
+    "home_logo": "https://media.api-sports.io/football/teams/13691.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3025.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647922,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Amnéville",
+    "away": "Sundhoffen",
+    "home_id": 3144,
+    "away_id": 9312,
+    "home_logo": "https://media.api-sports.io/football/teams/3144.png",
+    "away_logo": "https://media.api-sports.io/football/teams/9312.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647923,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Caen PTT",
+    "away": "Chambly Thelle FC",
+    "home_id": 3158,
+    "away_id": 1291,
+    "home_logo": "https://media.api-sports.io/football/teams/3158.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1291.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647924,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "ASPTT Dijon",
+    "away": "Selongey",
+    "home_id": 22040,
+    "away_id": 3300,
+    "home_logo": "https://media.api-sports.io/football/teams/22040.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3300.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647929,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Racing Besançon",
+    "away": "APM Metz",
+    "home_id": 9974,
+    "away_id": 3245,
+    "home_logo": "https://media.api-sports.io/football/teams/9974.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3245.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647930,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Stade Béthunois",
+    "away": "Nancy",
+    "home_id": 18153,
+    "away_id": 102,
+    "home_logo": "https://media.api-sports.io/football/teams/18153.png",
+    "away_logo": "https://media.api-sports.io/football/teams/102.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647939,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Châteaubriant",
+    "away": "Horizon Patho",
+    "home_id": 9272,
+    "away_id": 28627,
+    "home_logo": "https://media.api-sports.io/football/teams/9272.png",
+    "away_logo": "https://media.api-sports.io/football/teams/28627.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647945,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Saint-Brieuc",
+    "away": "Rouen",
+    "home_id": 13710,
+    "away_id": 3221,
+    "home_logo": "https://media.api-sports.io/football/teams/13710.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3221.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647946,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Contres",
+    "away": "Linas-Montlhery",
+    "home_id": 28625,
+    "away_id": 9288,
+    "home_logo": "https://media.api-sports.io/football/teams/28625.png",
+    "away_logo": "https://media.api-sports.io/football/teams/9288.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647949,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Dunkerque",
+    "away": "Quevilly",
+    "home_id": 1304,
+    "away_id": 431,
+    "home_logo": "https://media.api-sports.io/football/teams/1304.png",
+    "away_logo": "https://media.api-sports.io/football/teams/431.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stade Marcel Tribut"
+  },
+  {
+    "id": 1647951,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Cournon",
+    "away": "Chassieu Décines",
+    "home_id": 9273,
+    "away_id": 3036,
+    "home_logo": "https://media.api-sports.io/football/teams/9273.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3036.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647955,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Grau-du-Roi",
+    "away": "Riviera",
+    "home_id": 25358,
+    "away_id": 28647,
+    "home_logo": "https://media.api-sports.io/football/teams/25358.png",
+    "away_logo": "https://media.api-sports.io/football/teams/28647.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647963,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Le Touquet",
+    "away": "Avranches",
+    "home_id": 9287,
+    "away_id": 1303,
+    "home_logo": "https://media.api-sports.io/football/teams/9287.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1303.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647965,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Lyon Duchere",
+    "away": "Feurs",
+    "home_id": 1295,
+    "away_id": 3177,
+    "home_logo": "https://media.api-sports.io/football/teams/1295.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3177.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stade de Balmont"
+  },
+  {
+    "id": 1647975,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Cheminots Paray",
+    "away": "Villefranche",
+    "home_id": 3039,
+    "away_id": 1302,
+    "home_logo": "https://media.api-sports.io/football/teams/3039.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1302.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647978,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Pontivy GSI",
+    "away": "TA Rennes",
+    "home_id": 3098,
+    "away_id": 3310,
+    "home_logo": "https://media.api-sports.io/football/teams/3098.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3310.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647984,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "SAG Cestas",
+    "away": "Bayonne",
+    "home_id": 18147,
+    "away_id": 10166,
+    "home_logo": "https://media.api-sports.io/football/teams/18147.png",
+    "away_logo": "https://media.api-sports.io/football/teams/10166.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647985,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Saint-Omer",
+    "away": "Vire",
+    "home_id": 3109,
+    "away_id": 3243,
+    "home_logo": "https://media.api-sports.io/football/teams/3109.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3243.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Stade Gaston Bonnet"
+  },
+  {
+    "id": 1647991,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "St Ouen l'Aumône",
+    "away": "Boulogne",
+    "home_id": 13630,
+    "away_id": 1299,
+    "home_logo": "https://media.api-sports.io/football/teams/13630.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1299.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647992,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Strasbourg Koenigshoffen",
+    "away": "Oberlauterbach",
+    "home_id": 16416,
+    "away_id": 3279,
+    "home_logo": "https://media.api-sports.io/football/teams/16416.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3279.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1648006,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Vesoul",
+    "away": "Fleury 91",
+    "home_id": 13803,
+    "away_id": 3179,
+    "home_logo": "https://media.api-sports.io/football/teams/13803.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3179.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1648008,
+    "date": "2026-11-14T20:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Vitré",
+    "away": "Saint-Pierre Milizac",
+    "home_id": 3138,
+    "away_id": 9309,
+    "home_logo": "https://media.api-sports.io/football/teams/3138.png",
+    "away_logo": "https://media.api-sports.io/football/teams/9309.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1570015,
+    "date": "2026-11-14T20:30:00+03:00",
+    "league_id": 141,
+    "league": "La Liga 2",
+    "country": "İspanya",
+    "home": "Almeria",
+    "away": "FC Andorra",
+    "home_id": 723,
+    "away_id": 8157,
+    "home_logo": "https://media.api-sports.io/football/teams/723.png",
+    "away_logo": "https://media.api-sports.io/football/teams/8157.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "UD Almería Stadium"
+  },
+  {
+    "id": 1570020,
+    "date": "2026-11-14T20:30:00+03:00",
+    "league_id": 141,
+    "league": "La Liga 2",
+    "country": "İspanya",
+    "home": "Mallorca",
+    "away": "Cordoba",
+    "home_id": 798,
+    "away_id": 713,
+    "home_logo": "https://media.api-sports.io/football/teams/798.png",
+    "away_logo": "https://media.api-sports.io/football/teams/713.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Estadi Mallorca Son Moix"
+  },
+  {
+    "id": 1647928,
+    "date": "2026-11-14T20:30:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Balma",
+    "away": "Castanet",
+    "home_id": 3152,
+    "away_id": 15115,
+    "home_logo": "https://media.api-sports.io/football/teams/3152.png",
+    "away_logo": "https://media.api-sports.io/football/teams/15115.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647926,
+    "date": "2026-11-14T21:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Avenir Foot Lozère",
+    "away": "Entente Crest-Aouste",
+    "home_id": 3016,
+    "away_id": 3046,
+    "home_logo": "https://media.api-sports.io/football/teams/3016.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3046.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647932,
+    "date": "2026-11-14T21:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Boulazac",
+    "away": "Anglet Genets",
+    "home_id": 28618,
+    "away_id": 3010,
+    "home_logo": "https://media.api-sports.io/football/teams/28618.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3010.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647933,
+    "date": "2026-11-14T21:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Bressuire",
+    "away": "Challans",
+    "home_id": 3155,
+    "away_id": 3032,
+    "home_logo": "https://media.api-sports.io/football/teams/3155.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3032.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647934,
+    "date": "2026-11-14T21:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Brive",
+    "away": "Angoulême",
+    "home_id": 13641,
+    "away_id": 3011,
+    "home_logo": "https://media.api-sports.io/football/teams/13641.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3011.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647935,
+    "date": "2026-11-14T21:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Buxerolles",
+    "away": "Sablé",
+    "home_id": 28619,
+    "away_id": 9304,
+    "home_logo": "https://media.api-sports.io/football/teams/28619.png",
+    "away_logo": "https://media.api-sports.io/football/teams/9304.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647941,
+    "date": "2026-11-14T21:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Chauny",
+    "away": "Le Pays du Valois",
+    "home_id": 3256,
+    "away_id": 20601,
+    "home_logo": "https://media.api-sports.io/football/teams/3256.png",
+    "away_logo": "https://media.api-sports.io/football/teams/20601.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647944,
+    "date": "2026-11-14T21:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Claira/Laurent",
+    "away": "Puissalicon",
+    "home_id": 28623,
+    "away_id": 28641,
+    "home_logo": "https://media.api-sports.io/football/teams/28623.png",
+    "away_logo": "https://media.api-sports.io/football/teams/28641.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647947,
+    "date": "2026-11-14T21:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "CPB Brequigny",
+    "away": "Montluçon",
+    "home_id": 28620,
+    "away_id": 3083,
+    "home_logo": "https://media.api-sports.io/football/teams/28620.png",
+    "away_logo": "https://media.api-sports.io/football/teams/3083.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647960,
+    "date": "2026-11-14T21:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Lannion",
+    "away": "Guingamp",
+    "home_id": 3067,
+    "away_id": 90,
+    "home_logo": "https://media.api-sports.io/football/teams/3067.png",
+    "away_logo": "https://media.api-sports.io/football/teams/90.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647964,
+    "date": "2026-11-14T21:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Lourdes",
+    "away": "PAU",
+    "home_id": 9852,
+    "away_id": 1297,
+    "home_logo": "https://media.api-sports.io/football/teams/9852.png",
+    "away_logo": "https://media.api-sports.io/football/teams/1297.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647966,
+    "date": "2026-11-14T21:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Macaire",
+    "away": "Nueillaubiers",
+    "home_id": 28630,
+    "away_id": 9297,
+    "home_logo": "https://media.api-sports.io/football/teams/28630.png",
+    "away_logo": "https://media.api-sports.io/football/teams/9297.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647990,
+    "date": "2026-11-14T21:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Stade Bordelais",
+    "away": "Mazeres",
+    "home_id": 3228,
+    "away_id": 27035,
+    "home_logo": "https://media.api-sports.io/football/teams/3228.png",
+    "away_logo": "https://media.api-sports.io/football/teams/27035.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1551878,
+    "date": "2026-11-14T22:00:00+03:00",
+    "league_id": 89,
+    "league": "Eerste Divisie",
+    "country": "Hollanda",
+    "home": "Almere City FC",
+    "away": "Helmond Sport",
+    "home_id": 419,
+    "away_id": 424,
+    "home_logo": "https://media.api-sports.io/football/teams/419.png",
+    "away_logo": "https://media.api-sports.io/football/teams/424.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Yanmar Stadion"
+  },
+  {
+    "id": 1551879,
+    "date": "2026-11-14T22:00:00+03:00",
+    "league_id": 89,
+    "league": "Eerste Divisie",
+    "country": "Hollanda",
+    "home": "De Graafschap",
+    "away": "FC OSS",
+    "home_id": 199,
+    "away_id": 423,
+    "home_logo": "https://media.api-sports.io/football/teams/199.png",
+    "away_logo": "https://media.api-sports.io/football/teams/423.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "De Vijverberg"
+  },
+  {
+    "id": 1551880,
+    "date": "2026-11-14T22:00:00+03:00",
+    "league_id": 89,
+    "league": "Eerste Divisie",
+    "country": "Hollanda",
+    "home": "Dordrecht",
+    "away": "Heracles",
+    "home_id": 409,
+    "away_id": 206,
+    "home_logo": "https://media.api-sports.io/football/teams/409.png",
+    "away_logo": "https://media.api-sports.io/football/teams/206.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "GN Bouw Stadion"
+  },
+  {
+    "id": 1551881,
+    "date": "2026-11-14T22:00:00+03:00",
+    "league_id": 89,
+    "league": "Eerste Divisie",
+    "country": "Hollanda",
+    "home": "Roda",
+    "away": "FC Volendam",
+    "home_id": 414,
+    "away_id": 416,
+    "home_logo": "https://media.api-sports.io/football/teams/414.png",
+    "away_logo": "https://media.api-sports.io/football/teams/416.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Parkstad Limburg"
+  },
+  {
+    "id": 1551882,
+    "date": "2026-11-14T22:00:00+03:00",
+    "league_id": 89,
+    "league": "Eerste Divisie",
+    "country": "Hollanda",
+    "home": "VVV Venlo",
+    "away": "FC Eindhoven",
+    "home_id": 204,
+    "away_id": 422,
+    "home_logo": "https://media.api-sports.io/football/teams/204.png",
+    "away_logo": "https://media.api-sports.io/football/teams/422.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Seacon Stadion De Koel"
+  },
+  {
+    "id": 1551883,
+    "date": "2026-11-14T22:00:00+03:00",
+    "league_id": 89,
+    "league": "Eerste Divisie",
+    "country": "Hollanda",
+    "home": "Waalwijk",
+    "away": "Den Bosch",
+    "home_id": 417,
+    "away_id": 421,
+    "home_logo": "https://media.api-sports.io/football/teams/417.png",
+    "away_logo": "https://media.api-sports.io/football/teams/421.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Mandemakers Stadion"
+  },
+  {
+    "id": 1647974,
+    "date": "2026-11-14T22:00:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "OM Cambrai",
+    "away": "Amiens",
+    "home_id": 28640,
+    "away_id": 87,
+    "home_logo": "https://media.api-sports.io/football/teams/28640.png",
+    "away_logo": "https://media.api-sports.io/football/teams/87.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1570021,
+    "date": "2026-11-14T23:00:00+03:00",
+    "league_id": 141,
+    "league": "La Liga 2",
+    "country": "İspanya",
+    "home": "Oviedo",
+    "away": "Girona",
+    "home_id": 718,
+    "away_id": 547,
+    "home_logo": "https://media.api-sports.io/football/teams/718.png",
+    "away_logo": "https://media.api-sports.io/football/teams/547.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": "Nuevo Carlos Tartiere"
   }
 ]
