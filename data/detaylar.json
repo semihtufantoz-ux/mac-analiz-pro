@@ -157,5 +157,172 @@
       }
     ],
     "updated_at": "2026-11-14T14:47:28.878233+03:00"
+  },
+  "1647956": {
+    "statistics": [
+      {
+        "team": {
+          "id": 3043,
+          "name": "Croix Football IC",
+          "logo": "https://media.api-sports.io/football/teams/3043.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": null
+          },
+          {
+            "type": "Shots off Goal",
+            "value": null
+          },
+          {
+            "type": "Total Shots",
+            "value": null
+          },
+          {
+            "type": "Blocked Shots",
+            "value": null
+          },
+          {
+            "type": "Shots insidebox",
+            "value": null
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": null
+          },
+          {
+            "type": "Fouls",
+            "value": null
+          },
+          {
+            "type": "Corner Kicks",
+            "value": null
+          },
+          {
+            "type": "Offsides",
+            "value": null
+          },
+          {
+            "type": "Ball Possession",
+            "value": null
+          },
+          {
+            "type": "Yellow Cards",
+            "value": null
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": null
+          },
+          {
+            "type": "Total passes",
+            "value": null
+          },
+          {
+            "type": "Passes accurate",
+            "value": null
+          },
+          {
+            "type": "Passes %",
+            "value": null
+          },
+          {
+            "type": "expected_goals",
+            "value": null
+          },
+          {
+            "type": "goals_prevented",
+            "value": null
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 3123,
+          "name": "Thaon",
+          "logo": "https://media.api-sports.io/football/teams/3123.png"
+        },
+        "statistics": [
+          {
+            "type": "Shots on Goal",
+            "value": null
+          },
+          {
+            "type": "Shots off Goal",
+            "value": null
+          },
+          {
+            "type": "Total Shots",
+            "value": null
+          },
+          {
+            "type": "Blocked Shots",
+            "value": null
+          },
+          {
+            "type": "Shots insidebox",
+            "value": null
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": null
+          },
+          {
+            "type": "Fouls",
+            "value": null
+          },
+          {
+            "type": "Corner Kicks",
+            "value": null
+          },
+          {
+            "type": "Offsides",
+            "value": null
+          },
+          {
+            "type": "Ball Possession",
+            "value": null
+          },
+          {
+            "type": "Yellow Cards",
+            "value": null
+          },
+          {
+            "type": "Red Cards",
+            "value": null
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": null
+          },
+          {
+            "type": "Total passes",
+            "value": null
+          },
+          {
+            "type": "Passes accurate",
+            "value": null
+          },
+          {
+            "type": "Passes %",
+            "value": null
+          },
+          {
+            "type": "expected_goals",
+            "value": null
+          },
+          {
+            "type": "goals_prevented",
+            "value": null
+          }
+        ]
+      }
+    ],
+    "updated_at": "2026-11-14T20:44:34.125665+03:00"
   }
 }

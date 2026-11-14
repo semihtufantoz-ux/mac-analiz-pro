@@ -111,11 +111,11 @@
     "away_id": 5254,
     "home_logo": "https://media.api-sports.io/football/teams/720.png",
     "away_logo": "https://media.api-sports.io/football/teams/5254.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": "Estadio José Zorrilla"
   },
@@ -131,11 +131,11 @@
     "away_id": 82,
     "home_logo": "https://media.api-sports.io/football/teams/9931.png",
     "away_logo": "https://media.api-sports.io/football/teams/82.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 5
     },
     "venue": null
   },
@@ -151,11 +151,11 @@
     "away_id": 3170,
     "home_logo": "https://media.api-sports.io/football/teams/3069.png",
     "away_logo": "https://media.api-sports.io/football/teams/3170.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 4,
+      "away": 0
     },
     "venue": "Stade Charles Massot"
   },
@@ -171,11 +171,11 @@
     "away_id": 93,
     "home_logo": "https://media.api-sports.io/football/teams/9314.png",
     "away_logo": "https://media.api-sports.io/football/teams/93.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": null
   },
@@ -191,13 +191,13 @@
     "away_id": 1301,
     "home_logo": "https://media.api-sports.io/football/teams/3131.png",
     "away_logo": "https://media.api-sports.io/football/teams/1301.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 3,
+      "away": 2
     },
-    "venue": null
+    "venue": "Montbauron Stadium"
   },
   {
     "id": 1647931,
@@ -211,11 +211,11 @@
     "away_id": 115,
     "home_logo": "https://media.api-sports.io/football/teams/9267.png",
     "away_logo": "https://media.api-sports.io/football/teams/115.png",
-    "status": "NS",
-    "minute": null,
+    "status": "PEN",
+    "minute": 120,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 3
     },
     "venue": null
   },
@@ -231,11 +231,11 @@
     "away_id": 3051,
     "home_logo": "https://media.api-sports.io/football/teams/28644.png",
     "away_logo": "https://media.api-sports.io/football/teams/3051.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 3
     },
     "venue": null
   },
@@ -251,11 +251,11 @@
     "away_id": 3187,
     "home_logo": "https://media.api-sports.io/football/teams/27020.png",
     "away_logo": "https://media.api-sports.io/football/teams/3187.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 3
     },
     "venue": null
   },
@@ -271,11 +271,11 @@
     "away_id": 88,
     "home_logo": "https://media.api-sports.io/football/teams/3166.png",
     "away_logo": "https://media.api-sports.io/football/teams/88.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 2
     },
     "venue": null
   },
@@ -291,11 +291,11 @@
     "away_id": 99,
     "home_logo": "https://media.api-sports.io/football/teams/3130.png",
     "away_logo": "https://media.api-sports.io/football/teams/99.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 5
     },
     "venue": null
   },
@@ -311,11 +311,11 @@
     "away_id": 731,
     "home_logo": "https://media.api-sports.io/football/teams/9585.png",
     "away_logo": "https://media.api-sports.io/football/teams/731.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 2
     },
     "venue": "Estadio Ciudad Deportiva Zubieta"
   },
@@ -331,11 +331,11 @@
     "away_id": 208,
     "home_logo": "https://media.api-sports.io/football/teams/203.png",
     "away_logo": "https://media.api-sports.io/football/teams/208.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 4,
+      "away": 2
     },
     "venue": "Rat Verlegh Stadion"
   },
@@ -371,11 +371,11 @@
     "away_id": 3012,
     "home_logo": "https://media.api-sports.io/football/teams/28626.png",
     "away_logo": "https://media.api-sports.io/football/teams/3012.png",
-    "status": "NS",
-    "minute": null,
+    "status": "2H",
+    "minute": 85,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 1
     },
     "venue": null
   },
@@ -391,13 +391,13 @@
     "away_id": 3123,
     "home_logo": "https://media.api-sports.io/football/teams/3043.png",
     "away_logo": "https://media.api-sports.io/football/teams/3123.png",
-    "status": "NS",
-    "minute": null,
+    "status": "2H",
+    "minute": 89,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 2
     },
-    "venue": null
+    "venue": "Stade Henri Seigneur"
   },
   {
     "id": 1647961,
@@ -531,11 +531,11 @@
     "away_id": 3300,
     "home_logo": "https://media.api-sports.io/football/teams/22040.png",
     "away_logo": "https://media.api-sports.io/football/teams/3300.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 43,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": null
   },
@@ -651,11 +651,11 @@
     "away_id": 431,
     "home_logo": "https://media.api-sports.io/football/teams/1304.png",
     "away_logo": "https://media.api-sports.io/football/teams/431.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 44,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": "Stade Marcel Tribut"
   },
@@ -791,11 +791,11 @@
     "away_id": 10166,
     "home_logo": "https://media.api-sports.io/football/teams/18147.png",
     "away_logo": "https://media.api-sports.io/football/teams/10166.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 43,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": null
   },
@@ -831,11 +831,11 @@
     "away_id": 1299,
     "home_logo": "https://media.api-sports.io/football/teams/13630.png",
     "away_logo": "https://media.api-sports.io/football/teams/1299.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 42,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 0
     },
     "venue": null
   },
@@ -891,11 +891,11 @@
     "away_id": 9309,
     "home_logo": "https://media.api-sports.io/football/teams/3138.png",
     "away_logo": "https://media.api-sports.io/football/teams/9309.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 43,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 1
     },
     "venue": null
   },
@@ -911,11 +911,11 @@
     "away_id": 8157,
     "home_logo": "https://media.api-sports.io/football/teams/723.png",
     "away_logo": "https://media.api-sports.io/football/teams/8157.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 15,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": "UD Almería Stadium"
   },
@@ -931,11 +931,11 @@
     "away_id": 713,
     "home_logo": "https://media.api-sports.io/football/teams/798.png",
     "away_logo": "https://media.api-sports.io/football/teams/713.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 12,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 1
     },
     "venue": "Estadi Mallorca Son Moix"
   },
@@ -951,11 +951,11 @@
     "away_id": 15115,
     "home_logo": "https://media.api-sports.io/football/teams/3152.png",
     "away_logo": "https://media.api-sports.io/football/teams/15115.png",
-    "status": "NS",
-    "minute": null,
+    "status": "1H",
+    "minute": 11,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "venue": null
   },
