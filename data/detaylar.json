@@ -316,5 +316,259 @@
       }
     ],
     "updated_at": "2026-11-15T14:49:11.682429+03:00"
+  },
+  "1570016": {
+    "statistics": [
+      {
+        "team": {
+          "id": 545,
+          "name": "Eibar",
+          "logo": "https://media.api-sports.io/football/teams/545.png"
+        },
+        "statistics": [
+          {
+            "type": "expected_goals",
+            "value": "0.03"
+          },
+          {
+            "type": "Passes accurate",
+            "value": 55
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 1
+          },
+          {
+            "type": "Free Kicks",
+            "value": 2
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 1
+          },
+          {
+            "type": "Offsides",
+            "value": 1
+          },
+          {
+            "type": "Total passes",
+            "value": 70
+          },
+          {
+            "type": "Total Shots",
+            "value": 1
+          },
+          {
+            "type": "Fouls",
+            "value": 0
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 0
+          },
+          {
+            "type": "Red Cards",
+            "value": 0
+          },
+          {
+            "type": "Shots on Goal",
+            "value": 0
+          },
+          {
+            "type": "Ball Possession",
+            "value": "62%"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 724,
+          "name": "Cadiz",
+          "logo": "https://media.api-sports.io/football/teams/724.png"
+        },
+        "statistics": [
+          {
+            "type": "expected_goals",
+            "value": "0.02"
+          },
+          {
+            "type": "Passes accurate",
+            "value": 26
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 1
+          },
+          {
+            "type": "Free Kicks",
+            "value": 0
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 1
+          },
+          {
+            "type": "Offsides",
+            "value": 0
+          },
+          {
+            "type": "Total passes",
+            "value": 40
+          },
+          {
+            "type": "Total Shots",
+            "value": 1
+          },
+          {
+            "type": "Fouls",
+            "value": 1
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 0
+          },
+          {
+            "type": "Red Cards",
+            "value": 0
+          },
+          {
+            "type": "Shots on Goal",
+            "value": 0
+          },
+          {
+            "type": "Ball Possession",
+            "value": "38%"
+          }
+        ]
+      }
+    ],
+    "updated_at": "2026-11-15T20:45:23.733122+03:00"
+  },
+  "1570017": {
+    "statistics": [
+      {
+        "team": {
+          "id": 9692,
+          "name": "Eldense",
+          "logo": "https://media.api-sports.io/football/teams/9692.png"
+        },
+        "statistics": [
+          {
+            "type": "Passes accurate",
+            "value": 48
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 1
+          },
+          {
+            "type": "Free Kicks",
+            "value": 1
+          },
+          {
+            "type": "Shots on Goal",
+            "value": 1
+          },
+          {
+            "type": "Total passes",
+            "value": 63
+          },
+          {
+            "type": "Total Shots",
+            "value": 1
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 0
+          },
+          {
+            "type": "Fouls",
+            "value": 2
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 0
+          },
+          {
+            "type": "Red Cards",
+            "value": 0
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 0
+          },
+          {
+            "type": "Ball Possession",
+            "value": "39%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "0.54"
+          }
+        ]
+      },
+      {
+        "team": {
+          "id": 9593,
+          "name": "Sabadell",
+          "logo": "https://media.api-sports.io/football/teams/9593.png"
+        },
+        "statistics": [
+          {
+            "type": "Passes accurate",
+            "value": 44
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 0
+          },
+          {
+            "type": "Free Kicks",
+            "value": 2
+          },
+          {
+            "type": "Shots on Goal",
+            "value": 0
+          },
+          {
+            "type": "Total passes",
+            "value": 57
+          },
+          {
+            "type": "Total Shots",
+            "value": 0
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 1
+          },
+          {
+            "type": "Fouls",
+            "value": 1
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 0
+          },
+          {
+            "type": "Red Cards",
+            "value": 0
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 0
+          },
+          {
+            "type": "Ball Possession",
+            "value": "38%"
+          },
+          {
+            "type": "expected_goals",
+            "value": "0"
+          }
+        ]
+      }
+    ],
+    "updated_at": "2026-11-15T20:45:23.733122+03:00"
   }
 }
