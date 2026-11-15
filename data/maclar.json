@@ -1271,11 +1271,11 @@
     "away_id": 22039,
     "home_logo": "https://media.api-sports.io/football/teams/3237.png",
     "away_logo": "https://media.api-sports.io/football/teams/22039.png",
-    "status": "NS",
-    "minute": null,
+    "status": "FT",
+    "minute": 90,
     "goals": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 4
     },
     "venue": "Stade Louis Ganivet"
   },
@@ -1920,26 +1920,6 @@
     "venue": null
   },
   {
-    "id": 1647996,
-    "date": "2026-11-15T16:45:00+03:00",
-    "league_id": 66,
-    "league": "Coupe de France",
-    "country": "Fransa",
-    "home": "Saint-Pauloise",
-    "away": "La Tamponnaise",
-    "home_id": 13748,
-    "away_id": 20573,
-    "home_logo": "https://media.api-sports.io/football/teams/13748.png",
-    "away_logo": "https://media.api-sports.io/football/teams/20573.png",
-    "status": "NS",
-    "minute": null,
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "venue": null
-  },
-  {
     "id": 1647925,
     "date": "2026-11-15T17:00:00+03:00",
     "league_id": 66,
@@ -1971,6 +1951,26 @@
     "away_id": 1063,
     "home_logo": "https://media.api-sports.io/football/teams/9973.png",
     "away_logo": "https://media.api-sports.io/football/teams/1063.png",
+    "status": "NS",
+    "minute": null,
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "venue": null
+  },
+  {
+    "id": 1647996,
+    "date": "2026-11-15T17:45:00+03:00",
+    "league_id": 66,
+    "league": "Coupe de France",
+    "country": "Fransa",
+    "home": "Saint-Pauloise",
+    "away": "La Tamponnaise",
+    "home_id": 13748,
+    "away_id": 20573,
+    "home_logo": "https://media.api-sports.io/football/teams/13748.png",
+    "away_logo": "https://media.api-sports.io/football/teams/20573.png",
     "status": "NS",
     "minute": null,
     "goals": {
