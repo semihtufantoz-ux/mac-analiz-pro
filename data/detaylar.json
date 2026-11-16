@@ -14,7 +14,7 @@
           },
           {
             "type": "Passes accurate",
-            "value": 447
+            "value": 443
           },
           {
             "type": "Shots insidebox",
@@ -50,7 +50,7 @@
           },
           {
             "type": "Total passes",
-            "value": 535
+            "value": 537
           },
           {
             "type": "Total Shots",
@@ -91,7 +91,7 @@
           },
           {
             "type": "Passes accurate",
-            "value": 223
+            "value": 224
           },
           {
             "type": "Shots insidebox",
@@ -127,7 +127,7 @@
           },
           {
             "type": "Total passes",
-            "value": 325
+            "value": 331
           },
           {
             "type": "Total Shots",
@@ -156,7 +156,7 @@
         ]
       }
     ],
-    "updated_at": "2026-11-16T15:19:34.351758+03:00"
+    "updated_at": "2026-11-16T21:08:38.277712+03:00"
   },
   "1570017": {
     "statistics": [
@@ -168,8 +168,12 @@
         },
         "statistics": [
           {
+            "type": "expected_goals",
+            "value": "1.48"
+          },
+          {
             "type": "Passes accurate",
-            "value": 610
+            "value": 614
           },
           {
             "type": "Shots insidebox",
@@ -181,7 +185,7 @@
           },
           {
             "type": "Blocked Shots",
-            "value": 4
+            "value": 5
           },
           {
             "type": "Free Kicks",
@@ -193,7 +197,7 @@
           },
           {
             "type": "Shots off Goal",
-            "value": 4
+            "value": 3
           },
           {
             "type": "Offsides",
@@ -201,7 +205,7 @@
           },
           {
             "type": "Total passes",
-            "value": 690
+            "value": 689
           },
           {
             "type": "Total Shots",
@@ -230,10 +234,6 @@
           {
             "type": "Ball Possession",
             "value": "71%"
-          },
-          {
-            "type": "expected_goals",
-            "value": "1.48"
           }
         ]
       },
@@ -245,8 +245,12 @@
         },
         "statistics": [
           {
+            "type": "expected_goals",
+            "value": "0.48"
+          },
+          {
             "type": "Passes accurate",
-            "value": 160
+            "value": 159
           },
           {
             "type": "Shots insidebox",
@@ -278,7 +282,7 @@
           },
           {
             "type": "Total passes",
-            "value": 241
+            "value": 242
           },
           {
             "type": "Total Shots",
@@ -307,14 +311,10 @@
           {
             "type": "Ball Possession",
             "value": "29%"
-          },
-          {
-            "type": "expected_goals",
-            "value": "0.48"
           }
         ]
       }
     ],
-    "updated_at": "2026-11-16T15:19:34.351758+03:00"
+    "updated_at": "2026-11-16T21:08:38.277712+03:00"
   }
 }

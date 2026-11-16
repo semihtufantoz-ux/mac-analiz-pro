@@ -75,7 +75,7 @@
     "minute": 120,
     "goals": {
       "home": 0,
-      "away": 1
+      "away": 0
     },
     "venue": null
   },
@@ -294,7 +294,7 @@
     "status": "PEN",
     "minute": 120,
     "goals": {
-      "home": 1,
+      "home": 0,
       "away": 0
     },
     "venue": null
@@ -314,7 +314,7 @@
     "status": "PEN",
     "minute": 120,
     "goals": {
-      "home": 3,
+      "home": 2,
       "away": 2
     },
     "venue": null
@@ -354,7 +354,7 @@
     "status": "PEN",
     "minute": 120,
     "goals": {
-      "home": 3,
+      "home": 2,
       "away": 2
     },
     "venue": null
@@ -575,7 +575,7 @@
     "minute": 120,
     "goals": {
       "home": 2,
-      "away": 3
+      "away": 2
     },
     "venue": null
   },
@@ -654,7 +654,7 @@
     "status": "PEN",
     "minute": 120,
     "goals": {
-      "home": 1,
+      "home": 0,
       "away": 0
     },
     "venue": null
