@@ -1,322 +1,4 @@
 {
-  "1647956": {
-    "statistics": [
-      {
-        "team": {
-          "id": 3043,
-          "name": "Croix Football IC",
-          "logo": "https://media.api-sports.io/football/teams/3043.png"
-        },
-        "statistics": [
-          {
-            "type": "Shots on Goal",
-            "value": null
-          },
-          {
-            "type": "Shots off Goal",
-            "value": null
-          },
-          {
-            "type": "Total Shots",
-            "value": null
-          },
-          {
-            "type": "Blocked Shots",
-            "value": null
-          },
-          {
-            "type": "Shots insidebox",
-            "value": null
-          },
-          {
-            "type": "Shots outsidebox",
-            "value": null
-          },
-          {
-            "type": "Fouls",
-            "value": null
-          },
-          {
-            "type": "Corner Kicks",
-            "value": null
-          },
-          {
-            "type": "Offsides",
-            "value": null
-          },
-          {
-            "type": "Ball Possession",
-            "value": null
-          },
-          {
-            "type": "Yellow Cards",
-            "value": null
-          },
-          {
-            "type": "Red Cards",
-            "value": null
-          },
-          {
-            "type": "Goalkeeper Saves",
-            "value": null
-          },
-          {
-            "type": "Total passes",
-            "value": null
-          },
-          {
-            "type": "Passes accurate",
-            "value": null
-          },
-          {
-            "type": "Passes %",
-            "value": null
-          },
-          {
-            "type": "expected_goals",
-            "value": null
-          },
-          {
-            "type": "goals_prevented",
-            "value": null
-          }
-        ]
-      },
-      {
-        "team": {
-          "id": 3123,
-          "name": "Thaon",
-          "logo": "https://media.api-sports.io/football/teams/3123.png"
-        },
-        "statistics": [
-          {
-            "type": "Shots on Goal",
-            "value": null
-          },
-          {
-            "type": "Shots off Goal",
-            "value": null
-          },
-          {
-            "type": "Total Shots",
-            "value": null
-          },
-          {
-            "type": "Blocked Shots",
-            "value": null
-          },
-          {
-            "type": "Shots insidebox",
-            "value": null
-          },
-          {
-            "type": "Shots outsidebox",
-            "value": null
-          },
-          {
-            "type": "Fouls",
-            "value": null
-          },
-          {
-            "type": "Corner Kicks",
-            "value": null
-          },
-          {
-            "type": "Offsides",
-            "value": null
-          },
-          {
-            "type": "Ball Possession",
-            "value": null
-          },
-          {
-            "type": "Yellow Cards",
-            "value": null
-          },
-          {
-            "type": "Red Cards",
-            "value": null
-          },
-          {
-            "type": "Goalkeeper Saves",
-            "value": null
-          },
-          {
-            "type": "Total passes",
-            "value": null
-          },
-          {
-            "type": "Passes accurate",
-            "value": null
-          },
-          {
-            "type": "Passes %",
-            "value": null
-          },
-          {
-            "type": "expected_goals",
-            "value": null
-          },
-          {
-            "type": "goals_prevented",
-            "value": null
-          }
-        ]
-      }
-    ],
-    "updated_at": "2026-11-14T20:44:34.125665+03:00"
-  },
-  "1570021": {
-    "statistics": [
-      {
-        "team": {
-          "id": 718,
-          "name": "Oviedo",
-          "logo": "https://media.api-sports.io/football/teams/718.png"
-        },
-        "statistics": [
-          {
-            "type": "Passes accurate",
-            "value": 368
-          },
-          {
-            "type": "Shots insidebox",
-            "value": 6
-          },
-          {
-            "type": "Shots outsidebox",
-            "value": 11
-          },
-          {
-            "type": "Blocked Shots",
-            "value": 4
-          },
-          {
-            "type": "Free Kicks",
-            "value": 10
-          },
-          {
-            "type": "Shots on Goal",
-            "value": 5
-          },
-          {
-            "type": "Goalkeeper Saves",
-            "value": 3
-          },
-          {
-            "type": "Shots off Goal",
-            "value": 8
-          },
-          {
-            "type": "Total passes",
-            "value": 423
-          },
-          {
-            "type": "Total Shots",
-            "value": 17
-          },
-          {
-            "type": "Yellow Cards",
-            "value": 2
-          },
-          {
-            "type": "Corner Kicks",
-            "value": 6
-          },
-          {
-            "type": "Fouls",
-            "value": 13
-          },
-          {
-            "type": "Red Cards",
-            "value": 0
-          },
-          {
-            "type": "Ball Possession",
-            "value": "50%"
-          },
-          {
-            "type": "expected_goals",
-            "value": "0.96"
-          }
-        ]
-      },
-      {
-        "team": {
-          "id": 547,
-          "name": "Girona",
-          "logo": "https://media.api-sports.io/football/teams/547.png"
-        },
-        "statistics": [
-          {
-            "type": "Passes accurate",
-            "value": 365
-          },
-          {
-            "type": "Shots insidebox",
-            "value": 14
-          },
-          {
-            "type": "Shots outsidebox",
-            "value": 3
-          },
-          {
-            "type": "Blocked Shots",
-            "value": 6
-          },
-          {
-            "type": "Free Kicks",
-            "value": 13
-          },
-          {
-            "type": "Shots on Goal",
-            "value": 5
-          },
-          {
-            "type": "Goalkeeper Saves",
-            "value": 4
-          },
-          {
-            "type": "Shots off Goal",
-            "value": 6
-          },
-          {
-            "type": "Total passes",
-            "value": 421
-          },
-          {
-            "type": "Total Shots",
-            "value": 17
-          },
-          {
-            "type": "Yellow Cards",
-            "value": 2
-          },
-          {
-            "type": "Corner Kicks",
-            "value": 6
-          },
-          {
-            "type": "Fouls",
-            "value": 11
-          },
-          {
-            "type": "Red Cards",
-            "value": 0
-          },
-          {
-            "type": "Ball Possession",
-            "value": "50%"
-          },
-          {
-            "type": "expected_goals",
-            "value": "2.16"
-          }
-        ]
-      }
-    ],
-    "updated_at": "2026-11-15T14:49:11.682429+03:00"
-  },
   "1570016": {
     "statistics": [
       {
@@ -328,50 +10,66 @@
         "statistics": [
           {
             "type": "expected_goals",
-            "value": "0.03"
+            "value": "1.16"
           },
           {
             "type": "Passes accurate",
-            "value": 55
+            "value": 447
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 7
           },
           {
             "type": "Shots outsidebox",
-            "value": 1
+            "value": 11
           },
           {
-            "type": "Free Kicks",
+            "type": "Blocked Shots",
             "value": 2
           },
           {
-            "type": "Shots off Goal",
-            "value": 1
-          },
-          {
-            "type": "Offsides",
-            "value": 1
-          },
-          {
-            "type": "Total passes",
-            "value": 70
-          },
-          {
-            "type": "Total Shots",
-            "value": 1
-          },
-          {
-            "type": "Fouls",
-            "value": 0
-          },
-          {
-            "type": "Yellow Cards",
-            "value": 0
-          },
-          {
-            "type": "Red Cards",
-            "value": 0
+            "type": "Free Kicks",
+            "value": 13
           },
           {
             "type": "Shots on Goal",
+            "value": 9
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 4
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 7
+          },
+          {
+            "type": "Offsides",
+            "value": 4
+          },
+          {
+            "type": "Total passes",
+            "value": 535
+          },
+          {
+            "type": "Total Shots",
+            "value": 18
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 1
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 4
+          },
+          {
+            "type": "Fouls",
+            "value": 15
+          },
+          {
+            "type": "Red Cards",
             "value": 0
           },
           {
@@ -389,50 +87,66 @@
         "statistics": [
           {
             "type": "expected_goals",
-            "value": "0.02"
+            "value": "0.55"
           },
           {
             "type": "Passes accurate",
-            "value": 26
+            "value": 223
+          },
+          {
+            "type": "Shots insidebox",
+            "value": 3
           },
           {
             "type": "Shots outsidebox",
-            "value": 1
+            "value": 5
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 0
           },
           {
             "type": "Free Kicks",
-            "value": 0
-          },
-          {
-            "type": "Shots off Goal",
-            "value": 1
-          },
-          {
-            "type": "Offsides",
-            "value": 0
-          },
-          {
-            "type": "Total passes",
-            "value": 40
-          },
-          {
-            "type": "Total Shots",
-            "value": 1
-          },
-          {
-            "type": "Fouls",
-            "value": 1
-          },
-          {
-            "type": "Yellow Cards",
-            "value": 0
-          },
-          {
-            "type": "Red Cards",
-            "value": 0
+            "value": 14
           },
           {
             "type": "Shots on Goal",
+            "value": 5
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 8
+          },
+          {
+            "type": "Shots off Goal",
+            "value": 3
+          },
+          {
+            "type": "Offsides",
+            "value": 1
+          },
+          {
+            "type": "Total passes",
+            "value": 325
+          },
+          {
+            "type": "Total Shots",
+            "value": 8
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 2
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 2
+          },
+          {
+            "type": "Fouls",
+            "value": 15
+          },
+          {
+            "type": "Red Cards",
             "value": 0
           },
           {
@@ -442,7 +156,7 @@
         ]
       }
     ],
-    "updated_at": "2026-11-15T20:45:23.733122+03:00"
+    "updated_at": "2026-11-16T09:27:19.171394+03:00"
   },
   "1570017": {
     "statistics": [
@@ -455,38 +169,54 @@
         "statistics": [
           {
             "type": "Passes accurate",
-            "value": 48
+            "value": 610
           },
           {
             "type": "Shots insidebox",
-            "value": 1
+            "value": 9
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 5
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 4
           },
           {
             "type": "Free Kicks",
-            "value": 1
+            "value": 12
           },
           {
             "type": "Shots on Goal",
-            "value": 1
+            "value": 6
           },
           {
-            "type": "Total passes",
-            "value": 63
+            "type": "Shots off Goal",
+            "value": 4
           },
           {
-            "type": "Total Shots",
-            "value": 1
-          },
-          {
-            "type": "Corner Kicks",
-            "value": 0
-          },
-          {
-            "type": "Fouls",
+            "type": "Offsides",
             "value": 2
           },
           {
+            "type": "Total passes",
+            "value": 690
+          },
+          {
+            "type": "Total Shots",
+            "value": 14
+          },
+          {
             "type": "Yellow Cards",
+            "value": 2
+          },
+          {
+            "type": "Corner Kicks",
+            "value": 1
+          },
+          {
+            "type": "Goalkeeper Saves",
             "value": 0
           },
           {
@@ -494,16 +224,16 @@
             "value": 0
           },
           {
-            "type": "Shots off Goal",
-            "value": 0
+            "type": "Fouls",
+            "value": 9
           },
           {
             "type": "Ball Possession",
-            "value": "39%"
+            "value": "71%"
           },
           {
             "type": "expected_goals",
-            "value": "0.54"
+            "value": "1.48"
           }
         ]
       },
@@ -516,59 +246,75 @@
         "statistics": [
           {
             "type": "Passes accurate",
-            "value": 44
+            "value": 160
           },
           {
             "type": "Shots insidebox",
-            "value": 0
+            "value": 3
+          },
+          {
+            "type": "Shots outsidebox",
+            "value": 2
+          },
+          {
+            "type": "Blocked Shots",
+            "value": 2
           },
           {
             "type": "Free Kicks",
-            "value": 2
+            "value": 9
           },
           {
             "type": "Shots on Goal",
             "value": 0
           },
           {
+            "type": "Shots off Goal",
+            "value": 3
+          },
+          {
+            "type": "Offsides",
+            "value": 2
+          },
+          {
             "type": "Total passes",
-            "value": 57
+            "value": 241
           },
           {
             "type": "Total Shots",
-            "value": 0
+            "value": 5
+          },
+          {
+            "type": "Yellow Cards",
+            "value": 2
           },
           {
             "type": "Corner Kicks",
+            "value": 2
+          },
+          {
+            "type": "Goalkeeper Saves",
+            "value": 4
+          },
+          {
+            "type": "Red Cards",
             "value": 1
           },
           {
             "type": "Fouls",
-            "value": 1
-          },
-          {
-            "type": "Yellow Cards",
-            "value": 0
-          },
-          {
-            "type": "Red Cards",
-            "value": 0
-          },
-          {
-            "type": "Shots off Goal",
-            "value": 0
+            "value": 12
           },
           {
             "type": "Ball Possession",
-            "value": "38%"
+            "value": "29%"
           },
           {
             "type": "expected_goals",
-            "value": "0"
+            "value": "0.48"
           }
         ]
       }
     ],
-    "updated_at": "2026-11-15T20:45:23.733122+03:00"
+    "updated_at": "2026-11-16T09:27:19.171394+03:00"
   }
 }
